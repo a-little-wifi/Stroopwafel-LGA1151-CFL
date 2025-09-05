@@ -2,9 +2,56 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 4bc771b8-eb19-46d0-8798-27231a7c6e83)
+	(uuid "4bc771b8-eb19-46d0-8798-27231a7c6e83")
 	(paper "A4")
+	(title_block
+		(title "Stroopwafel LGA1151 CFL")
+		(company "WifiCable")
+		(comment 3 "stroopwafel for your coffee (lake)")
+	)
 	(lib_symbols)
+	(sheet
+		(at 199.39 73.66)
+		(size 57.15 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "deeadc73-acb4-40d7-9415-61f11f304ecd")
+		(property "Sheetname" "CPU_Memory"
+			(at 199.39 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPU_Memory.kicad_sch"
+			(at 199.39 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
