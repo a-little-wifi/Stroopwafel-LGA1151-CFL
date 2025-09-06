@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "1ef2cd53-8736-4d0d-86a5-35a878bcbb18")
+	(uuid "1c077c58-317b-4df2-81df-15ce48e6737e")
 	(paper "A4")
 	(title_block
 		(title "CPU Clock, CFG, VID & JTAG")

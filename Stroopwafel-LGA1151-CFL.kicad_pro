@@ -636,6 +636,10 @@
     [
       "5036d382-d60b-4069-a42a-4bbea2c68172",
       "CPU_VCC"
+    ],
+    [
+      "e4d810de-49e6-45ae-bbfb-8cff0175b3e3",
+      "CPU_Misc"
     ]
   ],
   "text_variables": {}
