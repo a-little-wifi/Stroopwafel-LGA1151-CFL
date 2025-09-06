@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "a1928bcd-6f95-4be6-8897-37c0231adda1")
+	(uuid "d30c4ed8-40af-4cc8-95a9-d292acfd58b0")
 	(paper "A3")
 	(lib_symbols
 		(symbol "A-my-stuff:Intel_CFL_1151"
@@ -1368,6 +1368,1122 @@
 						)
 					)
 				)
+				(pin input line
+					(at 39.37 90.17 180)
+					(length 5.08)
+					(name "DDR0_CKP_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 87.63 180)
+					(length 5.08)
+					(name "DDR0_CKN_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 85.09 180)
+					(length 5.08)
+					(name "DDR0_CKP_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 82.55 180)
+					(length 5.08)
+					(name "DDR0_CKN_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AY17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 80.01 180)
+					(length 5.08)
+					(name "DDR0_CKP_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 77.47 180)
+					(length 5.08)
+					(name "DDR0_CKN_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 74.93 180)
+					(length 5.08)
+					(name "DDR0_CKP_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 72.39 180)
+					(length 5.08)
+					(name "DDR0_CKN_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 67.31 180)
+					(length 5.08)
+					(name "DDR0_CKE_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AY24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 64.77 180)
+					(length 5.08)
+					(name "DDR0_CKE_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 62.23 180)
+					(length 5.08)
+					(name "DDR0_CKE_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 59.69 180)
+					(length 5.08)
+					(name "DDR0_CKE_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 54.61 180)
+					(length 5.08)
+					(name "DDR0_CS#_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 52.07 180)
+					(length 5.08)
+					(name "DDR0_CS#_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 49.53 180)
+					(length 5.08)
+					(name "DDR0_CS#_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 46.99 180)
+					(length 5.08)
+					(name "DDR0_CS#_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 41.91 180)
+					(length 5.08)
+					(name "DDR0_ODT_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 39.37 180)
+					(length 5.08)
+					(name "DDR0_ODT_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 36.83 180)
+					(length 5.08)
+					(name "DDR0_ODT_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 34.29 180)
+					(length 5.08)
+					(name "DDR0_ODT_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AY10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 29.21 180)
+					(length 5.08)
+					(name "DDR0_BA_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AY13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 26.67 180)
+					(length 5.08)
+					(name "DDR0_BA_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 24.13 180)
+					(length 5.08)
+					(name "DDR0_BG_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 19.05 180)
+					(length 5.08)
+					(name "DDR0_MA_16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 16.51 180)
+					(length 5.08)
+					(name "DDR0_MA_14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 13.97 180)
+					(length 5.08)
+					(name "DDR0_MA_15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AY11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 8.89 180)
+					(length 5.08)
+					(name "DDR0_MA_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 6.35 180)
+					(length 5.08)
+					(name "DDR0_MA_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 3.81 180)
+					(length 5.08)
+					(name "DDR0_MA_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 1.27 180)
+					(length 5.08)
+					(name "DDR0_MA_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -1.27 180)
+					(length 5.08)
+					(name "DDR0_MA_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -3.81 180)
+					(length 5.08)
+					(name "DDR0_MA_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -6.35 180)
+					(length 5.08)
+					(name "DDR0_MA_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -8.89 180)
+					(length 5.08)
+					(name "DDR0_MA_7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -11.43 180)
+					(length 5.08)
+					(name "DDR0_MA_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -13.97 180)
+					(length 5.08)
+					(name "DDR0_MA_9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -16.51 180)
+					(length 5.08)
+					(name "DDR0_MA_10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AY14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -19.05 180)
+					(length 5.08)
+					(name "DDR0_MA_11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -21.59 180)
+					(length 5.08)
+					(name "DDR0_MA_12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -24.13 180)
+					(length 5.08)
+					(name "DDR0_MA_13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -26.67 180)
+					(length 5.08)
+					(name "DDR0_BG_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -29.21 180)
+					(length 5.08)
+					(name "DDR0_ACT#"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -34.29 180)
+					(length 5.08)
+					(name "DDR0_PAR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AY15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -36.83 180)
+					(length 5.08)
+					(name "DDR0_ALERT#"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -41.91 180)
+					(length 5.08)
+					(name "DDR0_DQSP_0/DDR0_DQSP_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AF38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -44.45 180)
+					(length 5.08)
+					(name "DDR0_DQSN_0/DDR0_DQSN_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AF39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -48.26 180)
+					(length 5.08)
+					(name "DDR0_DQSP_1/DDR0_DQSP_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AK38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -50.8 180)
+					(length 5.08)
+					(name "DDR0_DQSN_1/DDR0_DQSN_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AK39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -54.61 180)
+					(length 5.08)
+					(name "DDR0_DQSP_2/DDR0_DQSP_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -57.15 180)
+					(length 5.08)
+					(name "DDR0_DQSN_2/DDR0_DQSN_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -60.96 180)
+					(length 5.08)
+					(name "DDR0_DQSP_3/DDR0_DQSP_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -63.5 180)
+					(length 5.08)
+					(name "DDR0_DQSN_3/DDR0_DQSN_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -67.31 180)
+					(length 5.08)
+					(name "DDR0_DQSP_4/DDR1_DQSP_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -69.85 180)
+					(length 5.08)
+					(name "DDR0_DQSN_4/DDR1_DQSN_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -73.66 180)
+					(length 5.08)
+					(name "DDR0_DQSP_5/DDR1_DQSP_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -76.2 180)
+					(length 5.08)
+					(name "DDR0_DQSN_5/DDR1_DQSN_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -80.01 180)
+					(length 5.08)
+					(name "DDR0_DQSP_6/DDR1_DQSP_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -82.55 180)
+					(length 5.08)
+					(name "DDR0_DQSN_6/DDR1_DQSN_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -86.36 180)
+					(length 5.08)
+					(name "DDR0_DQSP_7/DDR1_DQSP_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AJ2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -88.9 180)
+					(length 5.08)
+					(name "DDR0_DQSN_7/DDR1_DQSN_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AJ3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -92.71 180)
+					(length 5.08)
+					(name "DDR0_DQSP_8/DDR0_DQSP_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 39.37 -95.25 180)
+					(length 5.08)
+					(name "DDR0_DQSN_8/DDR0_DQSN_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
 			(symbol "Intel_CFL_1151_2_1"
 				(rectangle
@@ -1382,583 +2498,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 90.17 0)
-					(length 5.08)
-					(name "DDR0_DQ_0/DDR0_DQ_0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AE38"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 87.63 0)
-					(length 5.08)
-					(name "DDR0_DQ_1/DDR0_DQ_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AE37"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 85.09 0)
-					(length 5.08)
-					(name "DDR0_DQ_2/DDR0_DQ_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AG38"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 82.55 0)
-					(length 5.08)
-					(name "DDR0_DQ_3/DDR0_DQ_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AG37"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 80.01 0)
-					(length 5.08)
-					(name "DDR0_DQ_4/DDR0_DQ_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AE39"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 77.47 0)
-					(length 5.08)
-					(name "DDR0_DQ_5/DDR0_DQ_5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AE40"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 74.93 0)
-					(length 5.08)
-					(name "DDR0_DQ_6/DDR0_DQ_6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AG39"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 72.39 0)
-					(length 5.08)
-					(name "DDR0_DQ_7/DDR0_DQ_7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AG40"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 69.85 0)
-					(length 5.08)
-					(name "DDR0_DQ_8/DDR0_DQ_8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AJ38"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 67.31 0)
-					(length 5.08)
-					(name "DDR0_DQ_9/DDR0_DQ_9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AJ37"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 64.77 0)
-					(length 5.08)
-					(name "DDR0_DQ_10/DDR0_DQ_10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AL38"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 62.23 0)
-					(length 5.08)
-					(name "DDR0_DQ_11/DDR0_DQ_11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AL37"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 59.69 0)
-					(length 5.08)
-					(name "DDR0_DQ_12/DDR0_DQ_12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AJ40"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 57.15 0)
-					(length 5.08)
-					(name "DDR0_DQ_13/DDR0_DQ_13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AJ39"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 54.61 0)
-					(length 5.08)
-					(name "DDR0_DQ_14/DDR0_DQ_14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AL39"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 52.07 0)
-					(length 5.08)
-					(name "DDR0_DQ_15/DDR0_DQ_15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AL40"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 48.26 0)
-					(length 5.08)
-					(name "DDR0_DQ_16/DDR0_DQ_32"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AN38"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 45.72 0)
-					(length 5.08)
-					(name "DDR0_DQ_17/DDR0_DQ_33"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AN40"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 43.18 0)
-					(length 5.08)
-					(name "DDR0_DQ_18/DDR0_DQ_34"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AR38"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 40.64 0)
-					(length 5.08)
-					(name "DDR0_DQ_19/DDR0_DQ_35"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AR37"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 38.1 0)
-					(length 5.08)
-					(name "DDR0_DQ_20/DDR0_DQ_36"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AN39"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 35.56 0)
-					(length 5.08)
-					(name "DDR0_DQ_21/DDR0_DQ_37"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AN37"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 33.02 0)
-					(length 5.08)
-					(name "DDR0_DQ_22/DDR0_DQ_38"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AR39"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 30.48 0)
-					(length 5.08)
-					(name "DDR0_DQ_23/DDR0_DQ_39"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AR40"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 27.94 0)
-					(length 5.08)
-					(name "DDR0_DQ_24/DDR0_DQ_40"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AW37"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 25.4 0)
-					(length 5.08)
-					(name "DDR0_DQ_25/DDR0_DQ_41"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AU38"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 22.86 0)
-					(length 5.08)
-					(name "DDR0_DQ_26/DDR0_DQ_42"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AV35"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 20.32 0)
-					(length 5.08)
-					(name "DDR0_DQ_27/DDR0_DQ_43"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AW35"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 17.78 0)
-					(length 5.08)
-					(name "DDR0_DQ_28/DDR0_DQ_44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AU37"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 15.24 0)
-					(length 5.08)
-					(name "DDR0_DQ_29/DDR0_DQ_45"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AV37"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 12.7 0)
-					(length 5.08)
-					(name "DDR0_DQ_30/DDR0_DQ_46"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AT35"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 10.16 0)
-					(length 5.08)
-					(name "DDR0_DQ_31/DDR0_DQ_47"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "AU35"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -40.64 6.35 0)
+					(at -74.93 0 0)
 					(length 5.08)
 					(name "DDR0_DQ_32/DDR1_DQ_0"
 						(effects
@@ -1976,7 +2516,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 3.81 0)
+					(at -74.93 -2.54 0)
 					(length 5.08)
 					(name "DDR0_DQ_33/DDR1_DQ_1"
 						(effects
@@ -1994,7 +2534,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 1.27 0)
+					(at -74.93 -5.08 0)
 					(length 5.08)
 					(name "DDR0_DQ_34/DDR1_DQ_2"
 						(effects
@@ -2012,7 +2552,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -1.27 0)
+					(at -74.93 -7.62 0)
 					(length 5.08)
 					(name "DDR0_DQ_35/DDR1_DQ_3"
 						(effects
@@ -2030,7 +2570,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -3.81 0)
+					(at -74.93 -10.16 0)
 					(length 5.08)
 					(name "DDR0_DQ_36/DDR1_DQ_4"
 						(effects
@@ -2048,7 +2588,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -6.35 0)
+					(at -74.93 -12.7 0)
 					(length 5.08)
 					(name "DDR0_DQ_37/DDR1_DQ_5"
 						(effects
@@ -2066,7 +2606,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -8.89 0)
+					(at -74.93 -15.24 0)
 					(length 5.08)
 					(name "DDR0_DQ_38/DDR1_DQ_6"
 						(effects
@@ -2084,7 +2624,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -11.43 0)
+					(at -74.93 -17.78 0)
 					(length 5.08)
 					(name "DDR0_DQ_39/DDR1_DQ_7"
 						(effects
@@ -2102,7 +2642,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -13.97 0)
+					(at -74.93 -20.32 0)
 					(length 5.08)
 					(name "DDR0_DQ_40/DDR1_DQ_8"
 						(effects
@@ -2120,7 +2660,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -16.51 0)
+					(at -74.93 -22.86 0)
 					(length 5.08)
 					(name "DDR0_DQ_41/DDR1_DQ_9"
 						(effects
@@ -2138,7 +2678,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -19.05 0)
+					(at -74.93 -25.4 0)
 					(length 5.08)
 					(name "DDR0_DQ_42/DDR1_DQ_10"
 						(effects
@@ -2156,7 +2696,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -21.59 0)
+					(at -74.93 -27.94 0)
 					(length 5.08)
 					(name "DDR0_DQ_43/DDR1_DQ_11"
 						(effects
@@ -2174,7 +2714,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -24.13 0)
+					(at -74.93 -30.48 0)
 					(length 5.08)
 					(name "DDR0_DQ_44/DDR1_DQ_12"
 						(effects
@@ -2192,7 +2732,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -26.67 0)
+					(at -74.93 -33.02 0)
 					(length 5.08)
 					(name "DDR0_DQ_45/DDR1_DQ_13"
 						(effects
@@ -2210,7 +2750,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -29.21 0)
+					(at -74.93 -35.56 0)
 					(length 5.08)
 					(name "DDR0_DQ_46/DDR1_DQ_14"
 						(effects
@@ -2228,7 +2768,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -31.75 0)
+					(at -74.93 -38.1 0)
 					(length 5.08)
 					(name "DDR0_DQ_47/DDR1_DQ_15"
 						(effects
@@ -2246,7 +2786,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -35.56 0)
+					(at -74.93 -41.91 0)
 					(length 5.08)
 					(name "DDR0_DQ_48/DDR1_DQ_32"
 						(effects
@@ -2264,7 +2804,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -38.1 0)
+					(at -74.93 -44.45 0)
 					(length 5.08)
 					(name "DDR0_DQ_49/DDR1_DQ_33"
 						(effects
@@ -2282,7 +2822,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -40.64 0)
+					(at -74.93 -46.99 0)
 					(length 5.08)
 					(name "DDR0_DQ_50/DDR1_DQ_34"
 						(effects
@@ -2300,7 +2840,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -43.18 0)
+					(at -74.93 -49.53 0)
 					(length 5.08)
 					(name "DDR0_DQ_51/DDR1_DQ_35"
 						(effects
@@ -2318,7 +2858,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -45.72 0)
+					(at -74.93 -52.07 0)
 					(length 5.08)
 					(name "DDR0_DQ_52/DDR1_DQ_36"
 						(effects
@@ -2336,7 +2876,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -48.26 0)
+					(at -74.93 -54.61 0)
 					(length 5.08)
 					(name "DDR0_DQ_53/DDR1_DQ_37"
 						(effects
@@ -2354,7 +2894,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -50.8 0)
+					(at -74.93 -57.15 0)
 					(length 5.08)
 					(name "DDR0_DQ_54/DDR1_DQ_38"
 						(effects
@@ -2372,7 +2912,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -53.34 0)
+					(at -74.93 -59.69 0)
 					(length 5.08)
 					(name "DDR0_DQ_55/DDR1_DQ_39"
 						(effects
@@ -2390,7 +2930,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -55.88 0)
+					(at -74.93 -62.23 0)
 					(length 5.08)
 					(name "DDR0_DQ_56/DDR1_DQ_40"
 						(effects
@@ -2408,7 +2948,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -58.42 0)
+					(at -74.93 -64.77 0)
 					(length 5.08)
 					(name "DDR0_DQ_57/DDR1_DQ_41"
 						(effects
@@ -2426,7 +2966,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -60.96 0)
+					(at -74.93 -67.31 0)
 					(length 5.08)
 					(name "DDR0_DQ_58/DDR1_DQ_42"
 						(effects
@@ -2444,7 +2984,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -63.5 0)
+					(at -74.93 -69.85 0)
 					(length 5.08)
 					(name "DDR0_DQ_59/DDR1_DQ_43"
 						(effects
@@ -2462,7 +3002,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -66.04 0)
+					(at -74.93 -72.39 0)
 					(length 5.08)
 					(name "DDR0_DQ_60/DDR1_DQ_44"
 						(effects
@@ -2480,7 +3020,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -68.58 0)
+					(at -74.93 -74.93 0)
 					(length 5.08)
 					(name "DDR0_DQ_61/DDR1_DQ_45"
 						(effects
@@ -2498,7 +3038,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -71.12 0)
+					(at -74.93 -77.47 0)
 					(length 5.08)
 					(name "DDR0_DQ_62/DDR1_DQ_46"
 						(effects
@@ -2516,7 +3056,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -73.66 0)
+					(at -74.93 -80.01 0)
 					(length 5.08)
 					(name "DDR0_DQ_63/DDR1_DQ_47"
 						(effects
@@ -2534,7 +3074,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -77.47 0)
+					(at -74.93 -83.82 0)
 					(length 5.08)
 					(name "DDR0_ECC_0"
 						(effects
@@ -2552,7 +3092,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -80.01 0)
+					(at -74.93 -86.36 0)
 					(length 5.08)
 					(name "DDR0_ECC_1"
 						(effects
@@ -2570,7 +3110,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -82.55 0)
+					(at -74.93 -88.9 0)
 					(length 5.08)
 					(name "DDR0_ECC_2"
 						(effects
@@ -2588,7 +3128,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -85.09 0)
+					(at -74.93 -91.44 0)
 					(length 5.08)
 					(name "DDR0_ECC_3"
 						(effects
@@ -2606,7 +3146,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -87.63 0)
+					(at -74.93 -93.98 0)
 					(length 5.08)
 					(name "DDR0_ECC_4"
 						(effects
@@ -2624,7 +3164,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -90.17 0)
+					(at -74.93 -96.52 0)
 					(length 5.08)
 					(name "DDR0_ECC_5"
 						(effects
@@ -2642,7 +3182,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -92.71 0)
+					(at -74.93 -99.06 0)
 					(length 5.08)
 					(name "DDR0_ECC_6"
 						(effects
@@ -2660,7 +3200,7 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -95.25 0)
+					(at -74.93 -101.6 0)
 					(length 5.08)
 					(name "DDR0_ECC_7"
 						(effects
@@ -2670,6 +3210,1698 @@
 						)
 					)
 					(number "AY31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 90.17 0)
+					(length 5.08)
+					(name "DDR1_DQ_0/DDR0_DQ_16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AD34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 87.63 0)
+					(length 5.08)
+					(name "DDR1_DQ_1/DDR0_DQ_17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AD35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 85.09 0)
+					(length 5.08)
+					(name "DDR1_DQ_2/DDR0_DQ_18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AG35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 82.55 0)
+					(length 5.08)
+					(name "DDR1_DQ_3/DDR0_DQ_19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AH35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 80.01 0)
+					(length 5.08)
+					(name "DDR1_DQ_4/DDR0_DQ_20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AE35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 77.47 0)
+					(length 5.08)
+					(name "DDR1_DQ_5/DDR0_DQ_21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AE34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 74.93 0)
+					(length 5.08)
+					(name "DDR1_DQ_6/DDR0_DQ_22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AG34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 72.39 0)
+					(length 5.08)
+					(name "DDR1_DQ_7/DDR0_DQ_23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AH34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 69.85 0)
+					(length 5.08)
+					(name "DDR1_DQ_8/DDR0_DQ_24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AK35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 67.31 0)
+					(length 5.08)
+					(name "DDR1_DQ_9/DDR0_DQ_25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 64.77 0)
+					(length 5.08)
+					(name "DDR1_DQ_10/DDR0_DQ_26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AK32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 62.23 0)
+					(length 5.08)
+					(name "DDR1_DQ_11/DDR0_DQ_27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 59.69 0)
+					(length 5.08)
+					(name "DDR1_DQ_12/DDR0_DQ_28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AK34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 57.15 0)
+					(length 5.08)
+					(name "DDR1_DQ_13/DDR0_DQ_29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 54.61 0)
+					(length 5.08)
+					(name "DDR1_DQ_14/DDR0_DQ_30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AK31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 52.07 0)
+					(length 5.08)
+					(name "DDR1_DQ_15/DDR0_DQ_31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 48.26 0)
+					(length 5.08)
+					(name "DDR1_DQ_16/DDR0_DQ_48"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 45.72 0)
+					(length 5.08)
+					(name "DDR1_DQ_17/DDR0_DQ_49"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 43.18 0)
+					(length 5.08)
+					(name "DDR1_DQ_18/DDR0_DQ_50"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 40.64 0)
+					(length 5.08)
+					(name "DDR1_DQ_19/DDR0_DQ_51"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 38.1 0)
+					(length 5.08)
+					(name "DDR1_DQ_20/DDR0_DQ_52"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 35.56 0)
+					(length 5.08)
+					(name "DDR1_DQ_21/DDR0_DQ_53"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 33.02 0)
+					(length 5.08)
+					(name "DDR1_DQ_22/DDR0_DQ_54"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 30.48 0)
+					(length 5.08)
+					(name "DDR1_DQ_23/DDR0_DQ_55"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 27.94 0)
+					(length 5.08)
+					(name "DDR1_DQ_24/DDR0_DQ_56"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 25.4 0)
+					(length 5.08)
+					(name "DDR1_DQ_25/DDR0_DQ_57"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AM29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 22.86 0)
+					(length 5.08)
+					(name "DDR1_DQ_26/DDR0_DQ_58"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 20.32 0)
+					(length 5.08)
+					(name "DDR1_DQ_27/DDR0_DQ_59"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AR29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 17.78 0)
+					(length 5.08)
+					(name "DDR1_DQ_28/DDR0_DQ_60"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AM28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 15.24 0)
+					(length 5.08)
+					(name "DDR1_DQ_29/DDR0_DQ_61"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 12.7 0)
+					(length 5.08)
+					(name "DDR1_DQ_30/DDR0_DQ_62"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AR28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -40.64 10.16 0)
+					(length 5.08)
+					(name "DDR1_DQ_31/DDR0_DQ_63"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 87.63 180)
+					(length 5.08)
+					(name "DDR0_CKP_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 85.09 180)
+					(length 5.08)
+					(name "DDR0_CKN_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 82.55 180)
+					(length 5.08)
+					(name "DDR0_CKP_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 80.01 180)
+					(length 5.08)
+					(name "DDR0_CKN_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AY17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 77.47 180)
+					(length 5.08)
+					(name "DDR0_CKP_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 74.93 180)
+					(length 5.08)
+					(name "DDR0_CKN_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 72.39 180)
+					(length 5.08)
+					(name "DDR0_CKP_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 69.85 180)
+					(length 5.08)
+					(name "DDR0_CKN_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 64.77 180)
+					(length 5.08)
+					(name "DDR0_CKE_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AY24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 62.23 180)
+					(length 5.08)
+					(name "DDR0_CKE_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 59.69 180)
+					(length 5.08)
+					(name "DDR0_CKE_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 57.15 180)
+					(length 5.08)
+					(name "DDR0_CKE_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 52.07 180)
+					(length 5.08)
+					(name "DDR0_CS#_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 49.53 180)
+					(length 5.08)
+					(name "DDR0_CS#_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 46.99 180)
+					(length 5.08)
+					(name "DDR0_CS#_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 44.45 180)
+					(length 5.08)
+					(name "DDR0_CS#_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 39.37 180)
+					(length 5.08)
+					(name "DDR0_ODT_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 36.83 180)
+					(length 5.08)
+					(name "DDR0_ODT_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 34.29 180)
+					(length 5.08)
+					(name "DDR0_ODT_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 31.75 180)
+					(length 5.08)
+					(name "DDR0_ODT_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AY10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 26.67 180)
+					(length 5.08)
+					(name "DDR0_BA_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AY13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 24.13 180)
+					(length 5.08)
+					(name "DDR0_BA_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 21.59 180)
+					(length 5.08)
+					(name "DDR0_BG_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 16.51 180)
+					(length 5.08)
+					(name "DDR0_MA_16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 13.97 180)
+					(length 5.08)
+					(name "DDR0_MA_14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 11.43 180)
+					(length 5.08)
+					(name "DDR0_MA_15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AY11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 6.35 180)
+					(length 5.08)
+					(name "DDR0_MA_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 3.81 180)
+					(length 5.08)
+					(name "DDR0_MA_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 1.27 180)
+					(length 5.08)
+					(name "DDR0_MA_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -1.27 180)
+					(length 5.08)
+					(name "DDR0_MA_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -3.81 180)
+					(length 5.08)
+					(name "DDR0_MA_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -6.35 180)
+					(length 5.08)
+					(name "DDR0_MA_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -8.89 180)
+					(length 5.08)
+					(name "DDR0_MA_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -11.43 180)
+					(length 5.08)
+					(name "DDR0_MA_7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -13.97 180)
+					(length 5.08)
+					(name "DDR0_MA_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -16.51 180)
+					(length 5.08)
+					(name "DDR0_MA_9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -19.05 180)
+					(length 5.08)
+					(name "DDR0_MA_10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AY14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -21.59 180)
+					(length 5.08)
+					(name "DDR0_MA_11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -24.13 180)
+					(length 5.08)
+					(name "DDR0_MA_12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -26.67 180)
+					(length 5.08)
+					(name "DDR0_MA_13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -29.21 180)
+					(length 5.08)
+					(name "DDR0_BG_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -31.75 180)
+					(length 5.08)
+					(name "DDR0_ACT#"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -36.83 180)
+					(length 5.08)
+					(name "DDR0_PAR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AY15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -39.37 180)
+					(length 5.08)
+					(name "DDR0_ALERT#"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -44.45 180)
+					(length 5.08)
+					(name "DDR0_DQSP_0/DDR0_DQSP_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AF38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -46.99 180)
+					(length 5.08)
+					(name "DDR0_DQSN_0/DDR0_DQSN_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AF39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -50.8 180)
+					(length 5.08)
+					(name "DDR0_DQSP_1/DDR0_DQSP_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AK38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -53.34 180)
+					(length 5.08)
+					(name "DDR0_DQSN_1/DDR0_DQSN_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AK39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -57.15 180)
+					(length 5.08)
+					(name "DDR0_DQSP_2/DDR0_DQSP_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -59.69 180)
+					(length 5.08)
+					(name "DDR0_DQSN_2/DDR0_DQSN_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -63.5 180)
+					(length 5.08)
+					(name "DDR0_DQSP_3/DDR0_DQSP_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -66.04 180)
+					(length 5.08)
+					(name "DDR0_DQSN_3/DDR0_DQSN_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -69.85 180)
+					(length 5.08)
+					(name "DDR0_DQSP_4/DDR1_DQSP_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -72.39 180)
+					(length 5.08)
+					(name "DDR0_DQSN_4/DDR1_DQSN_0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -76.2 180)
+					(length 5.08)
+					(name "DDR0_DQSP_5/DDR1_DQSP_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -78.74 180)
+					(length 5.08)
+					(name "DDR0_DQSN_5/DDR1_DQSN_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -82.55 180)
+					(length 5.08)
+					(name "DDR0_DQSP_6/DDR1_DQSP_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -85.09 180)
+					(length 5.08)
+					(name "DDR0_DQSN_6/DDR1_DQSN_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -88.9 180)
+					(length 5.08)
+					(name "DDR0_DQSP_7/DDR1_DQSP_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AJ2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -91.44 180)
+					(length 5.08)
+					(name "DDR0_DQSN_7/DDR1_DQSN_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AJ3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -95.25 180)
+					(length 5.08)
+					(name "DDR0_DQSP_8/DDR0_DQSP_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 62.23 -97.79 180)
+					(length 5.08)
+					(name "DDR0_DQSN_8/DDR0_DQSN_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU32"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -15832,7 +18064,7 @@
 		(pin "AY31"
 			(uuid "8014d4b9-6f00-429f-bc72-d472f3460361")
 		)
-		(pin "AR40"
+		(pin "AV20"
 			(uuid "0ca5d6c1-b37b-493f-bb99-9b9f174b59af")
 		)
 		(pin "AU35"
@@ -15847,22 +18079,22 @@
 		(pin "AP4"
 			(uuid "1d052d7b-cd9a-4476-a237-ebd339263fab")
 		)
-		(pin "AL39"
+		(pin "AW23"
 			(uuid "da8ac267-887d-40b3-a4e2-e104e4e28fe4")
 		)
-		(pin "AN37"
+		(pin "AV14"
 			(uuid "6f4eada2-37e6-4a66-a2de-e619f758cedb")
 		)
-		(pin "AG40"
+		(pin "AT20"
 			(uuid "b401c56f-974f-459e-950c-635a551bf081")
 		)
-		(pin "AU38"
+		(pin "AV25"
 			(uuid "683f3cfd-41fb-4274-b9dd-17e78b343c46")
 		)
-		(pin "AJ40"
+		(pin "AV7"
 			(uuid "a0531937-869e-4748-8b35-4cc7a8e27066")
 		)
-		(pin "AU37"
+		(pin "AU21"
 			(uuid "5ab392c5-0278-4ec2-a34a-e6a170254de0")
 		)
 		(pin "AV8"
@@ -15904,22 +18136,22 @@
 		(pin "AV3"
 			(uuid "2b023bc4-4212-489d-8052-0abd7a76cdd2")
 		)
-		(pin "AJ38"
+		(pin "AT16"
 			(uuid "0a174db9-7393-4a22-8db3-56f0a5bbeca0")
 		)
-		(pin "AL40"
+		(pin "AY11"
 			(uuid "f34fa977-0c22-4032-9586-9ccc811cebfe")
 		)
 		(pin "AE39"
 			(uuid "9ca5bfa5-f99f-4264-a6f1-f1e7f766d911")
 		)
-		(pin "AJ39"
+		(pin "AV10"
 			(uuid "8df0a044-2544-44e0-ad0c-ed6e798dc808")
 		)
-		(pin "AR38"
+		(pin "AJ2"
 			(uuid "25a58926-469c-4f10-bfef-38bde6d7d647")
 		)
-		(pin "AW35"
+		(pin "AV32"
 			(uuid "2c0b1289-0932-4f67-8ab2-9d2f3d7b7ca2")
 		)
 		(pin "AU8"
@@ -15949,7 +18181,7 @@
 		(pin "AG37"
 			(uuid "fee78b23-60df-4e29-a67c-e7930214144e")
 		)
-		(pin "AN38"
+		(pin "AW11"
 			(uuid "c55259a2-d451-4679-9d89-fd659855c0df")
 		)
 		(pin "AY4"
@@ -15964,10 +18196,10 @@
 		(pin "AY8"
 			(uuid "f877646e-6121-44c7-9588-67602883efea")
 		)
-		(pin "AV35"
+		(pin "AT22"
 			(uuid "b38189e7-7c3d-4ac0-9183-e4161be59f59")
 		)
-		(pin "AV37"
+		(pin "AW16"
 			(uuid "975fc570-267d-4bbd-b758-e56ec523d762")
 		)
 		(pin "AV6"
@@ -16024,7 +18256,7 @@
 		(pin "AK3"
 			(uuid "e7d95dbd-17b6-4daf-8fee-eea2195d015b")
 		)
-		(pin "AL38"
+		(pin "AV18"
 			(uuid "3d38c8a0-03cb-4472-9a7e-75691ff54107")
 		)
 		(pin "AH4"
@@ -16033,37 +18265,37 @@
 		(pin "AH2"
 			(uuid "4ae754df-a06e-4831-8b82-e0b1175251bd")
 		)
-		(pin "AG38"
+		(pin "AV19"
 			(uuid "a960fd88-9c75-4d0d-a6f1-268c229b685d")
 		)
 		(pin "AV33"
 			(uuid "d61c470e-b25c-46ab-be3d-a24d6af95d4d")
 		)
-		(pin "AW37"
+		(pin "AY24"
 			(uuid "b9c2feeb-67b7-4f75-bcc8-e511a91d4464")
 		)
-		(pin "AN39"
+		(pin "AU12"
 			(uuid "b9d4171b-bb33-449c-93e8-b2be2ae3d04e")
 		)
-		(pin "AN40"
+		(pin "AV16"
 			(uuid "0c1ff05f-c58f-452c-9fe5-cb6a3ba304b8")
 		)
-		(pin "AR37"
+		(pin "AW12"
 			(uuid "774f5408-ad18-4844-8d62-8a2de6534439")
 		)
 		(pin "AM3"
 			(uuid "2a855aa1-627e-4bf5-aeae-a799cd8480ef")
 		)
-		(pin "AT35"
+		(pin "AY13"
 			(uuid "17606764-5ea2-4144-8acd-c99beec3b1d8")
 		)
 		(pin "AH3"
 			(uuid "3d2e95bc-1bea-4bab-a8f4-e647ac47e28d")
 		)
-		(pin "AE39"
+		(pin "AV23"
 			(uuid "63b28dea-54a8-40ce-9934-872ea7e5d567")
 		)
-		(pin "AL37"
+		(pin "AU22"
 			(uuid "4c035e4d-ccac-4459-ab07-b4c31034c0a2")
 		)
 		(pin "AW8"
@@ -16072,13 +18304,13 @@
 		(pin "AP1"
 			(uuid "42ce0977-51c0-4768-8821-77668da51a7f")
 		)
-		(pin "AJ37"
+		(pin "AU24"
 			(uuid "7d375daa-2d93-4003-a438-107d7da5d8cf")
 		)
 		(pin "AT33"
 			(uuid "40b537b6-7e04-4a03-b00f-e0af83a60987")
 		)
-		(pin "AR39"
+		(pin "AV24"
 			(uuid "72c85f46-e8dc-49d5-9159-d4288bf16286")
 		)
 		(pin "AM1"
@@ -16087,16 +18319,16 @@
 		(pin "AW33"
 			(uuid "563e6408-5352-49a2-b5c0-d63c172c496f")
 		)
-		(pin "AG37"
+		(pin "AW17"
 			(uuid "3904f4a4-ddda-4aad-bcbe-9aefd79dc2d1")
 		)
 		(pin "AT4"
 			(uuid "500dedb7-f8d0-412d-bde4-5318429a19a3")
 		)
-		(pin "AG39"
+		(pin "AV13"
 			(uuid "68a16ac9-cda4-4626-b46a-c18429adbcd1")
 		)
-		(pin "AU35"
+		(pin "AW18"
 			(uuid "80d17adf-348a-457e-a7e2-64a7199186c3")
 		)
 		(pin "AP4"
@@ -16129,7 +18361,7 @@
 		(pin "AY31"
 			(uuid "1dc1e968-ca9b-4c47-9d9e-046fad71c2f5")
 		)
-		(pin "AE37"
+		(pin "AU20"
 			(uuid "4b5f650e-40bf-4346-b923-a98875459f0e")
 		)
 		(pin "AH1"
@@ -16138,7 +18370,7 @@
 		(pin "AK2"
 			(uuid "164c7834-f700-4901-81b2-e3c9ab9ac8d4")
 		)
-		(pin "AE38"
+		(pin "AY15"
 			(uuid "17b45a39-6882-4260-94bd-1b1c42f92fa7")
 		)
 		(pin "AM4"
@@ -16147,7 +18379,7 @@
 		(pin "AU31"
 			(uuid "9c48b1ba-538f-4f9c-aede-7d6af69f6b50")
 		)
-		(pin "AE40"
+		(pin "AF38"
 			(uuid "11441b6e-2b3f-4a27-a1b4-52df6418c7b1")
 		)
 		(pin "AG40"
@@ -18417,6 +20649,378 @@
 		)
 		(pin "AE40"
 			(uuid "e69e60bf-ba1d-433f-926b-049a78cfa7be")
+		)
+		(pin "AU16"
+			(uuid "b1682af7-e4d8-4f4c-90c6-847395cfd7e5")
+		)
+		(pin "AU11"
+			(uuid "cb496e26-aa89-4092-bda5-f8fff95110b8")
+		)
+		(pin "AU14"
+			(uuid "179062ea-8eec-44a7-9804-97c9a16336b8")
+		)
+		(pin "AW24"
+			(uuid "05ecddf1-3209-4117-974b-3ebf331b1302")
+		)
+		(pin "AU18"
+			(uuid "ee8fc75b-eac4-4320-81b2-62b7d6348f5c")
+		)
+		(pin "AF39"
+			(uuid "b16cadec-b554-41f4-81d8-d656ff30533a")
+		)
+		(pin "AP38"
+			(uuid "427f2a7a-d8d1-41eb-87fa-625b89c1f4e0")
+		)
+		(pin "AY17"
+			(uuid "88f20afd-ad21-4520-ac33-b702a002c79c")
+		)
+		(pin "AW15"
+			(uuid "e7458dc8-e9a5-4ff3-969a-6165eae104d9")
+		)
+		(pin "AV15"
+			(uuid "0fb5d70d-5600-4459-af5a-75347bc9b154")
+		)
+		(pin "AY10"
+			(uuid "566d2bde-db0e-41a1-be30-f595bf90718b")
+		)
+		(pin "AT19"
+			(uuid "0aa35e0e-d9a4-4fa6-afac-6e586f951496")
+		)
+		(pin "AU17"
+			(uuid "b779aac2-7300-4698-9b41-7bebb980a813")
+		)
+		(pin "AY14"
+			(uuid "1770d7d2-c16a-47cc-8613-344dc2b1218d")
+		)
+		(pin "AV12"
+			(uuid "f50e7997-6ddf-48a1-891d-d1bdb850901b")
+		)
+		(pin "AP39"
+			(uuid "27b7db9f-ecfe-4b06-805b-c9450b43d2c0")
+		)
+		(pin "AV36"
+			(uuid "3ab648fa-2cbd-4e3a-91e3-7fb90cb6e94f")
+		)
+		(pin "AW13"
+			(uuid "d3d9967a-b2a7-40c0-b911-e3f088dced93")
+		)
+		(pin "AV22"
+			(uuid "b875ee5e-d2f3-4d97-bd77-3d525deeeef7")
+		)
+		(pin "AK39"
+			(uuid "70512e99-2e25-40c7-9874-35507fc0e940")
+		)
+		(pin "AU36"
+			(uuid "364f798b-e1a7-46ce-b469-ddbfe0574f16")
+		)
+		(pin "AW7"
+			(uuid "20db8e63-e27e-4429-ab9f-391c7e92c976")
+		)
+		(pin "AU2"
+			(uuid "0696120b-5479-430f-ad57-a5d7dbc5f31d")
+		)
+		(pin "AK38"
+			(uuid "62c60e80-0258-446a-b92f-b4f7f0ea9382")
+		)
+		(pin "AT23"
+			(uuid "e4caf757-e2db-4492-b33b-449622fc5ba3")
+		)
+		(pin "AN2"
+			(uuid "a2214e93-8d5b-4974-879c-07690d6ea151")
+		)
+		(pin "AU3"
+			(uuid "51571d63-8973-4cc0-b999-83a019b77d2f")
+		)
+		(pin "AN3"
+			(uuid "c67d38e9-a92a-4016-ac52-3805ecb2b890")
+		)
+		(pin "AJ3"
+			(uuid "dcc1d9aa-fccc-4ef3-a2f5-f8178dc7d33e")
+		)
+		(pin "AU32"
+			(uuid "f6f96ca5-2c63-4d4a-998f-42560cc4f1ff")
+		)
+		(pin "AL32"
+			(uuid "0ebd91ab-53b5-46ab-938a-9c8b3448b9ed")
+		)
+		(pin "AD35"
+			(uuid "61fb35cf-eb01-44b0-b9fd-17327c06baa7")
+		)
+		(pin "AL35"
+			(uuid "f1ef9fb1-e349-4be4-9e20-97d6f98fb992")
+		)
+		(pin "AN31"
+			(uuid "e858935b-d70c-4de9-8180-59bf869b2ce8")
+		)
+		(pin "AK32"
+			(uuid "cf8cc370-882d-4402-a1cb-9611ddf261f8")
+		)
+		(pin "AN34"
+			(uuid "061f8146-5c79-40c4-8f4a-fc9586ebd4ce")
+		)
+		(pin "AL29"
+			(uuid "f4ee72c4-42d2-4b51-b9bc-4bbe3685b2b0")
+		)
+		(pin "AM29"
+			(uuid "04951241-51de-49fb-9490-7902e3c29f76")
+		)
+		(pin "AD34"
+			(uuid "c9ed92e9-41e0-4f83-b5af-3891247caaf2")
+		)
+		(pin "AE34"
+			(uuid "205cc6a4-f144-4cb5-abaa-bf532ca842d0")
+		)
+		(pin "AG35"
+			(uuid "03e22323-4dd7-4924-bc7d-3b54d8a583b7")
+		)
+		(pin "AH34"
+			(uuid "515c8757-c669-42c5-8137-4e0ad9806a80")
+		)
+		(pin "AE35"
+			(uuid "5c77fcf1-49b2-4db4-af9d-f05a37598601")
+		)
+		(pin "AK35"
+			(uuid "6856b22a-b3da-4492-80b2-bc0088164c5e")
+		)
+		(pin "AH35"
+			(uuid "debc5a47-f524-4ef0-8637-c34d026a5f5f")
+		)
+		(pin "AG34"
+			(uuid "eec6bf91-f0a2-43ce-99e7-bffd9655b205")
+		)
+		(pin "AK34"
+			(uuid "cd4ceff6-569c-472f-8b16-d7051ef7452e")
+		)
+		(pin "AL34"
+			(uuid "facd2637-e63e-43b8-9cd9-62a36350d1cd")
+		)
+		(pin "AK31"
+			(uuid "56f4af52-9154-4c2d-92fc-39f4b050a045")
+		)
+		(pin "AL31"
+			(uuid "27ef43b5-ea1e-42f6-ab51-3577c608943b")
+		)
+		(pin "AP35"
+			(uuid "81e3a02d-a4fb-486f-82f4-8293a71abd64")
+		)
+		(pin "AN35"
+			(uuid "e1905d04-3324-4414-ab9f-aee671c96000")
+		)
+		(pin "AN32"
+			(uuid "e42e8d71-e5d7-4e77-901f-d8c5c113320a")
+		)
+		(pin "AP32"
+			(uuid "10ae486f-046b-4360-bd5f-3478896d5724")
+		)
+		(pin "AP34"
+			(uuid "cb1678f5-4539-4525-b8b4-1c39d5ff8f6f")
+		)
+		(pin "AP31"
+			(uuid "51ec8e77-db7f-4b0c-b4bc-2f4aad96ee6a")
+		)
+		(pin "AR28"
+			(uuid "fbea19fb-b8e8-4fa6-986b-c528a3a69650")
+		)
+		(pin "AM28"
+			(uuid "f07f6b3e-f8f8-4a3c-9ee5-117459b13371")
+		)
+		(pin "AW17"
+			(uuid "b8bc188d-782d-4eb3-bc4b-2eac3d182aec")
+		)
+		(pin "AF39"
+			(uuid "a64243bb-e046-4104-84fa-947a24ff87ee")
+		)
+		(pin "AU12"
+			(uuid "0a8f3838-ab83-45ca-882d-90f8ae26f59e")
+		)
+		(pin "AU17"
+			(uuid "983ce851-8eaf-4a6d-a998-20ddd758f098")
+		)
+		(pin "AU22"
+			(uuid "2ddcf910-4e00-47ab-90d7-495376774b68")
+		)
+		(pin "AV36"
+			(uuid "e0cca790-0705-469d-9ec2-0a2f009199d8")
+		)
+		(pin "AP28"
+			(uuid "feb42e19-604e-46bf-9c17-bb7d996b4d44")
+		)
+		(pin "AU16"
+			(uuid "56403585-ab67-4cc9-bb86-63ef9238417f")
+		)
+		(pin "AU20"
+			(uuid "4099c87a-2985-4d83-9400-bace5080398f")
+		)
+		(pin "AU11"
+			(uuid "9b4d1293-86d5-4632-bc4b-b3273d7c3792")
+		)
+		(pin "AV18"
+			(uuid "93aa69b1-a6f1-4839-8e98-27c1a0f193fc")
+		)
+		(pin "AY24"
+			(uuid "9f86c3d9-a69c-4e77-ac20-73d8449c0d2d")
+		)
+		(pin "AT19"
+			(uuid "b5e8f402-1cfb-414f-aaac-ff5e5e58d7e4")
+		)
+		(pin "AV25"
+			(uuid "b659bdb6-d971-4a0f-9bda-9ee0e7d9be36")
+		)
+		(pin "AV20"
+			(uuid "9359e452-0724-4421-97d8-19d24fe19a16")
+		)
+		(pin "AT20"
+			(uuid "883cce44-5e38-4be3-9da8-03873f599117")
+		)
+		(pin "AV22"
+			(uuid "9b7b6030-b3ae-42a4-a07a-c42e7dc77467")
+		)
+		(pin "AW15"
+			(uuid "450ee0e1-ecbf-49b2-955f-102b1df62b04")
+		)
+		(pin "AV12"
+			(uuid "e746ba74-ede9-4f5c-a14c-7b0a84cbd76d")
+		)
+		(pin "AV23"
+			(uuid "abaf4aa4-3ebc-4c1d-83e3-75fef706e796")
+		)
+		(pin "AU21"
+			(uuid "e9da4f50-c9a1-40a0-97eb-1d116430083f")
+		)
+		(pin "AW18"
+			(uuid "11af7084-f2ae-4b83-8b79-916e0d2821aa")
+		)
+		(pin "AW12"
+			(uuid "6c4893f0-63f8-4a1d-b4a6-3881bc20ff8c")
+		)
+		(pin "AR29"
+			(uuid "659846ef-b41e-4fd4-8232-172af82d0a5c")
+		)
+		(pin "AV10"
+			(uuid "1836274f-b17b-4ba9-9140-81bc5c363a84")
+		)
+		(pin "AU14"
+			(uuid "6e46212a-d3db-4951-a0ef-0d8f5dba9ac2")
+		)
+		(pin "AL28"
+			(uuid "3df6654f-4dcd-4b8c-9456-045197790669")
+		)
+		(pin "AT16"
+			(uuid "ac2346ea-dbcd-40e7-b204-b24a3e9d5504")
+		)
+		(pin "AY10"
+			(uuid "9ed8cc02-c078-46c8-a7be-a5bbf39d5917")
+		)
+		(pin "AV15"
+			(uuid "7f0d31bd-d1ab-4d26-a62a-f0fc70b070af")
+		)
+		(pin "AW13"
+			(uuid "fbcdbd60-a9f3-4f81-b1e9-f9f9d15e4504")
+		)
+		(pin "AP29"
+			(uuid "3202161c-9b53-4e75-85b3-1657bc6c9ba7")
+		)
+		(pin "AY17"
+			(uuid "95c26d33-c43b-4f99-847d-a898395effd1")
+		)
+		(pin "AV13"
+			(uuid "0d1599b6-f763-4954-9629-dbdaded965f2")
+		)
+		(pin "AW16"
+			(uuid "1d298a06-6a86-4e06-ae42-98c35e355878")
+		)
+		(pin "AY13"
+			(uuid "dfce3eaa-c6c4-48e0-902f-db7a84c1c43a")
+		)
+		(pin "AW11"
+			(uuid "a5b8f1ef-87b1-416a-a2c4-048c7a4db624")
+		)
+		(pin "AV14"
+			(uuid "a7af7cd5-201f-44cf-8c9a-25e5192473d3")
+		)
+		(pin "AY11"
+			(uuid "e3e3b7c6-d7e8-4b4f-8dde-56ccf00bc700")
+		)
+		(pin "AT22"
+			(uuid "440c33bc-ddae-4b1b-9a2e-756eaf47130c")
+		)
+		(pin "AV24"
+			(uuid "f861cc6d-b1f5-468e-8c9c-5178df8c717d")
+		)
+		(pin "AY14"
+			(uuid "5ecd9fcf-14b4-4f06-a973-988bf36c9691")
+		)
+		(pin "AU24"
+			(uuid "c9c7c1ac-ff80-491b-b8be-80c9b8643a8a")
+		)
+		(pin "AV19"
+			(uuid "7ee43c05-d884-4864-92d1-32e22263d3b4")
+		)
+		(pin "AV16"
+			(uuid "0624bff5-4e53-40c7-b677-20db26069d38")
+		)
+		(pin "AY15"
+			(uuid "da5e74de-7529-49f0-bdf0-17bb942fb1d9")
+		)
+		(pin "AT23"
+			(uuid "c21b9c8c-8668-4985-b175-61b0195ecd03")
+		)
+		(pin "AU18"
+			(uuid "84f424e4-ae5b-4a38-8394-b3b043e267b3")
+		)
+		(pin "AF38"
+			(uuid "c65d3688-0931-43e2-8348-df8d9762ebd8")
+		)
+		(pin "AW24"
+			(uuid "762ee193-1726-47d9-9abb-94bca08a6ed8")
+		)
+		(pin "AW23"
+			(uuid "b7bdad1a-1583-4718-bf4f-1cd3cf4ce6d3")
+		)
+		(pin "AK38"
+			(uuid "269a6d2c-bfa9-42f3-ba87-10f19384bcd9")
+		)
+		(pin "AK39"
+			(uuid "4c5089fc-d8f2-449b-9171-7cd707f17956")
+		)
+		(pin "AP38"
+			(uuid "b04933ac-c007-4a35-93b5-10b25193c329")
+		)
+		(pin "AP39"
+			(uuid "0f5ccc0e-e18e-454b-a95e-bcc1d0a9c974")
+		)
+		(pin "AU36"
+			(uuid "1d83787a-ba7d-4170-9781-5955788f6a97")
+		)
+		(pin "AV7"
+			(uuid "2a558714-233c-49dd-90e9-36dcf8f24d94")
+		)
+		(pin "AW7"
+			(uuid "ab87e906-e349-4912-b435-1b0821474d59")
+		)
+		(pin "AU2"
+			(uuid "f4208f0c-58fe-4bf8-9a11-d9a255af34d7")
+		)
+		(pin "AU3"
+			(uuid "d990b00c-6b18-478f-a862-9b2a6ecc19fc")
+		)
+		(pin "AN3"
+			(uuid "e3ce62dc-b053-4de6-850d-aee4d865e0d8")
+		)
+		(pin "AN2"
+			(uuid "60effcc2-2fc6-4bd5-8c43-d08fae0180a9")
+		)
+		(pin "AJ2"
+			(uuid "24467371-59e0-4c85-9fb3-73dd2c428672")
+		)
+		(pin "AJ3"
+			(uuid "35c9a414-ac0f-488d-8fc8-6166f379b26f")
+		)
+		(pin "AU32"
+			(uuid "a0a5421b-b132-4ec2-bceb-9a4f84259774")
+		)
+		(pin "AV32"
+			(uuid "6f0dedb4-d4a5-4b67-94a5-32e2dd784bb3")
 		)
 		(instances
 			(project ""
