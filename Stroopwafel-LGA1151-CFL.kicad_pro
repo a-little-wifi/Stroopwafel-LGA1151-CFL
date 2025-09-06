@@ -624,6 +624,10 @@
     [
       "f32a0628-54c2-4f5a-8fa3-eb09958bebe4",
       "CPU_Display"
+    ],
+    [
+      "1c68e8a0-095a-4b5e-9e5b-76592d9951b4",
+      "CPU_CLK_CFG_VID_JTAG"
     ]
   ],
   "text_variables": {}

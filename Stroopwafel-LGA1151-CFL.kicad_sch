@@ -506,6 +506,48 @@
 		)
 	)
 	(sheet
+		(at 228.6 76.2)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1c68e8a0-095a-4b5e-9e5b-76592d9951b4")
+		(property "Sheetname" "CPU_CLK_CFG_VID_JTAG"
+			(at 228.6 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPU_CLK_CFG_VID_JTAG.kicad_sch"
+			(at 228.6 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 76.2 76.2)
 		(size 38.1 38.1)
 		(exclude_from_sim no)
