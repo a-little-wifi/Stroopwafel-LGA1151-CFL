@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "f773d30f-daf9-4f02-ba1e-5f5509b97509")
+	(uuid "64fd8f9b-16ad-42c1-8d4e-65c163b89b1d")
 	(paper "A4")
 	(title_block
 		(title "CPU Miscellaneous and Reserved pins")
