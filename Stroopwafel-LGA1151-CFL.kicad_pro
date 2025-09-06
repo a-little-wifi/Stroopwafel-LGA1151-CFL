@@ -616,6 +616,10 @@
     [
       "deeadc73-acb4-40d7-9415-61f11f304ecd",
       "CPU_Memory"
+    ],
+    [
+      "061fe2d6-87c2-48c2-90bb-0928700512fc",
+      "CPU_PEG_DMI"
     ]
   ],
   "text_variables": {}

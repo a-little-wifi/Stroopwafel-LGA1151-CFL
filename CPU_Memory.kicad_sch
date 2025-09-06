@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "015bf932-92a9-4761-85af-fc9949fffd4f")
+	(uuid "6af2370a-c6bb-401b-84bd-c3fbadd1cc58")
 	(paper "A3")
 	(title_block
 		(title "CPU Memory interface")
