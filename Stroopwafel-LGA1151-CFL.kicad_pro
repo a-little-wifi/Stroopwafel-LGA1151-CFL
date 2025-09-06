@@ -620,6 +620,10 @@
     [
       "061fe2d6-87c2-48c2-90bb-0928700512fc",
       "CPU_PEG_DMI"
+    ],
+    [
+      "f32a0628-54c2-4f5a-8fa3-eb09958bebe4",
+      "CPU_Display"
     ]
   ],
   "text_variables": {}
