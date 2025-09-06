@@ -628,6 +628,14 @@
     [
       "1c68e8a0-095a-4b5e-9e5b-76592d9951b4",
       "CPU_CLK_CFG_VID_JTAG"
+    ],
+    [
+      "61df14ea-2065-4751-84ed-7e7cf71220e9",
+      "CPU_GND"
+    ],
+    [
+      "5036d382-d60b-4069-a42a-4bbea2c68172",
+      "CPU_VCC"
     ]
   ],
   "text_variables": {}
