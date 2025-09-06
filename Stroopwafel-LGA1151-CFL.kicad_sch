@@ -10,6 +10,459 @@
 		(comment 3 "stroopwafel for your coffee (lake)")
 	)
 	(lib_symbols)
+	(circle
+		(center 264.16 144.78)
+		(radius 19.05)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 936eeb3e-fab7-4ecf-be9c-27dc6f2d1467)
+	)
+	(polyline
+		(pts
+			(xy 282.702 140.208) (xy 259.588 163.322)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "09b1a37a-3930-437f-9a0a-18c8f0aad573")
+	)
+	(polyline
+		(pts
+			(xy 245.364 147.574) (xy 261.366 163.576)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "0d748aca-3efb-4a13-9368-bb057cda6472")
+	)
+	(polyline
+		(pts
+			(xy 282.194 150.876) (xy 270.002 163.068)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "1bf7ea37-a475-4b0a-9a7e-95f1c58cd6ae")
+	)
+	(polyline
+		(pts
+			(xy 278.13 132.08) (xy 251.46 158.75)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "1c9fac9f-c384-4912-b5e0-bb6b1d34eb24")
+	)
+	(polyline
+		(pts
+			(xy 282.956 142.494) (xy 261.874 163.576)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "33e8cde0-bcf6-4082-9598-cfd86c4a39db")
+	)
+	(polyline
+		(pts
+			(xy 245.364 142.494) (xy 266.446 163.576)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "34b2f7cd-93a9-4b0e-8528-99db9d71b12e")
+	)
+	(polyline
+		(pts
+			(xy 264.16 125.73) (xy 245.11 144.78)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "39b2b036-687f-497d-8abf-366bca1afbb4")
+	)
+	(polyline
+		(pts
+			(xy 247.904 134.874) (xy 274.066 161.036)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "3bb5bfb3-c166-4924-907a-491d0cd78139")
+	)
+	(polyline
+		(pts
+			(xy 250.19 132.08) (xy 276.86 158.75)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "3c1cdaf6-9c1c-4011-8be3-2e51a3a67f9c")
+	)
+	(polyline
+		(pts
+			(xy 266.954 125.984) (xy 282.956 141.986)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "42b934a6-9680-40a1-824a-ce6a6cff588a")
+	)
+	(polyline
+		(pts
+			(xy 248.92 133.35) (xy 275.59 160.02)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "43ae9b53-4fb5-4c9c-8934-fde126106dd9")
+	)
+	(polyline
+		(pts
+			(xy 257.81 127) (xy 281.94 151.13)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "44ae975f-52d8-4df6-a627-d6eedebd4215")
+	)
+	(polyline
+		(pts
+			(xy 270.256 126.746) (xy 282.448 138.938)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "44ec8087-38dd-42d2-bb3c-10296594cd29")
+	)
+	(polyline
+		(pts
+			(xy 268.732 126.238) (xy 245.618 149.352)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "473133b6-b647-4552-8fbb-29539384f2ab")
+	)
+	(polyline
+		(pts
+			(xy 247.142 136.652) (xy 272.288 161.798)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "53fed7cd-b02a-45d2-80ee-609d7b07bcba")
+	)
+	(polyline
+		(pts
+			(xy 246.126 150.876) (xy 258.064 162.814)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "5490d6bd-6ce6-4fe9-b7c8-81ed17113ae1")
+	)
+	(polyline
+		(pts
+			(xy 245.11 144.78) (xy 264.16 163.83)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "55cd16c8-e547-40e8-91cb-97aff8c06c03")
+	)
+	(polyline
+		(pts
+			(xy 275.59 129.54) (xy 248.92 156.21)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "59282761-e80f-4e16-8b40-1dc5e0e0d164")
+	)
+	(polyline
+		(pts
+			(xy 258.064 126.746) (xy 246.126 138.684)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "67c34802-d0fb-45d6-9c97-d15ce9e5981d")
+	)
+	(polyline
+		(pts
+			(xy 270.51 127) (xy 246.38 151.13)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "6e3c2d7c-c3e1-44a1-9bd6-6606331d748e")
+	)
+	(polyline
+		(pts
+			(xy 245.618 140.208) (xy 268.732 163.322)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "6fb554f7-83e5-4b61-bc94-25b6cabeaf99")
+	)
+	(polyline
+		(pts
+			(xy 266.446 125.984) (xy 245.364 147.066)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "6fbdea70-8eba-423e-b068-05a6db1bdb7c")
+	)
+	(polyline
+		(pts
+			(xy 252.73 129.54) (xy 279.4 156.21)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "7a4810fb-e7d2-46a8-8b4b-434b74cbca2e")
+	)
+	(polyline
+		(pts
+			(xy 256.032 127.762) (xy 281.178 152.908)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "95637901-d130-4737-b1d1-06fbf28d6f1a")
+	)
+	(polyline
+		(pts
+			(xy 276.86 130.81) (xy 250.19 157.48)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "9adc525e-d93a-4d6b-a1db-be826e09dfc7")
+	)
+	(polyline
+		(pts
+			(xy 259.588 126.238) (xy 282.702 149.352)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "9b7d3490-9851-4582-afcf-99f548b75fa9")
+	)
+	(polyline
+		(pts
+			(xy 280.416 134.874) (xy 254.254 161.036)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "a88699f8-7d79-40de-aca0-72000545cdab")
+	)
+	(polyline
+		(pts
+			(xy 281.94 138.43) (xy 257.81 162.56)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "aa311f73-47d5-4bc1-9ed7-e14740d43fb1")
+	)
+	(polyline
+		(pts
+			(xy 282.956 147.574) (xy 266.954 163.576)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "ab23f3b1-a2de-4037-bda6-610071439872")
+	)
+	(polyline
+		(pts
+			(xy 283.21 144.78) (xy 264.16 163.83)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "ad2d08a1-bbc6-40cb-ab64-7aa730ef5768")
+	)
+	(polyline
+		(pts
+			(xy 281.178 136.652) (xy 256.032 161.798)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "af176f48-d166-4f1c-aa6f-0367430a8d86")
+	)
+	(polyline
+		(pts
+			(xy 261.874 125.984) (xy 282.956 147.066)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "b0952523-853a-44a1-bc89-01b97b664122")
+	)
+	(polyline
+		(pts
+			(xy 272.288 127.762) (xy 247.142 152.908)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "b532cef9-9154-41e4-997c-78beb9c69c46")
+	)
+	(polyline
+		(pts
+			(xy 264.16 125.73) (xy 283.21 144.78)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "b8ddc898-b190-4d1d-a703-e0d1e97d2750")
+	)
+	(polyline
+		(pts
+			(xy 254.254 128.524) (xy 280.416 154.686)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "c8987dd1-0a1a-4ffa-a6e5-5cd07055328e")
+	)
+	(polyline
+		(pts
+			(xy 251.46 130.81) (xy 278.13 157.48)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "db9a84a7-c2c2-462a-819b-5a7954f7bd30")
+	)
+	(polyline
+		(pts
+			(xy 274.066 128.524) (xy 247.904 154.686)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "e405ae90-88db-487a-b9e5-1cb61be857c0")
+	)
+	(polyline
+		(pts
+			(xy 279.4 133.35) (xy 252.73 160.02)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "ef349fbe-ae99-4c33-9218-b3ead3f7bbd1")
+	)
+	(polyline
+		(pts
+			(xy 261.366 125.984) (xy 245.364 141.986)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "f6d6216c-9924-4eb5-9b8b-b0bd961090bc")
+	)
+	(polyline
+		(pts
+			(xy 246.38 138.43) (xy 270.51 162.56)
+		)
+		(stroke
+			(width 0.381)
+			(type default)
+			(color 150 104 40 1)
+		)
+		(uuid "f7b34bdd-6450-4946-86b7-d0ec52510d6b")
+	)
 	(sheet
 		(at 127 76.2)
 		(size 38.1 38.1)

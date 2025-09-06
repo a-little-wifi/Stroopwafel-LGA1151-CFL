@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "99f9788c-cc29-4c2f-95b2-f6d3fc2f7fba")
+	(uuid "a3aa0368-437b-4ff3-bab2-9fd548168b07")
 	(paper "A4")
 	(title_block
 		(title "CPU PCIe & DMI interface")
