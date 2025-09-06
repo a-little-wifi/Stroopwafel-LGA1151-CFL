@@ -640,6 +640,10 @@
     [
       "e4d810de-49e6-45ae-bbfb-8cff0175b3e3",
       "CPU_Misc"
+    ],
+    [
+      "f7bd4156-9f7e-4d57-8abd-7332567d31a2",
+      "PCH_SPI_SML_GSX"
     ]
   ],
   "text_variables": {}

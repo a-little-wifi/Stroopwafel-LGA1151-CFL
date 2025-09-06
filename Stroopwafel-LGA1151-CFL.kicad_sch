@@ -7,6 +7,7 @@
 	(title_block
 		(title "Stroopwafel LGA1151 CFL")
 		(company "WifiCable")
+		(comment 1 "WCFC WC-B551")
 		(comment 3 "stroopwafel for your coffee (lake)")
 	)
 	(lib_symbols)
@@ -22,6 +23,20 @@
 			(type none)
 		)
 		(uuid 936eeb3e-fab7-4ecf-be9c-27dc6f2d1467)
+	)
+	(text "Stroopwafel LGA 1151\nIntel Coffee Lake motherboard project\nby WifiCable"
+		(exclude_from_sim no)
+		(at 19.05 167.64 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+				(color 212 35 8 1)
+			)
+			(justify left top)
+		)
+		(uuid "21d05b83-e487-41c7-8ba1-e8a158dd4010")
 	)
 	(polyline
 		(pts
@@ -753,6 +768,48 @@
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 76.2)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f7bd4156-9f7e-4d57-8abd-7332567d31a2")
+		(property "Sheetname" "PCH_SPI_SML_GSX"
+			(at 127 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PCH_SPI_SML_GSX.kicad_sch"
+			(at 127 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
+					(page "9")
 				)
 			)
 		)

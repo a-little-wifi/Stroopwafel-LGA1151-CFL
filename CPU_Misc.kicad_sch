@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "c3ccd6eb-8bf3-46dc-826c-f5a34ed02b49")
+	(uuid "ff94b847-81af-4399-899f-63c341c6b3e6")
 	(paper "A4")
 	(title_block
 		(title "CPU Miscellaneous and Reserved pins")
@@ -14,15 +14,15 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "JCPU"
-				(at 0 95.25 0)
+				(at 0 97.79 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" ""
-				(at 0 0 0)
+			(property "Value" "Intel 8th/9th Generation Coffee-Lake LGA1151 CPU"
+				(at 0 95.25 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -16138,8 +16138,8 @@
 			)
 			(symbol "Intel_CFL_1151_11_1"
 				(rectangle
-					(start -35.56 93.98)
-					(end 34.29 -99.06)
+					(start -12.7 93.98)
+					(end 12.7 -76.2)
 					(stroke
 						(width 0)
 						(type default)
@@ -16149,16 +16149,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 90.17 0)
+					(at -17.78 90.17 0)
 					(length 5.08)
-					(name "DDR0_DQ_0/DDR0_DQ_0"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AE38"
+					(number "AR3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16167,16 +16167,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 87.63 0)
+					(at -17.78 87.63 0)
 					(length 5.08)
-					(name "DDR0_DQ_1/DDR0_DQ_1"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AE37"
+					(number "AR4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16185,16 +16185,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 85.09 0)
+					(at -17.78 85.09 0)
 					(length 5.08)
-					(name "DDR0_DQ_2/DDR0_DQ_2"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AG38"
+					(number "AR5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16203,16 +16203,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 82.55 0)
+					(at -17.78 82.55 0)
 					(length 5.08)
-					(name "DDR0_DQ_3/DDR0_DQ_3"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AG37"
+					(number "AR24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16221,16 +16221,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 80.01 0)
+					(at -17.78 80.01 0)
 					(length 5.08)
-					(name "DDR0_DQ_4/DDR0_DQ_4"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AE39"
+					(number "AR27"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16239,16 +16239,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 77.47 0)
+					(at -17.78 77.47 0)
 					(length 5.08)
-					(name "DDR0_DQ_5/DDR0_DQ_5"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AE40"
+					(number "AR30"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16257,16 +16257,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 74.93 0)
+					(at -17.78 74.93 0)
 					(length 5.08)
-					(name "DDR0_DQ_6/DDR0_DQ_6"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AG39"
+					(number "AR31"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16275,16 +16275,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 72.39 0)
+					(at -17.78 72.39 0)
 					(length 5.08)
-					(name "DDR0_DQ_7/DDR0_DQ_7"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AG40"
+					(number "AR32"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16293,16 +16293,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 69.85 0)
+					(at -17.78 69.85 0)
 					(length 5.08)
-					(name "DDR0_DQ_8/DDR0_DQ_8"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AJ38"
+					(number "AR33"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16311,16 +16311,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 67.31 0)
+					(at -17.78 67.31 0)
 					(length 5.08)
-					(name "DDR0_DQ_9/DDR0_DQ_9"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AJ37"
+					(number "AR34"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16329,16 +16329,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 64.77 0)
+					(at -17.78 64.77 0)
 					(length 5.08)
-					(name "DDR0_DQ_10/DDR0_DQ_10"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AL38"
+					(number "AR35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16347,16 +16347,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 62.23 0)
+					(at -17.78 62.23 0)
 					(length 5.08)
-					(name "DDR0_DQ_11/DDR0_DQ_11"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AL37"
+					(number "AR36"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16365,16 +16365,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 59.69 0)
+					(at -17.78 59.69 0)
 					(length 5.08)
-					(name "DDR0_DQ_12/DDR0_DQ_12"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AJ40"
+					(number "AT5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16383,16 +16383,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 57.15 0)
+					(at -17.78 57.15 0)
 					(length 5.08)
-					(name "DDR0_DQ_13/DDR0_DQ_13"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AJ39"
+					(number "AT6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16401,16 +16401,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 54.61 0)
+					(at -17.78 54.61 0)
 					(length 5.08)
-					(name "DDR0_DQ_14/DDR0_DQ_14"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AL39"
+					(number "AT7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16419,16 +16419,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 52.07 0)
+					(at -17.78 52.07 0)
 					(length 5.08)
-					(name "DDR0_DQ_15/DDR0_DQ_15"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AL40"
+					(number "AT8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16437,16 +16437,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 48.26 0)
+					(at -17.78 49.53 0)
 					(length 5.08)
-					(name "DDR0_DQ_16/DDR0_DQ_32"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AN38"
+					(number "AT9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16455,16 +16455,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 45.72 0)
+					(at -17.78 46.99 0)
 					(length 5.08)
-					(name "DDR0_DQ_17/DDR0_DQ_33"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AN40"
+					(number "AT10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16473,16 +16473,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 43.18 0)
+					(at -17.78 44.45 0)
 					(length 5.08)
-					(name "DDR0_DQ_18/DDR0_DQ_34"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AR38"
+					(number "AT11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16491,16 +16491,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 40.64 0)
+					(at -17.78 41.91 0)
 					(length 5.08)
-					(name "DDR0_DQ_19/DDR0_DQ_35"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AR37"
+					(number "AT12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16509,16 +16509,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 38.1 0)
+					(at -17.78 39.37 0)
 					(length 5.08)
-					(name "DDR0_DQ_20/DDR0_DQ_36"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AN39"
+					(number "AT13"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16527,16 +16527,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 35.56 0)
+					(at -17.78 36.83 0)
 					(length 5.08)
-					(name "DDR0_DQ_21/DDR0_DQ_37"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AN37"
+					(number "AT14"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16545,16 +16545,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 33.02 0)
+					(at -17.78 34.29 0)
 					(length 5.08)
-					(name "DDR0_DQ_22/DDR0_DQ_38"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AR39"
+					(number "AT17"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16563,16 +16563,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 30.48 0)
+					(at -17.78 31.75 0)
 					(length 5.08)
-					(name "DDR0_DQ_23/DDR0_DQ_39"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AR40"
+					(number "AT24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16581,16 +16581,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 27.94 0)
+					(at -17.78 29.21 0)
 					(length 5.08)
-					(name "DDR0_DQ_24/DDR0_DQ_40"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AW37"
+					(number "AT25"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16599,16 +16599,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 25.4 0)
+					(at -17.78 26.67 0)
 					(length 5.08)
-					(name "DDR0_DQ_25/DDR0_DQ_41"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AU38"
+					(number "AT26"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16617,16 +16617,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 22.86 0)
+					(at -17.78 24.13 0)
 					(length 5.08)
-					(name "DDR0_DQ_26/DDR0_DQ_42"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV35"
+					(number "AT27"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16635,16 +16635,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 20.32 0)
+					(at -17.78 21.59 0)
 					(length 5.08)
-					(name "DDR0_DQ_27/DDR0_DQ_43"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AW35"
+					(number "AT28"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16653,16 +16653,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 17.78 0)
+					(at -17.78 19.05 0)
 					(length 5.08)
-					(name "DDR0_DQ_28/DDR0_DQ_44"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AU37"
+					(number "AT29"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16671,16 +16671,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 15.24 0)
+					(at -17.78 16.51 0)
 					(length 5.08)
-					(name "DDR0_DQ_29/DDR0_DQ_45"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV37"
+					(number "AT30"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16689,16 +16689,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 12.7 0)
+					(at -17.78 13.97 0)
 					(length 5.08)
-					(name "DDR0_DQ_30/DDR0_DQ_46"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AT35"
+					(number "AT31"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16707,16 +16707,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 10.16 0)
+					(at -17.78 11.43 0)
 					(length 5.08)
-					(name "DDR0_DQ_31/DDR0_DQ_47"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AU35"
+					(number "AT32"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16725,16 +16725,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 6.35 0)
+					(at -17.78 8.89 0)
 					(length 5.08)
-					(name "DDR0_DQ_32/DDR1_DQ_0"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AY8"
+					(number "AT34"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16743,16 +16743,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 3.81 0)
+					(at -17.78 6.35 0)
 					(length 5.08)
-					(name "DDR0_DQ_33/DDR1_DQ_1"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AW8"
+					(number "AT36"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16761,16 +16761,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 1.27 0)
+					(at -17.78 3.81 0)
 					(length 5.08)
-					(name "DDR0_DQ_34/DDR1_DQ_2"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV6"
+					(number "AT37"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16779,16 +16779,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -1.27 0)
+					(at -17.78 1.27 0)
 					(length 5.08)
-					(name "DDR0_DQ_35/DDR1_DQ_3"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AU6"
+					(number "AT38"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16797,16 +16797,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -3.81 0)
+					(at -17.78 -1.27 0)
 					(length 5.08)
-					(name "DDR0_DQ_36/DDR1_DQ_4"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AU8"
+					(number "AT39"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16815,16 +16815,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -6.35 0)
+					(at -17.78 -3.81 0)
 					(length 5.08)
-					(name "DDR0_DQ_37/DDR1_DQ_5"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV8"
+					(number "AT40"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16833,16 +16833,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -8.89 0)
+					(at -17.78 -6.35 0)
 					(length 5.08)
-					(name "DDR0_DQ_38/DDR1_DQ_6"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AW6"
+					(number "AU1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16851,16 +16851,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -11.43 0)
+					(at -17.78 -8.89 0)
 					(length 5.08)
-					(name "DDR0_DQ_39/DDR1_DQ_7"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AY6"
+					(number "AU4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16869,16 +16869,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -13.97 0)
+					(at -17.78 -11.43 0)
 					(length 5.08)
-					(name "DDR0_DQ_40/DDR1_DQ_8"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AY4"
+					(number "AU5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16887,16 +16887,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -16.51 0)
+					(at -17.78 -13.97 0)
 					(length 5.08)
-					(name "DDR0_DQ_41/DDR1_DQ_9"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV4"
+					(number "AU7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16905,16 +16905,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -19.05 0)
+					(at -17.78 -16.51 0)
 					(length 5.08)
-					(name "DDR0_DQ_42/DDR1_DQ_10"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AT1"
+					(number "AU25"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16923,16 +16923,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -21.59 0)
+					(at -17.78 -19.05 0)
 					(length 5.08)
-					(name "DDR0_DQ_43/DDR1_DQ_11"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AT2"
+					(number "AU30"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16941,16 +16941,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -24.13 0)
+					(at -17.78 -21.59 0)
 					(length 5.08)
-					(name "DDR0_DQ_44/DDR1_DQ_12"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV3"
+					(number "AU34"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16959,16 +16959,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -26.67 0)
+					(at -17.78 -24.13 0)
 					(length 5.08)
-					(name "DDR0_DQ_45/DDR1_DQ_13"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AW4"
+					(number "AV2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16977,16 +16977,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -29.21 0)
+					(at -17.78 -26.67 0)
 					(length 5.08)
-					(name "DDR0_DQ_46/DDR1_DQ_14"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AT4"
+					(number "AV5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -16995,16 +16995,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -31.75 0)
+					(at -17.78 -29.21 0)
 					(length 5.08)
-					(name "DDR0_DQ_47/DDR1_DQ_15"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AT3"
+					(number "AV9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17013,16 +17013,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -35.56 0)
+					(at -17.78 -31.75 0)
 					(length 5.08)
-					(name "DDR0_DQ_48/DDR1_DQ_32"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AP2"
+					(number "AV26"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17031,16 +17031,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -38.1 0)
+					(at -17.78 -34.29 0)
 					(length 5.08)
-					(name "DDR0_DQ_49/DDR1_DQ_33"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AM4"
+					(number "AV28"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17049,16 +17049,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -40.64 0)
+					(at -17.78 -36.83 0)
 					(length 5.08)
-					(name "DDR0_DQ_50/DDR1_DQ_34"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AP3"
+					(number "AV30"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17067,16 +17067,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -43.18 0)
+					(at -17.78 -39.37 0)
 					(length 5.08)
-					(name "DDR0_DQ_51/DDR1_DQ_35"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AM3"
+					(number "AV34"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17085,16 +17085,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -45.72 0)
+					(at -17.78 -41.91 0)
 					(length 5.08)
-					(name "DDR0_DQ_52/DDR1_DQ_36"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AP4"
+					(number "AV38"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17103,16 +17103,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -48.26 0)
+					(at -17.78 -44.45 0)
 					(length 5.08)
-					(name "DDR0_DQ_53/DDR1_DQ_37"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AM2"
+					(number "AW3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17121,16 +17121,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -50.8 0)
+					(at -17.78 -46.99 0)
 					(length 5.08)
-					(name "DDR0_DQ_54/DDR1_DQ_38"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AP1"
+					(number "AW5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17139,16 +17139,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -53.34 0)
+					(at -17.78 -49.53 0)
 					(length 5.08)
-					(name "DDR0_DQ_55/DDR1_DQ_39"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AM1"
+					(number "AW9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17157,16 +17157,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -55.88 0)
+					(at -17.78 -52.07 0)
 					(length 5.08)
-					(name "DDR0_DQ_56/DDR1_DQ_40"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AK3"
+					(number "AW30"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17175,16 +17175,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -58.42 0)
+					(at -17.78 -54.61 0)
 					(length 5.08)
-					(name "DDR0_DQ_57/DDR1_DQ_41"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AH1"
+					(number "AW32"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17193,16 +17193,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -60.96 0)
+					(at -17.78 -57.15 0)
 					(length 5.08)
-					(name "DDR0_DQ_58/DDR1_DQ_42"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AK4"
+					(number "AW34"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17211,16 +17211,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -63.5 0)
+					(at -17.78 -59.69 0)
 					(length 5.08)
-					(name "DDR0_DQ_59/DDR1_DQ_43"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AH2"
+					(number "AW36"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17229,16 +17229,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -66.04 0)
+					(at -17.78 -62.23 0)
 					(length 5.08)
-					(name "DDR0_DQ_60/DDR1_DQ_44"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AH4"
+					(number "AY5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17247,16 +17247,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -68.58 0)
+					(at -17.78 -64.77 0)
 					(length 5.08)
-					(name "DDR0_DQ_61/DDR1_DQ_45"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AK2"
+					(number "AY7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17265,16 +17265,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -71.12 0)
+					(at -17.78 -67.31 0)
 					(length 5.08)
-					(name "DDR0_DQ_62/DDR1_DQ_46"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AH3"
+					(number "AY9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17283,16 +17283,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -73.66 0)
+					(at -17.78 -69.85 0)
 					(length 5.08)
-					(name "DDR0_DQ_63/DDR1_DQ_47"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AK1"
+					(number "AY27"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17301,16 +17301,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -77.47 0)
+					(at -17.78 -72.39 0)
 					(length 5.08)
-					(name "DDR0_ECC_0"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AU33"
+					(number "AY30"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17319,16 +17319,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -80.01 0)
+					(at 17.78 90.17 180)
 					(length 5.08)
-					(name "DDR0_ECC_1"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AT33"
+					(number "AN1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17337,16 +17337,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -82.55 0)
+					(at 17.78 87.63 180)
 					(length 5.08)
-					(name "DDR0_ECC_2"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AW33"
+					(number "AN4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17355,16 +17355,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -85.09 0)
+					(at 17.78 85.09 180)
 					(length 5.08)
-					(name "DDR0_ECC_3"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV31"
+					(number "AN5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17373,16 +17373,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -87.63 0)
+					(at 17.78 82.55 180)
 					(length 5.08)
-					(name "DDR0_ECC_4"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AU31"
+					(number "AN6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17391,16 +17391,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -90.17 0)
+					(at 17.78 80.01 180)
 					(length 5.08)
-					(name "DDR0_ECC_5"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV33"
+					(number "AN7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17409,16 +17409,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -92.71 0)
+					(at 17.78 77.47 180)
 					(length 5.08)
-					(name "DDR0_ECC_6"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AW31"
+					(number "AN8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17427,16 +17427,1060 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -95.25 0)
+					(at 17.78 74.93 180)
 					(length 5.08)
-					(name "DDR0_ECC_7"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AY31"
+					(number "AN9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 72.39 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 69.85 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 67.31 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 64.77 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 62.23 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 59.69 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 57.15 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 54.61 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 52.07 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 49.53 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 46.99 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 44.45 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 41.91 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 39.37 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 36.83 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 34.29 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 31.75 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 29.21 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 26.67 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 24.13 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AP40"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 21.59 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AR1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 19.05 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AR2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 16.51 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AR11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 13.97 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AR14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 11.43 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AR16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 8.89 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AR17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 6.35 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AR18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 3.81 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AR19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 1.27 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AR20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -1.27 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AR21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -3.81 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AR22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -6.35 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AR23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -8.89 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AT15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -11.43 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -13.97 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AU40"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -16.51 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AV39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -19.05 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AW38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -21.59 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -24.13 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -26.67 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -29.21 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -31.75 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -34.29 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -36.83 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -39.37 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -41.91 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -44.45 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -46.99 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -49.53 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -52.07 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -54.61 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -57.15 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -59.69 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -62.23 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -64.77 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -67.31 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -69.85 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -72.39 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17447,8 +18491,8 @@
 			)
 			(symbol "Intel_CFL_1151_12_1"
 				(rectangle
-					(start -35.56 93.98)
-					(end 34.29 -99.06)
+					(start -12.7 93.98)
+					(end 12.7 -86.36)
 					(stroke
 						(width 0)
 						(type default)
@@ -17458,16 +18502,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 90.17 0)
+					(at -17.78 90.17 0)
 					(length 5.08)
-					(name "DDR0_DQ_0/DDR0_DQ_0"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AE38"
+					(number "D40"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17476,16 +18520,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 87.63 0)
+					(at -17.78 87.63 0)
 					(length 5.08)
-					(name "DDR0_DQ_1/DDR0_DQ_1"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AE37"
+					(number "K4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17494,16 +18538,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 85.09 0)
+					(at -17.78 85.09 0)
 					(length 5.08)
-					(name "DDR0_DQ_2/DDR0_DQ_2"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AG38"
+					(number "K7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17512,16 +18556,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 82.55 0)
+					(at -17.78 82.55 0)
 					(length 5.08)
-					(name "DDR0_DQ_3/DDR0_DQ_3"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AG37"
+					(number "K39"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17530,16 +18574,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 80.01 0)
+					(at -17.78 80.01 0)
 					(length 5.08)
-					(name "DDR0_DQ_4/DDR0_DQ_4"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AE39"
+					(number "L3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17548,16 +18592,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 77.47 0)
+					(at -17.78 77.47 0)
 					(length 5.08)
-					(name "DDR0_DQ_5/DDR0_DQ_5"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AE40"
+					(number "L6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17566,16 +18610,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 74.93 0)
+					(at -17.78 74.93 0)
 					(length 5.08)
-					(name "DDR0_DQ_6/DDR0_DQ_6"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AG39"
+					(number "L9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17584,16 +18628,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 72.39 0)
+					(at -17.78 72.39 0)
 					(length 5.08)
-					(name "DDR0_DQ_7/DDR0_DQ_7"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AG40"
+					(number "L13"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17602,16 +18646,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 69.85 0)
+					(at -17.78 69.85 0)
 					(length 5.08)
-					(name "DDR0_DQ_8/DDR0_DQ_8"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AJ38"
+					(number "L32"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17620,16 +18664,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 67.31 0)
+					(at -17.78 67.31 0)
 					(length 5.08)
-					(name "DDR0_DQ_9/DDR0_DQ_9"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AJ37"
+					(number "M1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17638,16 +18682,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 64.77 0)
+					(at -17.78 64.77 0)
 					(length 5.08)
-					(name "DDR0_DQ_10/DDR0_DQ_10"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AL38"
+					(number "M4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17656,16 +18700,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 62.23 0)
+					(at -17.78 62.23 0)
 					(length 5.08)
-					(name "DDR0_DQ_11/DDR0_DQ_11"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AL37"
+					(number "M7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17674,16 +18718,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 59.69 0)
+					(at -17.78 59.69 0)
 					(length 5.08)
-					(name "DDR0_DQ_12/DDR0_DQ_12"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AJ40"
+					(number "M10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17692,16 +18736,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 57.15 0)
+					(at -17.78 57.15 0)
 					(length 5.08)
-					(name "DDR0_DQ_13/DDR0_DQ_13"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AJ39"
+					(number "M12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17710,16 +18754,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 54.61 0)
+					(at -17.78 54.61 0)
 					(length 5.08)
-					(name "DDR0_DQ_14/DDR0_DQ_14"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AL39"
+					(number "M15"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17728,16 +18772,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 52.07 0)
+					(at -17.78 52.07 0)
 					(length 5.08)
-					(name "DDR0_DQ_15/DDR0_DQ_15"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AL40"
+					(number "M17"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17746,16 +18790,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 48.26 0)
+					(at -17.78 49.53 0)
 					(length 5.08)
-					(name "DDR0_DQ_16/DDR0_DQ_32"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AN38"
+					(number "M19"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17764,16 +18808,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 45.72 0)
+					(at -17.78 46.99 0)
 					(length 5.08)
-					(name "DDR0_DQ_17/DDR0_DQ_33"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AN40"
+					(number "M21"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17782,16 +18826,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 43.18 0)
+					(at -17.78 44.45 0)
 					(length 5.08)
-					(name "DDR0_DQ_18/DDR0_DQ_34"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AR38"
+					(number "M23"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17800,16 +18844,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 40.64 0)
+					(at -17.78 41.91 0)
 					(length 5.08)
-					(name "DDR0_DQ_19/DDR0_DQ_35"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AR37"
+					(number "M25"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17818,16 +18862,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 38.1 0)
+					(at -17.78 39.37 0)
 					(length 5.08)
-					(name "DDR0_DQ_20/DDR0_DQ_36"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AN39"
+					(number "M27"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17836,16 +18880,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 35.56 0)
+					(at -17.78 36.83 0)
 					(length 5.08)
-					(name "DDR0_DQ_21/DDR0_DQ_37"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AN37"
+					(number "M29"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17854,16 +18898,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 33.02 0)
+					(at -17.78 34.29 0)
 					(length 5.08)
-					(name "DDR0_DQ_22/DDR0_DQ_38"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AR39"
+					(number "M35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17872,16 +18916,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 30.48 0)
+					(at -17.78 31.75 0)
 					(length 5.08)
-					(name "DDR0_DQ_23/DDR0_DQ_39"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AR40"
+					(number "M37"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17890,16 +18934,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 27.94 0)
+					(at -17.78 29.21 0)
 					(length 5.08)
-					(name "DDR0_DQ_24/DDR0_DQ_40"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AW37"
+					(number "M39"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17908,16 +18952,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 25.4 0)
+					(at -17.78 26.67 0)
 					(length 5.08)
-					(name "DDR0_DQ_25/DDR0_DQ_41"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AU38"
+					(number "N3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17926,16 +18970,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 22.86 0)
+					(at -17.78 24.13 0)
 					(length 5.08)
-					(name "DDR0_DQ_26/DDR0_DQ_42"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV35"
+					(number "N6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17944,16 +18988,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 20.32 0)
+					(at -17.78 21.59 0)
 					(length 5.08)
-					(name "DDR0_DQ_27/DDR0_DQ_43"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AW35"
+					(number "N8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17962,16 +19006,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 17.78 0)
+					(at -17.78 19.05 0)
 					(length 5.08)
-					(name "DDR0_DQ_28/DDR0_DQ_44"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AU37"
+					(number "N33"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17980,16 +19024,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 15.24 0)
+					(at -17.78 16.51 0)
 					(length 5.08)
-					(name "DDR0_DQ_29/DDR0_DQ_45"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV37"
+					(number "P1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17998,16 +19042,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 12.7 0)
+					(at -17.78 13.97 0)
 					(length 5.08)
-					(name "DDR0_DQ_30/DDR0_DQ_46"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AT35"
+					(number "P4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18016,16 +19060,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 10.16 0)
+					(at -17.78 11.43 0)
 					(length 5.08)
-					(name "DDR0_DQ_31/DDR0_DQ_47"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AU35"
+					(number "P35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18034,16 +19078,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 6.35 0)
+					(at -17.78 8.89 0)
 					(length 5.08)
-					(name "DDR0_DQ_32/DDR1_DQ_0"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AY8"
+					(number "P37"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18052,16 +19096,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 3.81 0)
+					(at -17.78 6.35 0)
 					(length 5.08)
-					(name "DDR0_DQ_33/DDR1_DQ_1"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AW8"
+					(number "P39"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18070,16 +19114,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 1.27 0)
+					(at -17.78 3.81 0)
 					(length 5.08)
-					(name "DDR0_DQ_34/DDR1_DQ_2"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV6"
+					(number "R3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18088,16 +19132,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -1.27 0)
+					(at -17.78 1.27 0)
 					(length 5.08)
-					(name "DDR0_DQ_35/DDR1_DQ_3"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AU6"
+					(number "R6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18106,16 +19150,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -3.81 0)
+					(at -17.78 -1.27 0)
 					(length 5.08)
-					(name "DDR0_DQ_36/DDR1_DQ_4"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AU8"
+					(number "R8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18124,16 +19168,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -6.35 0)
+					(at -17.78 -3.81 0)
 					(length 5.08)
-					(name "DDR0_DQ_37/DDR1_DQ_5"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV8"
+					(number "R33"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18142,16 +19186,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -8.89 0)
+					(at -17.78 -6.35 0)
 					(length 5.08)
-					(name "DDR0_DQ_38/DDR1_DQ_6"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AW6"
+					(number "T1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18160,16 +19204,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -11.43 0)
+					(at -17.78 -8.89 0)
 					(length 5.08)
-					(name "DDR0_DQ_39/DDR1_DQ_7"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AY6"
+					(number "T4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18178,16 +19222,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -13.97 0)
+					(at -17.78 -11.43 0)
 					(length 5.08)
-					(name "DDR0_DQ_40/DDR1_DQ_8"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AY4"
+					(number "T35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18196,16 +19240,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -16.51 0)
+					(at -17.78 -13.97 0)
 					(length 5.08)
-					(name "DDR0_DQ_41/DDR1_DQ_9"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV4"
+					(number "T37"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18214,16 +19258,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -19.05 0)
+					(at -17.78 -16.51 0)
 					(length 5.08)
-					(name "DDR0_DQ_42/DDR1_DQ_10"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AT1"
+					(number "T39"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18232,16 +19276,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -21.59 0)
+					(at -17.78 -19.05 0)
 					(length 5.08)
-					(name "DDR0_DQ_43/DDR1_DQ_11"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AT2"
+					(number "U3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18250,16 +19294,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -24.13 0)
+					(at -17.78 -21.59 0)
 					(length 5.08)
-					(name "DDR0_DQ_44/DDR1_DQ_12"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV3"
+					(number "U6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18268,16 +19312,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -26.67 0)
+					(at -17.78 -24.13 0)
 					(length 5.08)
-					(name "DDR0_DQ_45/DDR1_DQ_13"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AW4"
+					(number "U33"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18286,16 +19330,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -29.21 0)
+					(at -17.78 -26.67 0)
 					(length 5.08)
-					(name "DDR0_DQ_46/DDR1_DQ_14"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AT4"
+					(number "V1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18304,16 +19348,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -31.75 0)
+					(at -17.78 -29.21 0)
 					(length 5.08)
-					(name "DDR0_DQ_47/DDR1_DQ_15"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AT3"
+					(number "V8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18322,16 +19366,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -35.56 0)
+					(at -17.78 -31.75 0)
 					(length 5.08)
-					(name "DDR0_DQ_48/DDR1_DQ_32"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AP2"
+					(number "V35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18340,16 +19384,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -38.1 0)
+					(at -17.78 -34.29 0)
 					(length 5.08)
-					(name "DDR0_DQ_49/DDR1_DQ_33"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AM4"
+					(number "V37"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18358,16 +19402,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -40.64 0)
+					(at -17.78 -36.83 0)
 					(length 5.08)
-					(name "DDR0_DQ_50/DDR1_DQ_34"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AP3"
+					(number "V39"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18376,16 +19420,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -43.18 0)
+					(at -17.78 -39.37 0)
 					(length 5.08)
-					(name "DDR0_DQ_51/DDR1_DQ_35"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AM3"
+					(number "W3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18394,16 +19438,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -45.72 0)
+					(at -17.78 -41.91 0)
 					(length 5.08)
-					(name "DDR0_DQ_52/DDR1_DQ_36"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AP4"
+					(number "W6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18412,16 +19456,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -48.26 0)
+					(at -17.78 -44.45 0)
 					(length 5.08)
-					(name "DDR0_DQ_53/DDR1_DQ_37"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AM2"
+					(number "W33"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18430,16 +19474,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -50.8 0)
+					(at -17.78 -46.99 0)
 					(length 5.08)
-					(name "DDR0_DQ_54/DDR1_DQ_38"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AP1"
+					(number "Y5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18448,16 +19492,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -53.34 0)
+					(at -17.78 -49.53 0)
 					(length 5.08)
-					(name "DDR0_DQ_55/DDR1_DQ_39"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AM1"
+					(number "Y35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18466,16 +19510,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -55.88 0)
+					(at -17.78 -52.07 0)
 					(length 5.08)
-					(name "DDR0_DQ_56/DDR1_DQ_40"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AK3"
+					(number "Y37"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18484,16 +19528,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -58.42 0)
+					(at -17.78 -54.61 0)
 					(length 5.08)
-					(name "DDR0_DQ_57/DDR1_DQ_41"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AH1"
+					(number "K15"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18502,16 +19546,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -60.96 0)
+					(at -17.78 -57.15 0)
 					(length 5.08)
-					(name "DDR0_DQ_58/DDR1_DQ_42"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AK4"
+					(number "K17"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18520,16 +19564,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -63.5 0)
+					(at -17.78 -59.69 0)
 					(length 5.08)
-					(name "DDR0_DQ_59/DDR1_DQ_43"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AH2"
+					(number "K19"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18538,16 +19582,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -66.04 0)
+					(at -17.78 -62.23 0)
 					(length 5.08)
-					(name "DDR0_DQ_60/DDR1_DQ_44"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AH4"
+					(number "K22"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18556,16 +19600,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -68.58 0)
+					(at -17.78 -64.77 0)
 					(length 5.08)
-					(name "DDR0_DQ_61/DDR1_DQ_45"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AK2"
+					(number "K24"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18574,16 +19618,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -71.12 0)
+					(at -17.78 -67.31 0)
 					(length 5.08)
-					(name "DDR0_DQ_62/DDR1_DQ_46"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AH3"
+					(number "K26"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18592,16 +19636,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -73.66 0)
+					(at -17.78 -69.85 0)
 					(length 5.08)
-					(name "DDR0_DQ_63/DDR1_DQ_47"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AK1"
+					(number "K28"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18610,16 +19654,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -77.47 0)
+					(at -17.78 -72.39 0)
 					(length 5.08)
-					(name "DDR0_ECC_0"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AU33"
+					(number "K30"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18628,16 +19672,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -80.01 0)
+					(at -17.78 -74.93 0)
 					(length 5.08)
-					(name "DDR0_ECC_1"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AT33"
+					(number "K33"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18646,16 +19690,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -82.55 0)
+					(at -17.78 -77.47 0)
 					(length 5.08)
-					(name "DDR0_ECC_2"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AW33"
+					(number "K35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18664,16 +19708,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -85.09 0)
+					(at -17.78 -80.01 0)
 					(length 5.08)
-					(name "DDR0_ECC_3"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV31"
+					(number "K37"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18682,16 +19726,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -87.63 0)
+					(at -17.78 -82.55 0)
 					(length 5.08)
-					(name "DDR0_ECC_4"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AU31"
+					(number "L11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18700,16 +19744,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -90.17 0)
+					(at 17.78 90.17 180)
 					(length 5.08)
-					(name "DDR0_ECC_5"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AV33"
+					(number "D4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18718,16 +19762,16 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -92.71 0)
+					(at 17.78 87.63 180)
 					(length 5.08)
-					(name "DDR0_ECC_6"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AW31"
+					(number "D7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18736,16 +19780,1168 @@
 					)
 				)
 				(pin input line
-					(at -40.64 -95.25 0)
+					(at 17.78 85.09 180)
 					(length 5.08)
-					(name "DDR0_ECC_7"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "AY31"
+					(number "D24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 82.55 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 80.01 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 77.47 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 74.93 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 72.39 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 69.85 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 67.31 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 64.77 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 62.23 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 59.69 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 57.15 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 54.61 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 52.07 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 49.53 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 46.99 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 44.45 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 41.91 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 39.37 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 36.83 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 34.29 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "F1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 31.75 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "F4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 29.21 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "F7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 26.67 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "F10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 24.13 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "F22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 21.59 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "F26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 19.05 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "F28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 16.51 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "F30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 13.97 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "F36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 11.43 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "F40"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 8.89 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "G3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 6.35 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "G6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 3.81 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "G11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 1.27 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "G13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -1.27 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "G15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -3.81 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "G17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -6.35 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "G19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -8.89 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "G22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -11.43 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "G31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -13.97 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "G33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -16.51 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -19.05 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -21.59 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -24.13 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -26.67 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -29.21 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -31.75 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -34.29 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -36.83 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -39.37 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -41.91 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -44.45 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -46.99 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -49.53 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "H39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -52.07 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "J3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -54.61 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "J6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -57.15 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "J10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -59.69 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "J12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -62.23 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "J16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -64.77 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "J18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -67.31 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "J20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -69.85 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "J32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -72.39 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "J34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -74.93 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "K1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -77.47 180)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "K14"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18932,7 +21128,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Intel 8th/9th Generation Coffee-Lake LGA1151 CPU"
 			(at 121.92 50.8 0)
 			(effects
 				(font
@@ -19342,196 +21538,196 @@
 		(pin "AL26"
 			(uuid "3e1b4c3a-8cde-45eb-82bb-dd04a76df86c")
 		)
-		(pin "AW35"
+		(pin "K17"
 			(uuid "3fbd6eb6-d291-4330-8c79-d6ade1c0680a")
 		)
-		(pin "AL38"
+		(pin "D39"
 			(uuid "70e907ab-b29f-4302-86f1-bf412e06c5aa")
 		)
-		(pin "AL39"
+		(pin "K15"
 			(uuid "10fe8b73-0817-4d60-8f71-1ada45d75cd4")
 		)
-		(pin "AN39"
+		(pin "P39"
 			(uuid "1c17bf02-e8aa-4fa1-b2ab-b93fa47dcf73")
 		)
-		(pin "AU38"
+		(pin "E9"
 			(uuid "c03fbe8a-5eac-437f-a3af-9686aac35523")
 		)
-		(pin "AM4"
+		(pin "E6"
 			(uuid "42d8b930-9646-4436-82da-9b63fc5dd931")
 		)
-		(pin "AH4"
+		(pin "P35"
 			(uuid "bfe08f4a-bf3f-483c-a217-8231935c4c52")
 		)
-		(pin "AU37"
+		(pin "P1"
 			(uuid "8cf272d4-61e3-410b-9910-becbcfe3183b")
 		)
-		(pin "AW8"
+		(pin "W33"
 			(uuid "c1285924-ccd5-45ba-9eba-65749666d900")
 		)
-		(pin "AY8"
+		(pin "K22"
 			(uuid "cbda15d4-636b-4a3a-997f-707a24f634b1")
 		)
-		(pin "AH2"
+		(pin "U6"
 			(uuid "9d1790bd-81df-4b33-b67c-ffdc53a027ae")
 		)
-		(pin "AV31"
+		(pin "K26"
 			(uuid "fa4f71bf-c741-40b0-88e3-d734e7e35652")
 		)
-		(pin "AV33"
+		(pin "V35"
 			(uuid "9309562e-594c-41d1-9d38-d9b93ad6bc92")
 		)
-		(pin "AT33"
+		(pin "T4"
 			(uuid "107fa4f4-4609-4027-9e5f-a86bdcf1c96f")
 		)
-		(pin "AY6"
+		(pin "T37"
 			(uuid "9279c5bd-7100-4319-81ba-afab2977be82")
 		)
-		(pin "AN40"
+		(pin "K37"
 			(uuid "7764f5a4-4ada-4b0f-9081-53ccd94dfba2")
 		)
-		(pin "AR40"
+		(pin "D28"
 			(uuid "7a6e45cb-b29f-4434-abae-d2028da9dff6")
 		)
 		(pin "AW18"
 			(uuid "c42984d4-46b7-47a7-919e-8033d2cbc9b5")
 		)
-		(pin "AJ37"
+		(pin "L11"
 			(uuid "05f2b31f-1ecf-47a3-843f-56b06e0ce782")
 		)
-		(pin "AR39"
+		(pin "W3"
 			(uuid "cbfd9370-c7c3-48f7-85d5-9de5b097aca1")
 		)
-		(pin "AU8"
+		(pin "U33"
 			(uuid "6d41d55c-9049-4752-bb7a-2f43c4aacd2c")
 		)
-		(pin "AV35"
+		(pin "N3"
 			(uuid "3ac744c1-27a5-44b2-aa9c-ae8d825d0e24")
 		)
-		(pin "AV37"
+		(pin "K28"
 			(uuid "696beeb3-6259-4935-a014-9589b43fde35")
 		)
-		(pin "AV8"
+		(pin "P4"
 			(uuid "1b45925f-c5e5-4872-a412-71637e81596a")
 		)
-		(pin "AW6"
+		(pin "M27"
 			(uuid "2b026c31-9461-42f6-a4f1-e6209c1b77ea")
 		)
-		(pin "AT1"
+		(pin "D4"
 			(uuid "5f0bd531-199d-4a60-9bf0-20ba83b919eb")
 		)
-		(pin "AV3"
+		(pin "R8"
 			(uuid "5cc342a8-edf0-49c2-8d83-acdb2f98e4e1")
 		)
-		(pin "AP1"
+		(pin "N33"
 			(uuid "b556692b-c766-4dab-b54c-4cd0d5a98fe9")
 		)
-		(pin "AT3"
+		(pin "V39"
 			(uuid "ebd1c8bb-305d-45fa-8a1a-49cec442886f")
 		)
-		(pin "AR38"
+		(pin "Y35"
 			(uuid "b237fc72-f596-4a57-8041-18146db4b18b")
 		)
-		(pin "AM1"
+		(pin "D30"
 			(uuid "270509bf-a0b2-421a-9e52-ff333d84ee56")
 		)
-		(pin "AY4"
+		(pin "P37"
 			(uuid "d6979e3c-a58c-49b1-b820-2550ac4affc8")
 		)
-		(pin "AJ40"
+		(pin "M35"
 			(uuid "2f9ec014-69fe-43fd-ace1-f583068aa4a5")
 		)
-		(pin "AL40"
+		(pin "Y37"
 			(uuid "ffb14ff1-6c5b-420b-af9a-45baf3f739bd")
 		)
-		(pin "AT2"
+		(pin "K24"
 			(uuid "858aecc0-7c65-499b-a55d-1c171b1fdc6e")
 		)
-		(pin "AP2"
+		(pin "T39"
 			(uuid "a75bd5b5-f234-46c2-b5b8-05271f5fc20c")
 		)
-		(pin "AP4"
+		(pin "E11"
 			(uuid "04ec06ef-1ffa-45ca-8912-c677b46b39ea")
 		)
-		(pin "AH1"
+		(pin "E15"
 			(uuid "6c8f6463-765b-4017-90e5-649389a3a766")
 		)
-		(pin "AV4"
+		(pin "AR3"
 			(uuid "c4aa594c-9c52-44bd-8981-ff1267e72161")
 		)
-		(pin "AW4"
+		(pin "AT6"
 			(uuid "763904f1-9181-45ea-a383-630b30953924")
 		)
-		(pin "AK4"
+		(pin "R33"
 			(uuid "87159788-17ac-46a6-a95a-efc9c55d9601")
 		)
-		(pin "AW37"
+		(pin "N8"
 			(uuid "24dbeae1-a6f9-4f7f-9782-0480965bf5f4")
 		)
-		(pin "AJ39"
+		(pin "AT24"
 			(uuid "7da17c82-730b-43fd-8354-e51ca375cd68")
 		)
-		(pin "AN37"
+		(pin "V37"
 			(uuid "0c2f0cee-fd52-48af-a737-505a6cfe51c4")
 		)
-		(pin "AR37"
+		(pin "AV5"
 			(uuid "37278144-72a9-4437-bb80-0a2b19f5ebc1")
 		)
-		(pin "AU35"
+		(pin "AT25"
 			(uuid "ebe4c025-3327-419c-adcf-7da69e83d76e")
 		)
-		(pin "AV6"
+		(pin "AR27"
 			(uuid "cbb58316-1831-49e0-857e-509292b066c4")
 		)
-		(pin "AL37"
+		(pin "AT34"
 			(uuid "62f9d946-e09f-462f-b5b2-fa2465a511f5")
 		)
-		(pin "AN38"
+		(pin "W6"
 			(uuid "a5352653-c27e-4c7f-bddb-867b798995d9")
 		)
-		(pin "AU6"
+		(pin "AU4"
 			(uuid "c05d5ad7-2d0a-4274-81a1-e95f4c254bea")
 		)
-		(pin "AM2"
+		(pin "AR33"
 			(uuid "a1ac5bb8-40aa-447f-88fd-0dea712783f9")
 		)
-		(pin "AK3"
+		(pin "AT11"
 			(uuid "078deac1-b6fc-46ad-aac7-035c24d23e87")
 		)
-		(pin "AM3"
+		(pin "N6"
 			(uuid "03e83196-e743-448c-8639-d4c42ce0c8f0")
 		)
-		(pin "AT35"
+		(pin "AT13"
 			(uuid "8e8718f6-3920-4779-a43d-51de7d6771fa")
 		)
-		(pin "AT4"
+		(pin "AR35"
 			(uuid "d942cf42-0842-4346-85f4-07a1f9e43d0e")
 		)
-		(pin "AP3"
+		(pin "AR30"
 			(uuid "3fc7ce29-c4a5-46e1-ae18-b86b2d6b4676")
 		)
-		(pin "AH3"
+		(pin "AT7"
 			(uuid "4f4a7fe1-afb8-462a-a84b-ed20ab11ae16")
 		)
-		(pin "AK1"
+		(pin "AT26"
 			(uuid "a5c5b1a1-74c4-42e2-a6e0-f7c7457c01a7")
 		)
-		(pin "AU33"
+		(pin "AT31"
 			(uuid "f5d10bae-3a91-42b4-bebd-61ce916211b7")
 		)
-		(pin "AK2"
+		(pin "V1"
 			(uuid "405ad61d-a501-42e0-98ba-ebb13aabcc3f")
 		)
-		(pin "AW33"
+		(pin "T1"
 			(uuid "8a02afaf-8e0e-4431-87b3-fee571bcadd4")
 		)
-		(pin "AU31"
+		(pin "AU30"
 			(uuid "5ec1038e-979f-478d-af12-65f2b92e55ba")
 		)
-		(pin "AW31"
+		(pin "AT32"
 			(uuid "8aca1c3d-2fe9-4465-8003-1dcd935b498a")
 		)
-		(pin "AY31"
+		(pin "AV26"
 			(uuid "558e5496-89c2-47b6-b332-4f5964d505dc")
 		)
 		(pin "AU14"
@@ -19906,31 +22102,31 @@
 		(pin "AF7"
 			(uuid "d0ef0803-5f25-4cd8-b633-bcfff2970719")
 		)
-		(pin "AE39"
+		(pin "AT12"
 			(uuid "0eea991a-d7b0-4879-89d3-e31f69a4bcb9")
 		)
-		(pin "AE40"
+		(pin "AY30"
 			(uuid "c8b217ef-8479-4196-bcd6-062534405640")
 		)
-		(pin "AG39"
+		(pin "AV30"
 			(uuid "cdb89c1e-f6ba-404f-876f-e16507b71af9")
 		)
-		(pin "AG37"
+		(pin "AW36"
 			(uuid "a435c784-b5fc-4efc-b43f-0721bc4c9f9d")
 		)
-		(pin "AG40"
+		(pin "AT29"
 			(uuid "d97acb63-3f8a-42d0-b5b3-1e53e06e40fe")
 		)
-		(pin "AJ38"
+		(pin "AV38"
 			(uuid "b0e7147b-b0c4-4cea-af0e-a27813da36c9")
 		)
-		(pin "AG38"
+		(pin "AR32"
 			(uuid "80db873a-2fbd-47b6-a48d-fd07dd4887c4")
 		)
-		(pin "AE37"
+		(pin "AT37"
 			(uuid "31c05d4c-331a-47be-bceb-d40aa10a19db")
 		)
-		(pin "AE38"
+		(pin "AW3"
 			(uuid "eb77e3d1-3330-464c-a11e-06d238ddfff3")
 		)
 		(pin "F20"
@@ -20743,37 +22939,37 @@
 		(pin "AN39"
 			(uuid "8c7f792a-c05b-480c-92e0-0f0a4e171c11")
 		)
-		(pin "AM4"
+		(pin "J3"
 			(uuid "4eb2b186-478f-408d-a0a4-6f0e97d38e37")
 		)
-		(pin "AY8"
+		(pin "H21"
 			(uuid "6ffca18f-90d8-47de-9bd6-da29528b22e2")
 		)
-		(pin "AK4"
+		(pin "F40"
 			(uuid "b22a018b-0ace-47c0-b5ac-ef27d1ecd5fd")
 		)
-		(pin "AW4"
+		(pin "G13"
 			(uuid "9c50b654-29ae-437d-b088-34ec91fbf86f")
 		)
-		(pin "AV8"
+		(pin "G11"
 			(uuid "a3d8cd42-e36b-4560-a1b2-4380293dc559")
 		)
-		(pin "AM3"
+		(pin "F36"
 			(uuid "fcb802db-db42-472f-bebf-df10bc51648b")
 		)
 		(pin "AW35"
 			(uuid "36e5f984-0666-40e8-8b89-df17671ea054")
 		)
-		(pin "AH2"
+		(pin "F28"
 			(uuid "55c5f682-1faf-4947-bdf0-b717806f1290")
 		)
-		(pin "AV3"
+		(pin "G31"
 			(uuid "7c26819e-4158-48bc-af3e-dbb4b04f672f")
 		)
-		(pin "AW33"
+		(pin "H4"
 			(uuid "d921c460-1860-4c52-9dc8-09646bf9e139")
 		)
-		(pin "AY4"
+		(pin "J20"
 			(uuid "6d309da3-fbf2-4865-b7d3-c89a151075ab")
 		)
 		(pin "AU37"
@@ -20785,28 +22981,28 @@
 		(pin "AW37"
 			(uuid "bcdeb8af-e9fe-493f-be73-87fffb7d1c9b")
 		)
-		(pin "AT4"
+		(pin "G22"
 			(uuid "65ed8d8d-75f8-4326-abb3-a8636d5051f1")
 		)
-		(pin "AP4"
+		(pin "H37"
 			(uuid "bcaf5ca8-51b6-480b-8753-a97c0552132f")
 		)
-		(pin "AK3"
+		(pin "F30"
 			(uuid "5b5cbbba-3021-4feb-b5fa-a6e6527af959")
 		)
-		(pin "AV4"
+		(pin "H28"
 			(uuid "137235e8-37cb-41fc-a192-b2ad71b3a130")
 		)
-		(pin "AP3"
+		(pin "F10"
 			(uuid "6647df5b-19d3-4408-a868-4090b2c6fb6a")
 		)
-		(pin "AH1"
+		(pin "E19"
 			(uuid "24551f1b-ead5-49fe-aa90-f2e4cded52df")
 		)
-		(pin "AK1"
+		(pin "E21"
 			(uuid "ce3be83e-d660-4d98-9e4c-467fd65c9b12")
 		)
-		(pin "AU31"
+		(pin "J6"
 			(uuid "db8a8ac4-9b45-47fe-98fd-7ab6f3c787d8")
 		)
 		(pin "AV35"
@@ -20815,76 +23011,76 @@
 		(pin "AT35"
 			(uuid "4720ab34-4001-40a0-bd69-0c53ef271b6e")
 		)
-		(pin "AU8"
+		(pin "J10"
 			(uuid "5c883235-af32-472d-ab87-ba8b2339be64")
 		)
-		(pin "AT3"
+		(pin "H24"
 			(uuid "d9cc30f3-4a27-45b9-82c6-3d89a099fa32")
 		)
-		(pin "AV6"
+		(pin "H1"
 			(uuid "6c5b52b3-a8e7-4436-9d0e-9cfa82e4f128")
 		)
-		(pin "AW6"
+		(pin "E37"
 			(uuid "43ea3e98-a3b7-4643-9a09-2dcac47c6910")
 		)
-		(pin "AT1"
+		(pin "G33"
 			(uuid "3ad8c15c-5a18-4c99-b72e-135dda4e76ab")
 		)
-		(pin "AM1"
+		(pin "J16"
 			(uuid "d08c96b3-1b9b-4913-a583-bf5de66cbdcc")
 		)
-		(pin "AM2"
+		(pin "F26"
 			(uuid "55b461b3-bded-4793-900e-7b2c9c9036cb")
 		)
-		(pin "AH4"
+		(pin "E33"
 			(uuid "392d9b25-eb23-4df9-bdeb-3502112a6ae1")
 		)
-		(pin "AH3"
+		(pin "H12"
 			(uuid "09b03d0c-059f-4bdd-b3cf-8d4c3d3f95e8")
 		)
-		(pin "AT33"
+		(pin "H7"
 			(uuid "4e8a6b87-5288-48f3-b991-72835142ea34")
 		)
 		(pin "AV37"
 			(uuid "fa842367-e35d-4e51-b8bf-d3871a1dfdbd")
 		)
-		(pin "AY6"
+		(pin "J32"
 			(uuid "5f90c7cd-8d57-46c7-bc15-a4371b1ef404")
 		)
-		(pin "AU6"
+		(pin "F22"
 			(uuid "2706e33c-53c7-40bb-837d-6c1c7c551c9d")
 		)
-		(pin "AT2"
+		(pin "G15"
 			(uuid "543469ab-b9bb-4794-aed3-834ee2aaa3f9")
 		)
-		(pin "AP2"
+		(pin "G3"
 			(uuid "172d203b-9906-4f4b-b15c-d7ba08b41921")
 		)
-		(pin "AK2"
+		(pin "H11"
 			(uuid "a246a228-de81-4306-bbf9-6707b5e06d54")
 		)
-		(pin "AV31"
+		(pin "H26"
 			(uuid "bc108a5c-b4c3-4d12-8b05-d36429941ed4")
 		)
-		(pin "AW8"
+		(pin "E31"
 			(uuid "13ee6d4c-e4a9-46a5-8428-65ad2be766c7")
 		)
-		(pin "AW31"
+		(pin "E35"
 			(uuid "1fea6220-1d67-47b4-994a-84e1344be73f")
 		)
 		(pin "AU38"
 			(uuid "8c1a35f7-5766-4aee-bc93-aa8a91b80058")
 		)
-		(pin "AP1"
+		(pin "G17"
 			(uuid "66800188-c9d1-483d-bf62-e25be51b59d9")
 		)
-		(pin "AV33"
+		(pin "H35"
 			(uuid "843d3de6-d72e-4825-af66-c224e0300a4e")
 		)
-		(pin "AY31"
+		(pin "F1"
 			(uuid "655d876b-ce1b-4bf6-a2e9-cc46eb3000a4")
 		)
-		(pin "AU33"
+		(pin "F7"
 			(uuid "35436d5a-c34e-40b5-b75a-99d356e241ce")
 		)
 		(pin "L33"
@@ -21355,46 +23551,46 @@
 		(pin "J13"
 			(uuid "6b29e158-cc15-4072-99b3-ebf80d3a2482")
 		)
-		(pin "AN39"
+		(pin "H39"
 			(uuid "5fc77d21-619b-4672-a3d7-bc02ff0d0de1")
 		)
-		(pin "AR39"
+		(pin "G19"
 			(uuid "426f6182-2763-42cd-9f5a-847154ec92b1")
 		)
 		(pin "D1"
 			(uuid "8ab46d25-8b86-4bff-b8c6-d955753f206c")
 		)
-		(pin "AN40"
+		(pin "R6"
 			(uuid "ddbd78ea-2c1c-457d-8811-492a205910ac")
 		)
-		(pin "AR40"
+		(pin "M29"
 			(uuid "2bd57e31-1ad8-43e5-b7f6-6bb3450f1b4b")
 		)
-		(pin "AV37"
+		(pin "T35"
 			(uuid "a34ee338-e013-428c-9032-e825c2e60164")
 		)
-		(pin "AJ38"
+		(pin "K35"
 			(uuid "607a23af-ae4c-46ce-83a8-f1c08b853e07")
 		)
 		(pin "AB35"
 			(uuid "5d2e5bb1-9436-4888-9936-0d98b158be44")
 		)
-		(pin "AE38"
+		(pin "E23"
 			(uuid "67283140-03ff-4c17-b5ec-9bbe35cbac59")
 		)
-		(pin "AG40"
+		(pin "Y5"
 			(uuid "d077a7ac-40c9-4464-ba13-f71df6c2994f")
 		)
-		(pin "AL37"
+		(pin "D26"
 			(uuid "cba075b1-2be2-44e8-9fa6-84f3f67fb098")
 		)
-		(pin "AN38"
+		(pin "J12"
 			(uuid "18dc0d5b-b435-4390-b50f-e1c4d9b3c876")
 		)
 		(pin "K11"
 			(uuid "547abe60-a9f8-4676-82e8-013f4cf9a68b")
 		)
-		(pin "AG37"
+		(pin "K1"
 			(uuid "3d880e94-aa4b-4c36-93a0-3942fc60f289")
 		)
 		(pin "K12"
@@ -21406,16 +23602,16 @@
 		(pin "J11"
 			(uuid "d1bacbd9-dd36-40b0-96c6-3cb1c469f951")
 		)
-		(pin "AE39"
+		(pin "K33"
 			(uuid "48cf5f68-b2b4-4c5c-8741-3a5e80d8a372")
 		)
 		(pin "L12"
 			(uuid "0cf5b5d3-502f-4a03-9f39-0d81d239b642")
 		)
-		(pin "AE37"
+		(pin "D7"
 			(uuid "c5bc9a8c-edf5-49aa-95ba-dc29cc0774ba")
 		)
-		(pin "AE40"
+		(pin "K14"
 			(uuid "c519a018-3188-4bf2-bb82-b9a536b0549b")
 		)
 		(pin "K13"
@@ -21430,10 +23626,10 @@
 		(pin "AU10"
 			(uuid "6778aa92-c74d-4631-9cd9-86d49e481de4")
 		)
-		(pin "AJ37"
+		(pin "D37"
 			(uuid "dd644cc4-e3be-4fb7-9980-09b269846c95")
 		)
-		(pin "AL38"
+		(pin "K30"
 			(uuid "e424de70-c441-472e-a24d-11fa9da98009")
 		)
 		(pin "AB37"
@@ -21442,61 +23638,61 @@
 		(pin "AJ22"
 			(uuid "9c9a0863-3c93-46f8-bdcf-55bb1be7ae67")
 		)
-		(pin "AJ40"
+		(pin "E3"
 			(uuid "c70cf22a-eec5-4372-aec1-aeebd27e8081")
 		)
 		(pin "G8"
 			(uuid "1b0fbd7a-2ead-4413-a848-90c6ce9c0c9f")
 		)
-		(pin "AL39"
+		(pin "M39"
 			(uuid "a0baf040-6a52-46db-9a2a-259b2ded9aa5")
 		)
-		(pin "AL40"
+		(pin "G6"
 			(uuid "ff7bcdde-e7c7-4317-a137-654350b39a45")
 		)
 		(pin "AY3"
 			(uuid "b72bf25f-1ce5-4798-9683-55e7c959605f")
 		)
-		(pin "AR38"
+		(pin "F4"
 			(uuid "88bdc0fb-8d8a-42bb-b50a-f809d27c6a1d")
 		)
 		(pin "AU9"
 			(uuid "26b6d2d7-d537-4a80-84bd-16324430a1bb")
 		)
-		(pin "AG39"
+		(pin "D24"
 			(uuid "f3628203-b19e-4e3a-b189-485172a0236b")
 		)
-		(pin "AG38"
+		(pin "U3"
 			(uuid "531c78b7-9f56-477c-b61d-6354a00dbec6")
 		)
-		(pin "AJ39"
+		(pin "V8"
 			(uuid "d324182c-3585-4b49-bd91-ebe00ece036a")
 		)
-		(pin "AR37"
+		(pin "H9"
 			(uuid "a7d3b0d3-9594-431e-a924-76e41a10a832")
 		)
-		(pin "AN37"
+		(pin "H30"
 			(uuid "d700f762-7173-4846-9ad6-266a5d69db93")
 		)
-		(pin "AW37"
+		(pin "J18"
 			(uuid "20e8d0e9-013b-4967-a2c6-5f242866a6b0")
 		)
-		(pin "AU38"
+		(pin "M37"
 			(uuid "86577836-a686-4cb0-8561-71f03a806285")
 		)
-		(pin "AV35"
+		(pin "J34"
 			(uuid "62cd1f40-8d1e-4c27-b068-f53cb39239da")
 		)
-		(pin "AW35"
+		(pin "E13"
 			(uuid "1526684a-9f55-402f-b0a3-82db33b8f9d1")
 		)
-		(pin "AU37"
+		(pin "E17"
 			(uuid "d6429664-355f-4cd8-83f3-ea467516c101")
 		)
-		(pin "AT35"
+		(pin "K19"
 			(uuid "b4736fc5-0c99-4d9a-8201-574d5cf7f931")
 		)
-		(pin "AU35"
+		(pin "R3"
 			(uuid "891bdc33-a443-44da-9ae7-b1e4a415d5b9")
 		)
 		(pin "M14"
@@ -22054,6 +24250,372 @@
 		(pin "L27"
 			(uuid "b107b53e-cf10-4d9e-880b-8c5157fd49e6")
 		)
+		(pin "AT9"
+			(uuid "1d12725b-fed5-4783-a40c-f5b5021470e6")
+		)
+		(pin "AT14"
+			(uuid "833bfbea-445d-41db-b44e-13cb461b62f6")
+		)
+		(pin "AT27"
+			(uuid "240caa3b-2e83-45b9-aec6-ec0958230a01")
+		)
+		(pin "AT38"
+			(uuid "5547bee3-0ebc-446b-afab-225a0dedcbc2")
+		)
+		(pin "AT40"
+			(uuid "413d028a-b777-4b8c-af68-60a3ae8785a5")
+		)
+		(pin "AR24"
+			(uuid "f535afd5-4ffe-4657-8e46-ba045c0dc5c0")
+		)
+		(pin "AT10"
+			(uuid "f757c76a-bf28-4db6-a2e7-a67846eacc3b")
+		)
+		(pin "AT17"
+			(uuid "923030d2-b958-4f56-80c1-9a3f9219a5e1")
+		)
+		(pin "AR31"
+			(uuid "9c953dce-d3af-4775-b8b8-80b2cf3d16cf")
+		)
+		(pin "AT30"
+			(uuid "472c034e-fb6f-4b8f-a4d2-011654190212")
+		)
+		(pin "AT8"
+			(uuid "94bb47a7-7134-4144-be78-9e4412ef219b")
+		)
+		(pin "AT36"
+			(uuid "4a703477-d52b-47fa-9d66-4b84897fb5bd")
+		)
+		(pin "AR4"
+			(uuid "49cb17bb-0cc1-4924-b437-254db103666b")
+		)
+		(pin "AR5"
+			(uuid "dcf529fe-751f-4537-b442-7440aaa77d52")
+		)
+		(pin "AT5"
+			(uuid "146eeddc-f508-4a70-9d0f-4deb1e5c7a44")
+		)
+		(pin "AT28"
+			(uuid "c40cbafe-b67f-4d7e-8d3c-94606494a7b7")
+		)
+		(pin "AU5"
+			(uuid "6d06c67f-d206-4feb-b2a2-7cc9c0cce0e6")
+		)
+		(pin "AR34"
+			(uuid "6356185c-de59-469a-bb9a-120b8af41292")
+		)
+		(pin "AU7"
+			(uuid "d5d41e77-cac0-446f-86a3-2df09212fca1")
+		)
+		(pin "AR36"
+			(uuid "6b70d386-ab6d-42df-9afc-943ee77d960b")
+		)
+		(pin "AU25"
+			(uuid "de99f1fc-7a0c-4eb4-bb72-0bf1eba153b1")
+		)
+		(pin "AU1"
+			(uuid "dd8fbad9-a475-4fae-86b9-b6b8a6e8b4eb")
+		)
+		(pin "AU34"
+			(uuid "9d322bce-97d1-43f0-bcc9-8c7b1de07902")
+		)
+		(pin "AV2"
+			(uuid "b3094fb5-65c8-40d9-8dc8-412bb358be83")
+		)
+		(pin "AT39"
+			(uuid "6b42e6f9-056d-4499-838c-405e960da4bd")
+		)
+		(pin "AV9"
+			(uuid "72223cb4-4421-42a7-9d0e-3cbd0231572e")
+		)
+		(pin "AV28"
+			(uuid "69a07b7a-8611-4ed9-8f9a-2688fa5671ab")
+		)
+		(pin "AV34"
+			(uuid "4819dd92-1e32-4d8b-b955-526cf84e9c0e")
+		)
+		(pin "AW5"
+			(uuid "9f251535-f4c9-44ff-a79b-ef5bb87e264a")
+		)
+		(pin "AW9"
+			(uuid "0ad68b1f-0520-475c-b430-39fcc79d6083")
+		)
+		(pin "AW30"
+			(uuid "5f46f5e1-4528-428d-ba83-bcb4e7d818ab")
+		)
+		(pin "AY5"
+			(uuid "289176d3-c9e6-401c-b095-6297db7b03bb")
+		)
+		(pin "AY7"
+			(uuid "368ddb3c-f3da-4a51-b02c-ddb06c34eb7a")
+		)
+		(pin "AW32"
+			(uuid "f993075b-6483-4886-93d3-f0f92c0fc434")
+		)
+		(pin "AW34"
+			(uuid "a9dda9d3-7c0f-425d-a1e2-f9520d82941b")
+		)
+		(pin "AY9"
+			(uuid "b85a1ba1-2647-4590-bc3f-f254ea35ac90")
+		)
+		(pin "AY27"
+			(uuid "bd4a07a0-d138-49fa-a1da-bfd44483a5cd")
+		)
+		(pin "AN11"
+			(uuid "6bcdb387-dab8-491d-bae9-b498e660d26a")
+		)
+		(pin "AR14"
+			(uuid "b87dcbd0-9eba-47ce-b762-c2dbd22e515f")
+		)
+		(pin "AN36"
+			(uuid "3ee33031-c195-49fa-bd00-89009ed5f2da")
+		)
+		(pin "AN1"
+			(uuid "e002fab5-d469-42d5-9cf1-f6cb654237fc")
+		)
+		(pin "AN9"
+			(uuid "4ee7e454-504f-442f-88dd-d5ce474e1f75")
+		)
+		(pin "AV39"
+			(uuid "7b013a96-6960-4300-b28c-c861d2830535")
+		)
+		(pin "AN24"
+			(uuid "4aa76263-5f73-426a-92b1-d242439613eb")
+		)
+		(pin "B24"
+			(uuid "6fd4d7e7-7e67-4303-8b31-a9c06fdc1bea")
+		)
+		(pin "C10"
+			(uuid "8d26a26c-075e-4953-849f-55f7d207f538")
+		)
+		(pin "C12"
+			(uuid "534e216f-6608-4fe3-b303-b82aba750237")
+		)
+		(pin "C16"
+			(uuid "2c063a1f-990c-49d5-99fe-a1f082a0c732")
+		)
+		(pin "C22"
+			(uuid "ce86f46a-99c2-4c06-9db5-3bb8b1ea095c")
+		)
+		(pin "AU39"
+			(uuid "9d94925c-8ce8-4570-b69a-c8aff34bb532")
+		)
+		(pin "AN30"
+			(uuid "95225030-cb53-44d1-aab0-e8128099a83a")
+		)
+		(pin "AN10"
+			(uuid "a977b6c7-78f2-4f33-a033-50539ec18ce9")
+		)
+		(pin "C37"
+			(uuid "77aa6df2-a30f-4747-b0ba-a717ab1e54fc")
+		)
+		(pin "AR20"
+			(uuid "342779d2-25fa-47a5-aa19-1e192153493d")
+		)
+		(pin "B26"
+			(uuid "0d35ac8f-3022-4156-8bcc-d5491a9a0ac3")
+		)
+		(pin "AN14"
+			(uuid "d19eb7ac-dcaf-40a5-b83f-0f80d283d802")
+		)
+		(pin "AT15"
+			(uuid "c4f0d91d-21e3-453d-9c50-4addd33fab57")
+		)
+		(pin "AR2"
+			(uuid "1f03eba7-d945-452c-9678-634c7c962c30")
+		)
+		(pin "C20"
+			(uuid "82d53ec7-7bde-40aa-9cdd-a67a5a514136")
+		)
+		(pin "AN5"
+			(uuid "087e1cb8-4deb-4dd8-98e2-14b4f0c34bdc")
+		)
+		(pin "AP27"
+			(uuid "cbab4c07-11a8-413a-804a-0e883d6e15c7")
+		)
+		(pin "AN22"
+			(uuid "7123756f-e01f-44b2-ae19-ba1f5b405230")
+		)
+		(pin "AN23"
+			(uuid "22ca5bb3-b6e7-4ec7-8ccd-7eb66bd94559")
+		)
+		(pin "AP37"
+			(uuid "ab5d284f-f77a-46aa-90d5-d6ea4d5661af")
+		)
+		(pin "C24"
+			(uuid "dab475ce-4f41-4a32-8bb4-ed2e2d706594")
+		)
+		(pin "AP5"
+			(uuid "7df237c1-3f73-49e4-89a7-c670bad53d14")
+		)
+		(pin "AP11"
+			(uuid "039526fd-ab7c-4f37-b8b5-8afa3559c51e")
+		)
+		(pin "AN7"
+			(uuid "b56cc88f-aa21-4b91-9b88-de2f635f13d4")
+		)
+		(pin "AP14"
+			(uuid "a5e28b72-e787-469c-b8cb-1cb3e091f04e")
+		)
+		(pin "AR18"
+			(uuid "659223cb-b0f5-46ca-87e0-12f4ec79dcb9")
+		)
+		(pin "AN4"
+			(uuid "5ca77954-69c5-476b-aea8-df77ee3c62e0")
+		)
+		(pin "AN16"
+			(uuid "73aec4c0-a766-466b-9896-842d7945d4d6")
+		)
+		(pin "AP24"
+			(uuid "00e28177-5259-44fb-994d-20f94a4c9c55")
+		)
+		(pin "AR21"
+			(uuid "fcc97ab8-20ed-4660-8bf6-a95710d0fae2")
+		)
+		(pin "AR22"
+			(uuid "5116e5f6-92bb-475a-b73c-2f417ade3e32")
+		)
+		(pin "AP36"
+			(uuid "f40bdf6c-1585-4b8e-a31f-6e7aa96105f0")
+		)
+		(pin "AN6"
+			(uuid "9bb472eb-1cc8-4b33-8299-db66ff97dae0")
+		)
+		(pin "AN19"
+			(uuid "b59bf343-a361-4490-9cf5-f49097f56360")
+		)
+		(pin "AN8"
+			(uuid "043fa5d8-a84e-46a3-bf96-7d144daefbca")
+		)
+		(pin "AR16"
+			(uuid "f23909e0-1f15-4916-a284-4b17e69a7bed")
+		)
+		(pin "AR19"
+			(uuid "7d1f9242-5a56-4d0e-8fcc-7ae0385f3d88")
+		)
+		(pin "AP40"
+			(uuid "4333ce60-1f13-4164-b81c-cbfb22d170c2")
+		)
+		(pin "AR23"
+			(uuid "92574d5f-5d36-49b8-97ea-beffe540d739")
+		)
+		(pin "AP30"
+			(uuid "3fa9e62f-7bc7-4504-bae5-cdd9e1ebf23c")
+		)
+		(pin "AR1"
+			(uuid "05108ad0-8856-4e93-b255-6a9e73b505c0")
+		)
+		(pin "AN27"
+			(uuid "e5e62b63-9333-40c6-a751-f23f7adcd2e2")
+		)
+		(pin "AR17"
+			(uuid "ed5eb83a-f3c7-4d6d-beb7-5a9e09ecd8c1")
+		)
+		(pin "AR11"
+			(uuid "7b43b221-1cd6-4da7-988b-b01724b49d28")
+		)
+		(pin "C5"
+			(uuid "bb25dce6-cf76-416f-8361-9e3fc04f0c6a")
+		)
+		(pin "B28"
+			(uuid "e631d766-9e7d-4114-b6f9-323a88faaea7")
+		)
+		(pin "AU40"
+			(uuid "b92a4f88-89da-453f-8a68-6852d3e842bc")
+		)
+		(pin "AW38"
+			(uuid "ab14b66f-2f72-4082-814e-026fea6ae9e7")
+		)
+		(pin "C8"
+			(uuid "4b4f3ced-531c-4302-af6f-ab8837f0d49c")
+		)
+		(pin "B30"
+			(uuid "4bbb9d09-8a42-45d2-a761-0aa88f9fb5ec")
+		)
+		(pin "B38"
+			(uuid "b4b4eb6a-ecaa-4892-8464-e69a0869f9b5")
+		)
+		(pin "C2"
+			(uuid "5ee832e3-c748-4c94-ac33-201db48f82d5")
+		)
+		(pin "C14"
+			(uuid "e859bcfe-03f6-4192-bb53-0e3a74f4ba3c")
+		)
+		(pin "C18"
+			(uuid "810e5eae-687f-4b20-b358-f83518d5f4b4")
+		)
+		(pin "C31"
+			(uuid "0dbaee12-1e22-4083-b3ff-ab4f87a46828")
+		)
+		(pin "C33"
+			(uuid "a71543d6-91c2-4f7e-9763-520498cb0b9d")
+		)
+		(pin "C35"
+			(uuid "ca41571d-7df0-437d-bbfe-7119f22b8dc7")
+		)
+		(pin "K4"
+			(uuid "7e2bdd67-9380-4e2e-9e7f-76b3d8e25322")
+		)
+		(pin "M7"
+			(uuid "8411e3ed-9188-404e-965e-0b2e37d3f897")
+		)
+		(pin "M10"
+			(uuid "01d54f2c-08e2-46cb-aae7-144cf281d02c")
+		)
+		(pin "M12"
+			(uuid "6b7dfc25-72fa-4cee-b59a-563de8e603fd")
+		)
+		(pin "D40"
+			(uuid "6ccf6bec-f0ac-4f4e-9bbd-167ce600c086")
+		)
+		(pin "M17"
+			(uuid "b3d59078-c58e-4068-b723-d3a9b00c810e")
+		)
+		(pin "M21"
+			(uuid "f33b011b-2db4-4435-881c-48b180b8a5c3")
+		)
+		(pin "M1"
+			(uuid "55b946dc-ffff-4934-a7f8-a92885964c34")
+		)
+		(pin "M23"
+			(uuid "7f64087c-20dc-4ab7-b9d5-083b9892c61d")
+		)
+		(pin "L3"
+			(uuid "e5bf1107-4e40-46c7-af2f-ad8b72fe27fa")
+		)
+		(pin "M19"
+			(uuid "8dcf2556-96bc-49b3-b9fa-2fb3e4d2eb03")
+		)
+		(pin "K39"
+			(uuid "10151100-3d52-4e87-afe6-262a86ef2ac6")
+		)
+		(pin "L9"
+			(uuid "6f9e2b8e-b639-4005-80ab-8925b40f34e0")
+		)
+		(pin "L13"
+			(uuid "c1c05783-35f1-4833-ac39-cea3d4c57673")
+		)
+		(pin "M4"
+			(uuid "6ca7f148-6f65-4219-8452-453267070c79")
+		)
+		(pin "M15"
+			(uuid "7b068d16-e4a4-4ed2-9756-00863e75feaf")
+		)
+		(pin "M25"
+			(uuid "15296823-401e-4e95-a3c8-16f94f1877b2")
+		)
+		(pin "L6"
+			(uuid "003cf814-1443-431c-9882-8837c36038ab")
+		)
+		(pin "L32"
+			(uuid "8de64c34-3168-46e2-8e75-e71b4f58f4c6")
+		)
+		(pin "B6"
+			(uuid "9684d282-31d1-427d-abe6-27130b4d0288")
+		)
+		(pin "K7"
+			(uuid "9626ad8b-d4a1-4e04-a71e-17d14d782382")
+		)
 		(instances
 			(project ""
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/e4d810de-49e6-45ae-bbfb-8cff0175b3e3"
@@ -22072,7 +24634,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "db4284db-5591-4201-8e26-c2f00178a519")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR4"
 			(at 86.36 109.22 0)
 			(effects
 				(font
@@ -22122,7 +24684,7 @@
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/e4d810de-49e6-45ae-bbfb-8cff0175b3e3"
-					(reference "#PWR04")
+					(reference "#PWR4")
 					(unit 1)
 				)
 			)
