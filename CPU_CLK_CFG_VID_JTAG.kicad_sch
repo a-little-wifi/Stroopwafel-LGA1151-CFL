@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "d45676ca-2460-48ae-aca0-bcd6f94f4886")
+	(uuid "552cf02f-eb3b-4a2d-8f8f-765deff69f85")
 	(paper "A4")
 	(title_block
 		(title "CPU Clock, CFG, VID & JTAG")
@@ -13,7 +13,7 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "JCPU"
+			(property "Reference" "JCPU1"
 				(at 0 97.79 0)
 				(effects
 					(font
@@ -30,7 +30,7 @@
 				)
 			)
 			(property "Footprint" "A-my-stuff:LGA-1151_L47.1-W42.5-P0.91_PE115127-4041-01H"
-				(at 0 97.79 0)
+				(at 0 -111.76 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -20980,7 +20980,7 @@
 			)
 		)
 		(property "Footprint" "A-my-stuff:LGA-1151_L47.1-W42.5-P0.91_PE115127-4041-01H"
-			(at 142.24 146.05 0)
+			(at 142.24 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22634,9 +22634,6 @@
 		)
 		(pin "Y4"
 			(uuid "4b054b57-5964-4a1c-a5c7-f26ae1bb6f87")
-		)
-		(pin "J5"
-			(uuid "f8b17560-80c0-409e-8331-f42d8abdee82")
 		)
 		(pin "AA4"
 			(uuid "bea7f9d4-31ee-4fd8-8fe1-819db866b12d")
@@ -24459,8 +24456,15 @@
 		(pin "AV5"
 			(uuid "1c126936-10e9-4629-a694-f07c6b9163af")
 		)
+		(pin "J5"
+			(uuid "e127965b-cc1d-457a-83e7-a0267d2eeea4")
+		)
 		(instances
 			(project ""
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/061fe2d6-87c2-48c2-90bb-0928700512fc"
+					(reference "JCPU1")
+					(unit 5)
+				)
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/1c68e8a0-095a-4b5e-9e5b-76592d9951b4"
 					(reference "JCPU1")
 					(unit 5)

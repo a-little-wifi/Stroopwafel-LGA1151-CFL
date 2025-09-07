@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "dbd1b975-f74e-4f84-b8d1-25abfed58b28")
+	(uuid "64d95547-291d-4bbb-88bb-59ec48e335a7")
 	(paper "A4")
 	(title_block
 		(title "CPU PCIe & DMI interface")
@@ -13,7 +13,7 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "JCPU"
+			(property "Reference" "JCPU1"
 				(at 0 97.79 0)
 				(effects
 					(font
@@ -30,7 +30,7 @@
 				)
 			)
 			(property "Footprint" "A-my-stuff:LGA-1151_L47.1-W42.5-P0.91_PE115127-4041-01H"
-				(at 0 97.79 0)
+				(at 0 -111.76 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -23595,9 +23595,6 @@
 		(pin "AN13"
 			(uuid "457b5a5e-bebb-494c-ad0b-f3c1625683cb")
 		)
-		(pin "J5"
-			(uuid "69e09633-c2fd-4c29-9aa6-235ed8507a7d")
-		)
 		(pin "AM23"
 			(uuid "b405145a-81ac-4a7b-9a32-9772bd212886")
 		)
@@ -24458,6 +24455,9 @@
 		)
 		(pin "K1"
 			(uuid "2ce2de66-6cae-4c37-aebd-31a51e35ff45")
+		)
+		(pin "J5"
+			(uuid "932a2d08-8d05-4547-9f51-481b9ab1ab6e")
 		)
 		(instances
 			(project ""

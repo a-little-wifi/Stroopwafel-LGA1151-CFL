@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "ff94b847-81af-4399-899f-63c341c6b3e6")
+	(uuid "a60d3c77-3430-4047-9736-8ba29cd40d69")
 	(paper "A4")
 	(title_block
 		(title "CPU Miscellaneous and Reserved pins")
@@ -13,7 +13,7 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "JCPU"
+			(property "Reference" "JCPU1"
 				(at 0 97.79 0)
 				(effects
 					(font
@@ -30,7 +30,7 @@
 				)
 			)
 			(property "Footprint" "A-my-stuff:LGA-1151_L47.1-W42.5-P0.91_PE115127-4041-01H"
-				(at 0 97.79 0)
+				(at 0 -111.76 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -21137,7 +21137,7 @@
 			)
 		)
 		(property "Footprint" "A-my-stuff:LGA-1151_L47.1-W42.5-P0.91_PE115127-4041-01H"
-			(at 121.92 48.26 0)
+			(at 121.92 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21426,9 +21426,6 @@
 		)
 		(pin "R4"
 			(uuid "70a2773e-1970-49ce-bd90-c2e55609783f")
-		)
-		(pin "J5"
-			(uuid "de0e7b83-277c-434f-bb9e-fb780d8d2844")
 		)
 		(pin "AB4"
 			(uuid "6370e316-363f-4b5b-983b-b35aa2312e07")
@@ -24616,8 +24613,15 @@
 		(pin "K7"
 			(uuid "9626ad8b-d4a1-4e04-a71e-17d14d782382")
 		)
+		(pin "J5"
+			(uuid "40b27370-4515-4002-8cd9-a91380dd8aff")
+		)
 		(instances
 			(project ""
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/061fe2d6-87c2-48c2-90bb-0928700512fc"
+					(reference "JCPU1")
+					(unit 10)
+				)
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/e4d810de-49e6-45ae-bbfb-8cff0175b3e3"
 					(reference "JCPU1")
 					(unit 10)

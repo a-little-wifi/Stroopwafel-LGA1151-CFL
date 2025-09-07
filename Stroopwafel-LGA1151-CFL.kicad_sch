@@ -647,6 +647,48 @@
 		)
 	)
 	(sheet
+		(at 127 76.2)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8aed6c41-6c42-4147-98e9-39fe5e706ce6")
+		(property "Sheetname" "PCH_temp"
+			(at 127 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PCH_temp.kicad_sch"
+			(at 127 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 25.4 25.4)
 		(size 38.1 38.1)
 		(exclude_from_sim no)
@@ -768,48 +810,6 @@
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
 					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 127 76.2)
-		(size 38.1 38.1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "f7bd4156-9f7e-4d57-8abd-7332567d31a2")
-		(property "Sheetname" "PCH_SPI_SML_GSX"
-			(at 127 75.4884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "PCH_SPI_SML_GSX.kicad_sch"
-			(at 127 114.8846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Stroopwafel-LGA1151-CFL"
-				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
-					(page "9")
 				)
 			)
 		)
