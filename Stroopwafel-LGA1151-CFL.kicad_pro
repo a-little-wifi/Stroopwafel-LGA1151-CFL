@@ -642,8 +642,16 @@
       "CPU_Misc"
     ],
     [
-      "8aed6c41-6c42-4147-98e9-39fe5e706ce6",
-      "PCH_temp"
+      "55a4f655-ea62-4675-bc34-60bbcfd07a2f",
+      "PCH_Highspeed_Clock_LPC_eSPI"
+    ],
+    [
+      "cd978078-9495-426d-921d-88f146c11707",
+      "PCH_Lowspeed_SPI_HDA_GPIO"
+    ],
+    [
+      "2db60b63-e8b1-46b6-baaa-324b159aae35",
+      "PCH_VCC_GND"
     ]
   ],
   "text_variables": {}

@@ -563,6 +563,48 @@
 		)
 	)
 	(sheet
+		(at 228.6 76.2)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2db60b63-e8b1-46b6-baaa-324b159aae35")
+		(property "Sheetname" "PCH_VCC_GND"
+			(at 228.6 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PCH_VCC_GND.kicad_sch"
+			(at 228.6 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 25.4 76.2)
 		(size 38.1 38.1)
 		(exclude_from_sim no)
@@ -600,6 +642,48 @@
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
 					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 76.2)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "55a4f655-ea62-4675-bc34-60bbcfd07a2f")
+		(property "Sheetname" "PCH_Highspeed_Clock_LPC_eSPI"
+			(at 127 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PCH_Highspeed_Clock_LPC_eSPI.kicad_sch"
+			(at 127 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
+					(page "9")
 				)
 			)
 		)
@@ -647,7 +731,7 @@
 		)
 	)
 	(sheet
-		(at 127 76.2)
+		(at 177.8 76.2)
 		(size 38.1 38.1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -661,9 +745,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "8aed6c41-6c42-4147-98e9-39fe5e706ce6")
-		(property "Sheetname" "PCH_temp"
-			(at 127 75.4884 0)
+		(uuid "cd978078-9495-426d-921d-88f146c11707")
+		(property "Sheetname" "PCH_Lowspeed_SPI_HDA_GPIO"
+			(at 177.8 75.4884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -671,8 +755,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "PCH_temp.kicad_sch"
-			(at 127 114.8846 0)
+		(property "Sheetfile" "PCH_Lowspeed_SPI_HDA_GPIO.kicad_sch"
+			(at 177.8 114.8846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -683,7 +767,7 @@
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
-					(page "9")
+					(page "10")
 				)
 			)
 		)
