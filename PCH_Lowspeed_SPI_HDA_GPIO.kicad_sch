@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "1502e1a1-d86b-488d-8b92-87bda41f6aa8")
+	(uuid "d5a93036-764e-483f-8539-c6d935be8da8")
 	(paper "A3")
 	(title_block
 		(title "PCH SPI, HDA/I2S, UART, I2C, SMBus, SML, HPD & GPIO")

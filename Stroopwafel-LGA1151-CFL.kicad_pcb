@@ -1512,9 +1512,9 @@
 				(justify mirror)
 			)
 		)
-		(path "/8aed6c41-6c42-4147-98e9-39fe5e706ce6/eec76983-2a88-47a9-a54d-17f52faa6b36")
-		(sheetname "/PCH_temp/")
-		(sheetfile "PCH_temp.kicad_sch")
+		(path "/55a4f655-ea62-4675-bc34-60bbcfd07a2f/f625e091-44a1-4130-baec-ccc3d4d9b4a5")
+		(sheetname "/PCH_Highspeed_Clock_LPC_eSPI/")
+		(sheetfile "PCH_Highspeed_Clock_LPC_eSPI.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 9.10006 -13.99997)

@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "a312c5d5-410d-43f1-a50d-dc1332875c25")
+	(uuid "811397af-80d7-4cea-9520-d49190eadb45")
 	(paper "A3")
 	(title_block
 		(title "PCH VCC & GND")
