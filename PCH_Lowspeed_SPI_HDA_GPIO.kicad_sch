@@ -2,8 +2,12 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "2077822b-78b7-4563-900b-3ace9b47e8c2")
+	(uuid "1502e1a1-d86b-488d-8b92-87bda41f6aa8")
 	(paper "A3")
+	(title_block
+		(title "PCH SPI, HDA/I2S, UART, I2C, SMBus, SML, HPD & GPIO")
+		(company "WifiCable")
+	)
 	(lib_symbols
 		(symbol "A-my-stuff:Intel_CFL_PCH_FCBGA874_but_better"
 			(exclude_from_sim no)

@@ -2,8 +2,12 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "5a3129cd-95ac-4fdc-9045-74ccb15fcd10")
+	(uuid "e433135d-1636-4bff-a3a5-440837f166c1")
 	(paper "A3")
+	(title_block
+		(title "PCH DMI, PCIe, SATA, USB3, USB2, Clockgen, CNVi, LPC/eSPI & GPIO")
+		(company "WifiCable")
+	)
 	(lib_symbols
 		(symbol "A-my-stuff:Intel_CFL_PCH_FCBGA874_but_better"
 			(exclude_from_sim no)

@@ -2,8 +2,12 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "2f0f2739-5d60-4068-85c1-d5af72ec1520")
+	(uuid "a312c5d5-410d-43f1-a50d-dc1332875c25")
 	(paper "A3")
+	(title_block
+		(title "PCH VCC & GND")
+		(company "WifiCable")
+	)
 	(lib_symbols
 		(symbol "A-my-stuff:Intel_CFL_PCH_FCBGA874_but_better"
 			(exclude_from_sim no)
