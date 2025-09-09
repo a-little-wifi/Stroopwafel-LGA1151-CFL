@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "abbf845a-e110-44fb-a061-06123c53cd13")
+	(uuid "4c54bde2-769c-4f02-aace-16618b1d341a")
 	(paper "A3")
 	(title_block
 		(title "PCH DMI, PCIe, SATA, USB3, USB2, Clockgen, CNVi, LPC/eSPI & GPIO")
