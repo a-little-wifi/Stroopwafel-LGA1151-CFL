@@ -474,16 +474,40 @@
         "wire_width": 6
       },
       {
-        "name": "DDR4-CH0",
-        "pcb_color": "rgb(255, 0, 7)",
+        "name": "DDR4-CH0-Address",
+        "pcb_color": "rgb(255, 132, 0)",
         "priority": 1,
+        "schematic_color": "rgb(255, 132, 0)"
+      },
+      {
+        "name": "DDR4-CH0-DQ",
+        "pcb_color": "rgb(255, 0, 2)",
+        "priority": 3,
         "schematic_color": "rgb(255, 0, 2)"
       },
       {
-        "name": "DDR4-CH1",
-        "pcb_color": "rgb(0, 255, 31)",
+        "name": "DDR4-CH0-Misc",
+        "pcb_color": "rgb(228, 125, 255)",
+        "priority": 5,
+        "schematic_color": "rgb(228, 125, 255)"
+      },
+      {
+        "name": "DDR4-CH1-Address",
+        "pcb_color": "rgb(221, 255, 0)",
         "priority": 0,
+        "schematic_color": "rgb(221, 255, 0)"
+      },
+      {
+        "name": "DDR4-CH1-DQ",
+        "pcb_color": "rgb(12, 255, 0)",
+        "priority": 2,
         "schematic_color": "rgb(12, 255, 0)"
+      },
+      {
+        "name": "DDR4-CH1-Misc",
+        "pcb_color": "rgb(122, 255, 159)",
+        "priority": 4,
+        "schematic_color": "rgb(122, 255, 159)"
       }
     ],
     "meta": {
@@ -493,12 +517,36 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "DDR4-CH0",
+        "netclass": "DDR4-CH0-DQ",
+        "pattern": "DDR4_CH0_DQ*"
+      },
+      {
+        "netclass": "DDR4-CH1-DQ",
+        "pattern": "DDR4_CH1_DQ*"
+      },
+      {
+        "netclass": "DDR4-CH0-Address",
+        "pattern": "DDR4_CH0_A*"
+      },
+      {
+        "netclass": "DDR4-CH1-Address",
+        "pattern": "DDR4_CH1_A*"
+      },
+      {
+        "netclass": "DDR4-CH0-Misc",
         "pattern": "DDR4_CH0*"
       },
       {
-        "netclass": "DDR4-CH1",
+        "netclass": "DDR4-CH1-Misc",
         "pattern": "DDR4_CH1*"
+      },
+      {
+        "netclass": "DDR4-CH0-DQ",
+        "pattern": "DDR4_CH0_ECC*"
+      },
+      {
+        "netclass": "DDR4-CH1-DQ",
+        "pattern": "DDR4_CH1_ECC*"
       }
     ]
   },
