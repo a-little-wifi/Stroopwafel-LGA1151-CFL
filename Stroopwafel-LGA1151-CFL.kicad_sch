@@ -689,6 +689,48 @@
 		)
 	)
 	(sheet
+		(at 25.4 127)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "57f1b619-5b75-4a52-9868-2ca62c3e3ae1")
+		(property "Sheetname" "DDR4_slots"
+			(at 25.4 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DDR4_slots.kicad_sch"
+			(at 25.4 165.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 228.6 25.4)
 		(size 38.1 38.1)
 		(exclude_from_sim no)

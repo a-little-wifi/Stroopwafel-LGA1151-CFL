@@ -472,6 +472,18 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "name": "DDR4-CH0",
+        "pcb_color": "rgb(255, 0, 7)",
+        "priority": 1,
+        "schematic_color": "rgb(255, 0, 2)"
+      },
+      {
+        "name": "DDR4-CH1",
+        "pcb_color": "rgb(0, 255, 31)",
+        "priority": 0,
+        "schematic_color": "rgb(12, 255, 0)"
       }
     ],
     "meta": {
@@ -479,7 +491,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "DDR4-CH0",
+        "pattern": "DDR4_CH0*"
+      },
+      {
+        "netclass": "DDR4-CH1",
+        "pattern": "DDR4_CH1*"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -652,6 +673,10 @@
     [
       "2db60b63-e8b1-46b6-baaa-324b159aae35",
       "PCH_VCC_GND"
+    ],
+    [
+      "57f1b619-5b75-4a52-9868-2ca62c3e3ae1",
+      "DDR4_slots"
     ]
   ],
   "text_variables": {}

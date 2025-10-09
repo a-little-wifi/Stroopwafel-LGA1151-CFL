@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ef35586c-b430-4681-9e4a-ecfc75c01954")
+	(paper "A2")
+	(title_block
+		(title "2x DDR4 SODIMM slots")
+		(company "WifiCable")
+	)
+	(lib_symbols)
+)
