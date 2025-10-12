@@ -773,6 +773,48 @@
 		)
 	)
 	(sheet
+		(at 76.2 127)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7ff27d26-2496-4a9b-9ad6-7ba6a44f9b97")
+		(property "Sheetname" "PCIe_slots"
+			(at 76.2 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PCIe_slots.kicad_sch"
+			(at 76.2 165.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 177.8 76.2)
 		(size 38.1 38.1)
 		(exclude_from_sim no)

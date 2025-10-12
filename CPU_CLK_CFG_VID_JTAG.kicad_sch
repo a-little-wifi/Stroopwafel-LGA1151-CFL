@@ -20953,6 +20953,198 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 106.68 46.99) (xy 111.76 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "102114ad-b93d-433f-8562-b76bcf4defee")
+	)
+	(wire
+		(pts
+			(xy 106.68 62.23) (xy 111.76 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1296a8bf-287e-4a3e-8873-90b24ae1496d")
+	)
+	(wire
+		(pts
+			(xy 106.68 59.69) (xy 111.76 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36b5ab6f-02a0-42d8-b250-70d5e3094120")
+	)
+	(wire
+		(pts
+			(xy 106.68 44.45) (xy 111.76 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "571fc100-3e77-4ce9-a9b2-8200c46e9cfa")
+	)
+	(wire
+		(pts
+			(xy 106.68 54.61) (xy 111.76 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fd91708-94b9-4673-8644-e37dc9693c3f")
+	)
+	(wire
+		(pts
+			(xy 106.68 52.07) (xy 111.76 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c387c44c-a19f-48c5-8d14-7dfd115fe4a2")
+	)
+	(global_label "CPU_24MCLK-"
+		(shape input)
+		(at 106.68 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "33321614-46ba-461d-8e45-ee1036fb0a9a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.2171 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CPU_PCIBCLK-"
+		(shape input)
+		(at 106.68 54.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3bd1344c-bc95-48e7-9389-8fa808d9b20f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.2171 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CPU_BCLK+"
+		(shape input)
+		(at 106.68 44.45 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7c2c8fe6-a649-4dfb-83bc-54c7db0ae9a1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.2171 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CPU_PCIBCLK+"
+		(shape input)
+		(at 106.68 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9953621a-0cad-4c57-ad00-6443ba19c3eb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.2171 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CPU_BCLK-"
+		(shape input)
+		(at 106.68 46.99 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "acd22cf0-108e-463f-8022-1877bf774e94")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.2171 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CPU_24MCLK+"
+		(shape input)
+		(at 106.68 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bb8a723d-34e3-41ae-89b4-918b4410ef44")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.2171 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "A-my-stuff:Intel_CFL_1151")
 		(at 142.24 134.62 0)
