@@ -20955,6 +20955,46 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 88.9) (xy 118.11 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "019375c2-0f7a-4f9c-8fbe-e596f55f5a55")
+	)
+	(wire
+		(pts
+			(xy 113.03 137.16) (xy 118.11 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05f4df69-0b5c-4e5e-929c-faae3d45130d")
+	)
+	(wire
+		(pts
+			(xy 113.03 139.7) (xy 118.11 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a2dfc1d-8743-4e61-bf02-d1bca786585e")
+	)
+	(wire
+		(pts
+			(xy 113.03 127) (xy 118.11 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11276111-0861-4235-b832-679333b9f413")
+	)
+	(wire
+		(pts
 			(xy 184.15 139.7) (xy 179.07 139.7)
 		)
 		(stroke
@@ -20962,6 +21002,36 @@
 			(type default)
 		)
 		(uuid "126b5907-3288-4f26-9cf3-0fbab78a28a9")
+	)
+	(wire
+		(pts
+			(xy 113.03 119.38) (xy 118.11 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "182997e3-24f7-4cba-9ace-c47f1ef77b2d")
+	)
+	(wire
+		(pts
+			(xy 113.03 93.98) (xy 118.11 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1eb6d539-7d8b-450c-bda8-47970e81d886")
+	)
+	(wire
+		(pts
+			(xy 113.03 96.52) (xy 118.11 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "246b963e-58a2-4f4a-97ec-7b9bf7915d84")
 	)
 	(wire
 		(pts
@@ -20975,6 +21045,16 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 114.3) (xy 118.11 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "347bc719-da57-4afe-870d-ca186f80c014")
+	)
+	(wire
+		(pts
 			(xy 113.03 50.8) (xy 118.11 50.8)
 		)
 		(stroke
@@ -20982,6 +21062,46 @@
 			(type default)
 		)
 		(uuid "36e0211f-a07d-4418-a953-c66607f99eca")
+	)
+	(wire
+		(pts
+			(xy 113.03 132.08) (xy 118.11 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e8d88a5-2f89-4090-b73b-b08ef58a3ac5")
+	)
+	(wire
+		(pts
+			(xy 113.03 116.84) (xy 118.11 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "561eb1b8-e736-4c98-82e7-9fc395937089")
+	)
+	(wire
+		(pts
+			(xy 113.03 99.06) (xy 118.11 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58206c40-e7ec-431b-bf23-27a697a95704")
+	)
+	(wire
+		(pts
+			(xy 113.03 91.44) (xy 118.11 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62953fdf-8121-4575-9618-fcdc08efee29")
 	)
 	(wire
 		(pts
@@ -21055,6 +21175,26 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 106.68) (xy 118.11 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a54a76c0-ddb4-4e34-8dfc-9cbf481b0f6d")
+	)
+	(wire
+		(pts
+			(xy 113.03 86.36) (xy 118.11 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aedcec68-4944-41c4-af03-bfeaa7836cb7")
+	)
+	(wire
+		(pts
 			(xy 184.15 137.16) (xy 179.07 137.16)
 		)
 		(stroke
@@ -21062,6 +21202,26 @@
 			(type default)
 		)
 		(uuid "b63ce9d1-f087-4801-8d5e-ec6e8e4ec65f")
+	)
+	(wire
+		(pts
+			(xy 113.03 121.92) (xy 118.11 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6d0efbc-64ea-4580-a146-2b494efec167")
+	)
+	(wire
+		(pts
+			(xy 113.03 81.28) (xy 118.11 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba0e0a0f-a32f-48c6-b55f-90f3a7b3d0af")
 	)
 	(wire
 		(pts
@@ -21075,6 +21235,16 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 129.54) (xy 118.11 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbf13c06-8ede-457f-a7e1-8e6fcd9db924")
+	)
+	(wire
+		(pts
 			(xy 113.03 63.5) (xy 118.11 63.5)
 		)
 		(stroke
@@ -21082,6 +21252,36 @@
 			(type default)
 		)
 		(uuid "c6e73a29-6f41-4fc7-ae9e-8572908ee712")
+	)
+	(wire
+		(pts
+			(xy 113.03 124.46) (xy 118.11 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efd45220-c001-44de-beaa-545522829951")
+	)
+	(wire
+		(pts
+			(xy 113.03 104.14) (xy 118.11 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1c27b8e-5277-45fd-826b-3365be878514")
+	)
+	(wire
+		(pts
+			(xy 113.03 83.82) (xy 118.11 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff7fbe7e-0488-40b6-a235-86c18acfdcb3")
 	)
 	(global_label "CPU_DisplayAudio_CLK"
 		(shape input)
@@ -21105,6 +21305,50 @@
 			)
 		)
 	)
+	(global_label "iGPU_DDI3_AUX+"
+		(shape input)
+		(at 113.03 137.16 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "08b6ff7e-282f-46f2-916b-9b9199979447")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI3_TX1+"
+		(shape input)
+		(at 113.03 119.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "08bc5501-4d31-4844-8567-8bf7c3a52399")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "iGPU_DDI1_TX1-"
 		(shape input)
 		(at 113.03 55.88 180)
@@ -21118,6 +21362,50 @@
 		(uuid "0dd63e7e-983c-42d4-a8c7-c22aeaf55f45")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 88.6969 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI2_TX3-"
+		(shape input)
+		(at 113.03 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0e1cc715-3bb8-4471-a5a5-7758323f5d06")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI2_AUX+"
+		(shape input)
+		(at 113.03 104.14 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1c6fd0d6-d5a8-4233-a88f-b5d46d8bf398")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21237,6 +21525,94 @@
 			)
 		)
 	)
+	(global_label "iGPU_DDI3_TX0-"
+		(shape input)
+		(at 113.03 116.84 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "475788c1-7c7a-4be1-b9f6-ac90a637286f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI2_TX2+"
+		(shape input)
+		(at 113.03 91.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "528723fc-dc91-47fb-9541-8c5d0da5d79a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI3_TX1-"
+		(shape input)
+		(at 113.03 121.92 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "59c238e0-6550-4509-9d4e-8e3633435c03")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI3_TX2+"
+		(shape input)
+		(at 113.03 124.46 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "61fcffcd-eca8-416e-9123-ad36b5f16df9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "iGPU_DDI1_TX3+"
 		(shape input)
 		(at 113.03 63.5 180)
@@ -21250,6 +21626,116 @@
 		(uuid "6b0f61ab-cec5-41b7-a51d-46b26ca94853")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 88.6969 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI2_TX3+"
+		(shape input)
+		(at 113.03 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6b643e71-92fb-44fc-a063-107e969e0e7f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI2_AUX-"
+		(shape input)
+		(at 113.03 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "94c9c2f0-edc8-43b7-8230-57882a33df7a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI2_TX2-"
+		(shape input)
+		(at 113.03 93.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "98486bc1-baab-4350-b423-4a72e2b7e1f0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI3_TX2-"
+		(shape input)
+		(at 113.03 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a4f7b873-c733-41fc-ae30-80d94c7c2a7c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI3_TX3-"
+		(shape input)
+		(at 113.03 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ab373e12-9529-4862-825e-30b5ea5ed63a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21281,6 +21767,28 @@
 			)
 		)
 	)
+	(global_label "iGPU_DDI2_TX1-"
+		(shape input)
+		(at 113.03 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c28760a4-63f6-425d-841c-3658bb93abe1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "iGPU_DDI1_TX0-"
 		(shape input)
 		(at 113.03 50.8 180)
@@ -21294,6 +21802,72 @@
 		(uuid "c3487777-4807-4919-9c37-d31e56e28438")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 88.6969 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI2_TX0+"
+		(shape input)
+		(at 113.03 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c3984cc3-5bf7-4ece-8ca6-2822e1b38fa4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI2_TX0-"
+		(shape input)
+		(at 113.03 83.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cf588a34-9fed-47c8-9b2c-f9686aa94b75")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI3_TX0+"
+		(shape input)
+		(at 113.03 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d6247261-2e85-4393-bc93-e347044fd2e4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21325,6 +21899,28 @@
 			)
 		)
 	)
+	(global_label "iGPU_DDI3_AUX-"
+		(shape input)
+		(at 113.03 139.7 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e111085d-3a8f-42f4-a486-c90a4b4c1a6d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "iGPU_DDI1_TX2+"
 		(shape input)
 		(at 113.03 58.42 180)
@@ -21338,6 +21934,28 @@
 		(uuid "ead43a28-fd0f-47bb-8f1b-fc8630f1f555")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 88.6969 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI3_TX3+"
+		(shape input)
+		(at 113.03 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "eeb31b45-b60a-4e0d-a476-533d9f63d163")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21365,6 +21983,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_DDI2_TX1+"
+		(shape input)
+		(at 113.03 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fdfed91d-66b6-44d1-85d8-26d62c0b42aa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.6969 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
