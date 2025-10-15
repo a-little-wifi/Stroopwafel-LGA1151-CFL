@@ -12,7 +12,7 @@ Inspired by LCSC carrying LGA1151 sockets: https://www.lcsc.com/product-detail/C
 
 Thanks @mothenjoyer69 for extracting the PCH footprint from a random laptop boardview (LA-F711P)
 
-CPU and PCH schematic symbols fully copied from pdf schematics by hand (took like 3 days...)
+CPU and PCH schematic symbols fully copied (and partially corrected) from pdf schematics by hand (took like 3 days...)
 
 It's called Stroopwafel because I was eating a stroopwafel when I was trying to come up with a name. Also stroopwafels are supposed to go with coffee and it's Coffee Lake... get it?....
 
