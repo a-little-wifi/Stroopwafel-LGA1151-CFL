@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "748154c5-5869-412e-bb2c-886a7893b71d")
+	(uuid "9633f2ad-433a-46c2-936f-edfadc2908a0")
 	(paper "A3")
 	(title_block
 		(title "iGPU DP/HDMI outputs")

@@ -32015,6 +32015,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "CPU SDI to PCH SDO, SDO to SDI"
+		(exclude_from_sim no)
+		(at 133.35 52.07 0)
+		(size 59.69 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "687a146b-11da-44ef-a50b-4115d95e6f5a")
+	)
 	(wire
 		(pts
 			(xy 120.65 120.65) (xy 115.57 120.65)
