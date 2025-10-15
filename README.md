@@ -4,8 +4,8 @@ Trying to see how far I can get with implementing a modern-ish Intel platform in
 
 Here's some work in progress pictures (random layout (or ATX standard successor??? 👀)):
 
-<img src='docs/pcb.png' width=49%/>
-<img src='docs/3d.png' width=40%/>
+<img src='docs/pcb.png' width=50%/>
+<img src='docs/3d.png' width=50%/>
 
 
 Inspired by LCSC carrying LGA1151 sockets: https://www.lcsc.com/product-detail/C2761532.html (thanks for the footprint)
