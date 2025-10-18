@@ -1368,6 +1368,12 @@
 		(uuid "23bcb57e-6f3e-4d1f-be5c-a218577f4840")
 	)
 	(junction
+		(at 109.22 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "254b3d00-5227-4bb9-b782-60c5046de433")
+	)
+	(junction
 		(at 257.81 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1458,6 +1464,12 @@
 		(uuid "cc43dc8b-5a35-45ff-bf30-25037c0f36e1")
 	)
 	(junction
+		(at 107.95 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cd43b157-0de6-48a3-bb50-de74c226298d")
+	)
+	(junction
 		(at 257.81 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1486,6 +1498,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "df1a7989-6b26-4204-a886-0e322d007f88")
+	)
+	(junction
+		(at 110.49 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dfb072cc-8b7a-40fd-bd35-290c584ab147")
 	)
 	(junction
 		(at 224.79 58.42)
@@ -1555,7 +1573,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 66.04) (xy 125.73 66.04)
+			(xy 106.68 66.04) (xy 107.95 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1635,6 +1653,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 66.04) (xy 125.73 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "099297f2-c638-4ab3-8989-67a3c06da336")
+	)
+	(wire
+		(pts
 			(xy 198.12 125.73) (xy 223.52 125.73)
 		)
 		(stroke
@@ -1652,6 +1680,16 @@
 			(type default)
 		)
 		(uuid "0bc1a3aa-4af3-4e6d-9d48-b0a0c4057ea0")
+	)
+	(wire
+		(pts
+			(xy 107.95 57.15) (xy 107.95 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bd32b3c-0886-43d5-a626-79c7e73d13b4")
 	)
 	(wire
 		(pts
@@ -1815,7 +1853,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 71.12) (xy 125.73 71.12)
+			(xy 106.68 71.12) (xy 110.49 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2225,6 +2263,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 57.15) (xy 110.49 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "471dc589-e578-4eb1-96bf-8d3b28ae8480")
+	)
+	(wire
+		(pts
 			(xy 223.52 72.39) (xy 223.52 73.66)
 		)
 		(stroke
@@ -2455,6 +2503,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 63.5) (xy 107.95 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64daad1e-300f-42bc-b6ea-dbe40bfbfc09")
+	)
+	(wire
+		(pts
 			(xy 187.96 110.49) (xy 193.04 110.49)
 		)
 		(stroke
@@ -2472,6 +2530,16 @@
 			(type default)
 		)
 		(uuid "67737491-5ce9-4a7d-9a05-a05d0a91ed79")
+	)
+	(wire
+		(pts
+			(xy 107.95 57.15) (xy 109.22 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67d2f6b7-da49-46a3-8514-18f67a1fd78a")
 	)
 	(wire
 		(pts
@@ -2835,6 +2903,26 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 71.12) (xy 125.73 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d65fa46-e223-42b2-85c8-ce262767a5d1")
+	)
+	(wire
+		(pts
+			(xy 109.22 57.15) (xy 110.49 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e4945bd-f462-46d6-894e-f91d88faf06c")
+	)
+	(wire
+		(pts
 			(xy 223.52 60.96) (xy 226.06 60.96)
 		)
 		(stroke
@@ -3005,6 +3093,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 55.88) (xy 109.22 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a66c49a5-4c99-464c-9ffb-89ddc47a77ef")
+	)
+	(wire
+		(pts
 			(xy 198.12 191.77) (xy 223.52 191.77)
 		)
 		(stroke
@@ -3102,6 +3200,16 @@
 			(type default)
 		)
 		(uuid "b0e2d3eb-1aed-488e-935c-cdfa6e971a9c")
+	)
+	(wire
+		(pts
+			(xy 110.49 63.5) (xy 110.49 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1d14b6e-2864-4107-9f24-b3d7016f1bfd")
 	)
 	(wire
 		(pts
@@ -4247,7 +4355,7 @@
 	)
 	(global_label "iGPU_DDI1_SDA"
 		(shape input)
-		(at 120.65 71.12 180)
+		(at 106.68 71.12 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4257,7 +4365,7 @@
 		)
 		(uuid "535a7d0c-79fe-4ee8-951f-6e8e928f3865")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.3169 71.12 0)
+			(at 82.3469 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4863,7 +4971,7 @@
 	)
 	(global_label "iGPU_DDI1_SCL"
 		(shape input)
-		(at 120.65 66.04 180)
+		(at 106.68 66.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4873,7 +4981,7 @@
 		)
 		(uuid "e636f9a1-f8e9-4582-a909-12f8f4c8ba35")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.3169 66.04 0)
+			(at 82.3469 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5105,6 +5213,75 @@
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/01fb967e-a450-4398-b24a-185552be6693"
 					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 110.49 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0eee865c-ea5b-4a7f-89dd-f80b9ba62128")
+		(property "Reference" "R9"
+			(at 111.76 59.69 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.2kΩ"
+			(at 111.76 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 110.49 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 110.49 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 110.49 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "285f0a1f-10ef-49ff-8989-ac4d85f07c3a")
+		)
+		(pin "2"
+			(uuid "4895becd-666e-49c9-a2c6-929f63772c5f")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/01fb967e-a450-4398-b24a-185552be6693"
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -5634,6 +5811,76 @@
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/01fb967e-a450-4398-b24a-185552be6693"
 					(reference "C44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 107.95 60.96 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "41f12195-3cc9-43f2-be7c-0ceb73d0fa2a")
+		(property "Reference" "R8"
+			(at 106.68 59.69 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.2kΩ"
+			(at 106.68 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 107.95 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 107.95 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 107.95 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3ffa57de-0137-411a-8470-b79addf79e58")
+		)
+		(pin "2"
+			(uuid "5d2cc2e2-cf06-486b-b71a-8ab4b0594738")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/01fb967e-a450-4398-b24a-185552be6693"
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -6616,6 +6863,72 @@
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/01fb967e-a450-4398-b24a-185552be6693"
 					(reference "C48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 109.22 55.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "80117a2c-e576-48da-9f90-4f15f2ab74aa")
+		(property "Reference" "#PWR031"
+			(at 109.22 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "temp_3.3V"
+			(at 109.22 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 109.22 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b43f96d9-5eb7-426f-a21e-5b14c000e170")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/01fb967e-a450-4398-b24a-185552be6693"
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
