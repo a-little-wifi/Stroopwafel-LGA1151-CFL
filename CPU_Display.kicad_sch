@@ -20952,6 +20952,256 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:R_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.016 1.016)
+					)
+				)
+			)
+			(property "Value" "R_Small"
+				(at 1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_Small_0_1"
+				(rectangle
+					(start -0.762 1.778)
+					(end 0.762 -1.778)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 0.762)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 0.762)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:VCC"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VCC"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"VCC\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VCC_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "VCC_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(wire
 		(pts
@@ -20982,6 +21232,26 @@
 			(type default)
 		)
 		(uuid "0a2dfc1d-8743-4e61-bf02-d1bca786585e")
+	)
+	(wire
+		(pts
+			(xy 184.15 63.5) (xy 179.07 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f8b3b76-ad57-418d-b5a5-0f2e719bbb11")
+	)
+	(wire
+		(pts
+			(xy 184.15 66.04) (xy 179.07 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10a57d5e-61f8-4090-ae50-98dee44446c7")
 	)
 	(wire
 		(pts
@@ -21035,6 +21305,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 53.34) (xy 179.07 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27a6a8ce-6f63-489d-826d-e590d2cc112b")
+	)
+	(wire
+		(pts
 			(xy 113.03 55.88) (xy 118.11 55.88)
 		)
 		(stroke
@@ -21075,6 +21355,16 @@
 	)
 	(wire
 		(pts
+			(xy 207.01 88.9) (xy 207.01 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d7ef91a-edf7-4ac8-b876-b1f420d1b1c6")
+	)
+	(wire
+		(pts
 			(xy 113.03 116.84) (xy 118.11 116.84)
 		)
 		(stroke
@@ -21092,6 +21382,16 @@
 			(type default)
 		)
 		(uuid "58206c40-e7ec-431b-bf23-27a697a95704")
+	)
+	(wire
+		(pts
+			(xy 184.15 50.8) (xy 179.07 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c1a397e-28aa-4650-bed9-222a50fdef7f")
 	)
 	(wire
 		(pts
@@ -21145,6 +21445,26 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 60.96) (xy 179.07 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c5cd3aa-12dd-44ee-9bd4-bcfe5e2d0f6b")
+	)
+	(wire
+		(pts
+			(xy 207.01 91.44) (xy 194.31 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "929e2c50-a326-4b40-8958-e63d96cc21a7")
+	)
+	(wire
+		(pts
 			(xy 113.03 58.42) (xy 118.11 58.42)
 		)
 		(stroke
@@ -21185,6 +21505,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 55.88) (xy 179.07 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa77d9b8-25c6-4497-833c-2b7a43b68417")
+	)
+	(wire
+		(pts
 			(xy 113.03 86.36) (xy 118.11 86.36)
 		)
 		(stroke
@@ -21212,6 +21542,26 @@
 			(type default)
 		)
 		(uuid "b6d0efbc-64ea-4580-a146-2b494efec167")
+	)
+	(wire
+		(pts
+			(xy 184.15 73.66) (xy 179.07 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7ac922a-07d1-4838-bb63-9ac5eaf7ce60")
+	)
+	(wire
+		(pts
+			(xy 184.15 71.12) (xy 179.07 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9b1e1da-7c0a-481e-8596-d1e4c7790beb")
 	)
 	(wire
 		(pts
@@ -21255,6 +21605,26 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 48.26) (xy 179.07 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca8dd1df-6eca-4152-9ef7-7e31825c8a07")
+	)
+	(wire
+		(pts
+			(xy 184.15 58.42) (xy 179.07 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf61d7fa-82e1-4de9-a43d-7e51676d4fa2")
+	)
+	(wire
+		(pts
 			(xy 113.03 124.46) (xy 118.11 124.46)
 		)
 		(stroke
@@ -21272,6 +21642,16 @@
 			(type default)
 		)
 		(uuid "f1c27b8e-5277-45fd-826b-3365be878514")
+	)
+	(wire
+		(pts
+			(xy 189.23 91.44) (xy 179.07 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f884aee9-c396-4925-b005-78ad736dc4cd")
 	)
 	(wire
 		(pts
@@ -21296,6 +21676,28 @@
 		(uuid "000898a7-6151-4cf1-bcf5-55dcef494f8e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 203.4034 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_eDP_TX3+"
+		(shape input)
+		(at 184.15 63.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "08773459-27a1-4cac-aaa1-2388daf4961d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.4831 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21349,6 +21751,50 @@
 			)
 		)
 	)
+	(global_label "iGPU_eDP_TX0+"
+		(shape input)
+		(at 184.15 48.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0a879a0c-0bfb-4977-b73a-223474d4ca4f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.4831 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_eDP_TX2+"
+		(shape input)
+		(at 184.15 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0beeb3ee-821d-4eb0-9d22-3c8d753586b0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.4831 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "iGPU_DDI1_TX1-"
 		(shape input)
 		(at 113.03 55.88 180)
@@ -21389,6 +21835,50 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_eDP_TX1+"
+		(shape input)
+		(at 184.15 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0f04639d-65e1-4275-b840-49ee80867b51")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.4831 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_eDP_TX2-"
+		(shape input)
+		(at 184.15 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "14f640b7-0860-47b4-b0e8-02edfc33662b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.4831 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -21503,6 +21993,28 @@
 			)
 		)
 	)
+	(global_label "iGPU_eDP_TX3-"
+		(shape input)
+		(at 184.15 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "35a0f280-6606-4ce8-8e72-b1b07c847288")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.4831 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "iGPU_DDI1_AUX+"
 		(shape input)
 		(at 113.03 71.12 180)
@@ -21521,6 +22033,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_eDP_AUX-"
+		(shape input)
+		(at 184.15 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4004604a-97a5-4c45-bd80-627bce77219c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.4831 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -21653,6 +22187,50 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_eDP_TX0-"
+		(shape input)
+		(at 184.15 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "712f4db8-929f-4f54-b3e1-eb268b844b3b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.4831 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_eDP_TX1-"
+		(shape input)
+		(at 184.15 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "88b8e71d-fb0a-485f-8f23-777788e8989e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.4831 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -21895,6 +22473,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "iGPU_eDP_AUX+"
+		(shape input)
+		(at 184.15 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d9c3fcea-ca4e-4b6a-b2d1-0962c05dd043")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.4831 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -25524,6 +26124,141 @@
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/f32a0628-54c2-4f5a-8fa3-eb09958bebe4"
 					(reference "JCPU1")
 					(unit 4)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 191.77 91.44 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c5cd8b25-bf84-45c5-aa49-e76fcc961344")
+		(property "Reference" "R11"
+			(at 185.42 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "24.9Ω_1%"
+			(at 194.31 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 191.77 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 191.77 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 191.77 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2509ab99-2425-41c3-b0a1-10866c2b58b0")
+		)
+		(pin "2"
+			(uuid "4856e324-2ce4-46f2-8ba3-404c1ccdbaa9")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/f32a0628-54c2-4f5a-8fa3-eb09958bebe4"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 207.01 88.9 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fa967916-269d-4d5f-afdf-b366b94ecec0")
+		(property "Reference" "#PWR033"
+			(at 207.01 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCCIO"
+			(at 207.01 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 207.01 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 207.01 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1a429e81-a5c1-4b20-a346-20c8a936b196")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/f32a0628-54c2-4f5a-8fa3-eb09958bebe4"
+					(reference "#PWR033")
+					(unit 1)
 				)
 			)
 		)

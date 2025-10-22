@@ -16007,6 +16007,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 57.15) (xy 185.42 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "797846e3-3f31-40e8-afeb-1f57e268641f")
+	)
+	(wire
+		(pts
 			(xy 54.61 54.61) (xy 58.42 54.61)
 		)
 		(stroke
@@ -16067,6 +16077,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 52.07) (xy 185.42 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bffa6242-2292-4f9a-9324-9d7f82768197")
+	)
+	(wire
+		(pts
 			(xy 54.61 57.15) (xy 58.42 57.15)
 		)
 		(stroke
@@ -16104,6 +16124,16 @@
 			(type default)
 		)
 		(uuid "db11a483-a7ce-4dc1-a385-1a41c261601e")
+	)
+	(wire
+		(pts
+			(xy 180.34 54.61) (xy 185.42 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f705dd27-d632-4888-9136-f099e7d448d8")
 	)
 	(wire
 		(pts
@@ -18018,6 +18048,28 @@
 			)
 		)
 	)
+	(global_label "eDP_VDDEN"
+		(shape input)
+		(at 180.34 57.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "61a48d53-d1a1-490d-99ae-a01a300a6494")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 159.8771 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "DMI_CRx_PTx_2+"
 		(shape input)
 		(at 54.61 44.45 180)
@@ -18075,6 +18127,28 @@
 		(uuid "78343d39-a5e5-4a3a-a6b9-65d9ddb616f2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 35.7801 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "eDP_PWM"
+		(shape input)
+		(at 180.34 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "81d5c6d4-466b-477d-9ee7-200d31fa3e26")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 159.8771 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18229,6 +18303,28 @@
 		(uuid "d87ed232-ee29-43ec-9291-95910e0a525d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 163.6871 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "eDP_BLEN"
+		(shape input)
+		(at 180.34 54.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dce6c37a-7b62-4423-be16-450ce715a0ff")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 159.8771 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
