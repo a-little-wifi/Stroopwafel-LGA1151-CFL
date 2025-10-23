@@ -493,74 +493,80 @@
       {
         "name": "DDI",
         "pcb_color": "rgb(255, 111, 0)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgb(255, 111, 0)"
       },
       {
         "name": "DDR4-CH0-Address",
         "pcb_color": "rgb(255, 132, 0)",
-        "priority": 7,
+        "priority": 8,
         "schematic_color": "rgb(255, 132, 0)"
       },
       {
         "name": "DDR4-CH0-DQ",
         "pcb_color": "rgb(255, 0, 2)",
-        "priority": 9,
+        "priority": 10,
         "schematic_color": "rgb(255, 0, 2)"
       },
       {
         "name": "DDR4-CH0-Misc",
         "pcb_color": "rgb(228, 125, 255)",
-        "priority": 11,
+        "priority": 12,
         "schematic_color": "rgb(228, 125, 255)"
       },
       {
         "name": "DDR4-CH1-Address",
         "pcb_color": "rgb(221, 255, 0)",
-        "priority": 6,
+        "priority": 7,
         "schematic_color": "rgb(221, 255, 0)"
       },
       {
         "name": "DDR4-CH1-DQ",
         "pcb_color": "rgb(12, 255, 0)",
-        "priority": 8,
+        "priority": 9,
         "schematic_color": "rgb(12, 255, 0)"
       },
       {
         "name": "DDR4-CH1-Misc",
         "pcb_color": "rgb(122, 255, 159)",
-        "priority": 10,
+        "priority": 11,
         "schematic_color": "rgb(122, 255, 159)"
       },
       {
         "name": "DMI",
         "pcb_color": "rgb(0, 155, 255)",
-        "priority": 5,
+        "priority": 6,
         "schematic_color": "rgb(0, 155, 255)"
       },
       {
         "name": "GND",
         "pcb_color": "rgb(83, 83, 83)",
-        "priority": 4,
+        "priority": 5,
         "schematic_color": "rgb(83, 83, 83)"
       },
       {
         "name": "PCIe-CLKREQ",
         "pcb_color": "rgb(0, 186, 19)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgb(0, 186, 19)"
       },
       {
         "name": "PCIe-CPU",
         "pcb_color": "rgb(172, 81, 255)",
-        "priority": 3,
+        "priority": 4,
         "schematic_color": "rgb(172, 81, 255)"
       },
       {
         "name": "PCIe-Refclk",
         "pcb_color": "rgb(255, 197, 0)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgb(255, 197, 0)"
+      },
+      {
+        "name": "eDP",
+        "pcb_color": "rgb(255, 184, 119)",
+        "priority": 0,
+        "schematic_color": "rgb(255, 184, 119)"
       }
     ],
     "meta": {
@@ -628,6 +634,10 @@
       {
         "netclass": "DDI",
         "pattern": "*iGPU_DDI*_AUX*"
+      },
+      {
+        "netclass": "eDP",
+        "pattern": "*iGPU_eDP*"
       }
     ]
   },

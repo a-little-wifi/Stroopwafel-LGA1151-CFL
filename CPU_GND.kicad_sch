@@ -73347,7 +73347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A-my-stuff:LGA-1151_L47.1-W42.5-P0.91_PE115127-4041-01H"
+		(property "Footprint" "A-my-stuff:LGA1151_TE-2287402-1"
 			(at 203.2 256.54 0)
 			(effects
 				(font
@@ -76867,7 +76867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A-my-stuff:LGA-1151_L47.1-W42.5-P0.91_PE115127-4041-01H"
+		(property "Footprint" "A-my-stuff:LGA1151_TE-2287402-1"
 			(at 76.2 256.54 0)
 			(effects
 				(font
@@ -80387,7 +80387,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A-my-stuff:LGA-1151_L47.1-W42.5-P0.91_PE115127-4041-01H"
+		(property "Footprint" "A-my-stuff:LGA1151_TE-2287402-1"
 			(at 139.7 256.54 0)
 			(effects
 				(font
