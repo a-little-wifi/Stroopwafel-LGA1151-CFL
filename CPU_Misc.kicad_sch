@@ -21136,7 +21136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A-my-stuff:LGA1151_TE-2287402-1"
+		(property "Footprint" "A-my-stuff:LGA-1151_L47.1-W42.5-P0.91_PE115127-4041-01H"
 			(at 121.92 257.81 0)
 			(effects
 				(font
