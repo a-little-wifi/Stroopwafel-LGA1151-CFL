@@ -131,6 +131,42 @@
 					)
 				)
 				(pin unspecified line
+					(at -33.02 3.81 0)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 1.27 0)
+					(length 5.08)
+					(name "TP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
 					(at -33.02 -3.81 0)
 					(length 5.08)
 					(name "SPI0_MOSI"
@@ -18632,6 +18668,42 @@
 					)
 				)
 				(pin unspecified line
+					(at -33.02 3.81 0)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 1.27 0)
+					(length 5.08)
+					(name "TP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
 					(at -33.02 -3.81 0)
 					(length 5.08)
 					(name "SPI0_MOSI"
@@ -37000,6 +37072,42 @@
 						)
 					)
 					(number "R13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 3.81 0)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 1.27 0)
+					(length 5.08)
+					(name "TP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -55384,6 +55492,42 @@
 					)
 				)
 				(pin unspecified line
+					(at -33.02 3.81 0)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 1.27 0)
+					(length 5.08)
+					(name "TP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
 					(at -33.02 -3.81 0)
 					(length 5.08)
 					(name "SPI0_MOSI"
@@ -73752,6 +73896,42 @@
 						)
 					)
 					(number "R13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 3.81 0)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 1.27 0)
+					(length 5.08)
+					(name "TP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -95119,6 +95299,12 @@
 		(pin "G2"
 			(uuid "31c1bb2d-00a1-403a-ba9b-35e06835af26")
 		)
+		(pin "AN35"
+			(uuid "22682e56-6c55-43f5-8c73-6ae68fc18ac9")
+		)
+		(pin "AL37"
+			(uuid "ebde5b28-676a-4b69-b93a-988d93fbc6bd")
+		)
 		(instances
 			(project ""
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
@@ -97802,6 +97988,12 @@
 		(pin "G2"
 			(uuid "31c1bb2d-00a1-403a-ba9b-35e06835af28")
 		)
+		(pin "AL37"
+			(uuid "c6aad193-f40a-4824-9059-1d92fbac41d1")
+		)
+		(pin "AN35"
+			(uuid "37ad3777-c907-4d2d-880a-b84e1083976e")
+		)
 		(instances
 			(project ""
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
@@ -100484,6 +100676,12 @@
 		)
 		(pin "G2"
 			(uuid "31c1bb2d-00a1-403a-ba9b-35e06835af27")
+		)
+		(pin "AL37"
+			(uuid "6ca754f9-9014-4d1f-9100-699b821d7279")
+		)
+		(pin "AN35"
+			(uuid "8ba28a18-e6df-4b6a-9d53-ff2586ac4516")
 		)
 		(instances
 			(project ""
@@ -103302,6 +103500,12 @@
 		(pin "G2"
 			(uuid "31c1bb2d-00a1-403a-ba9b-35e06835af29")
 		)
+		(pin "AL37"
+			(uuid "ca1c47d5-a5f2-4710-af80-bb573a831bd6")
+		)
+		(pin "AN35"
+			(uuid "1ca4c4a9-d4bc-4eea-a8c0-035640377d57")
+		)
 		(instances
 			(project ""
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
@@ -106118,6 +106322,12 @@
 		)
 		(pin "G2"
 			(uuid "31c1bb2d-00a1-403a-ba9b-35e06835af2a")
+		)
+		(pin "AN35"
+			(uuid "424b367a-b89c-43df-8365-cd1f8ae5efbf")
+		)
+		(pin "AL37"
+			(uuid "a0b2784e-bee3-4597-8eec-3a2e406bef15")
 		)
 		(instances
 			(project ""

@@ -131,6 +131,42 @@
 					)
 				)
 				(pin unspecified line
+					(at -33.02 3.81 0)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 1.27 0)
+					(length 5.08)
+					(name "TP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
 					(at -33.02 -3.81 0)
 					(length 5.08)
 					(name "SPI0_MOSI"
@@ -18499,6 +18535,42 @@
 						)
 					)
 					(number "R13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 3.81 0)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 1.27 0)
+					(length 5.08)
+					(name "TP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -36883,6 +36955,42 @@
 					)
 				)
 				(pin unspecified line
+					(at -33.02 3.81 0)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 1.27 0)
+					(length 5.08)
+					(name "TP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
 					(at -33.02 -3.81 0)
 					(length 5.08)
 					(name "SPI0_MOSI"
@@ -55251,6 +55359,42 @@
 						)
 					)
 					(number "R13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 3.81 0)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 1.27 0)
+					(length 5.08)
+					(name "TP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -73635,6 +73779,42 @@
 					)
 				)
 				(pin unspecified line
+					(at -33.02 3.81 0)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 1.27 0)
+					(length 5.08)
+					(name "TP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
 					(at -33.02 -3.81 0)
 					(length 5.08)
 					(name "SPI0_MOSI"
@@ -91965,7 +92145,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 57.15) (xy 185.42 57.15)
+			(xy 173.99 57.15) (xy 179.07 57.15)
 		)
 		(stroke
 			(width 0)
@@ -92035,7 +92215,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 52.07) (xy 185.42 52.07)
+			(xy 173.99 52.07) (xy 179.07 52.07)
 		)
 		(stroke
 			(width 0)
@@ -92085,7 +92265,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 54.61) (xy 185.42 54.61)
+			(xy 173.99 54.61) (xy 179.07 54.61)
 		)
 		(stroke
 			(width 0)
@@ -97689,7 +97869,7 @@
 	)
 	(global_label "eDP_VDDEN"
 		(shape input)
-		(at 180.34 57.15 180)
+		(at 173.99 57.15 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -97699,7 +97879,7 @@
 		)
 		(uuid "61a48d53-d1a1-490d-99ae-a01a300a6494")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.8771 57.15 0)
+			(at 153.5271 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -97777,7 +97957,7 @@
 	)
 	(global_label "eDP_PWM"
 		(shape input)
-		(at 180.34 52.07 180)
+		(at 173.99 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -97787,7 +97967,7 @@
 		)
 		(uuid "81d5c6d4-466b-477d-9ee7-200d31fa3e26")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.8771 52.07 0)
+			(at 153.5271 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -97953,7 +98133,7 @@
 	)
 	(global_label "eDP_BLEN"
 		(shape input)
-		(at 180.34 54.61 180)
+		(at 173.99 54.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -97963,7 +98143,7 @@
 		)
 		(uuid "dce6c37a-7b62-4423-be16-450ce715a0ff")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.8771 54.61 0)
+			(at 153.5271 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -100753,9 +100933,19 @@
 		(pin "G2"
 			(uuid "31c1bb2d-00a1-403a-ba9b-35e06835af28")
 		)
+		(pin "AN35"
+			(uuid "85cdc3b1-eee6-479e-bc48-9eeab08f7763")
+		)
+		(pin "AL37"
+			(uuid "e7b986d1-8c49-4dc5-ba09-5d12f2679872")
+		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
+					(reference "UPCH1")
+					(unit 7)
+				)
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/cd978078-9495-426d-921d-88f146c11707"
 					(reference "UPCH1")
 					(unit 7)
 				)
@@ -103432,9 +103622,19 @@
 		(pin "G2"
 			(uuid "31c1bb2d-00a1-403a-ba9b-35e06835af27")
 		)
+		(pin "AN35"
+			(uuid "0fb44b69-3a47-4e9d-83b3-4b4efcc3cd23")
+		)
+		(pin "AL37"
+			(uuid "b16a1276-89e8-4b18-93c9-ac8b8d28bfdf")
+		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
+					(reference "UPCH1")
+					(unit 13)
+				)
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/cd978078-9495-426d-921d-88f146c11707"
 					(reference "UPCH1")
 					(unit 13)
 				)
@@ -106111,9 +106311,19 @@
 		(pin "G2"
 			(uuid "31c1bb2d-00a1-403a-ba9b-35e06835af29")
 		)
+		(pin "AN35"
+			(uuid "d7d28a77-b933-400e-b3bc-448417a68aa2")
+		)
+		(pin "AL37"
+			(uuid "a2be1e3b-7bcd-473b-a8a1-405c6155baa0")
+		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
+					(reference "UPCH1")
+					(unit 3)
+				)
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/cd978078-9495-426d-921d-88f146c11707"
 					(reference "UPCH1")
 					(unit 3)
 				)
@@ -108789,9 +108999,19 @@
 		(pin "G2"
 			(uuid "31c1bb2d-00a1-403a-ba9b-35e06835af2a")
 		)
+		(pin "AN35"
+			(uuid "63d62cfc-1326-4d88-a455-4423152a2536")
+		)
+		(pin "AL37"
+			(uuid "603d53e0-626e-4232-b400-64607e2c59b7")
+		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
+					(reference "UPCH1")
+					(unit 6)
+				)
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/cd978078-9495-426d-921d-88f146c11707"
 					(reference "UPCH1")
 					(unit 6)
 				)
@@ -111468,9 +111688,19 @@
 		(pin "G2"
 			(uuid "23ee3972-bae8-4110-babb-428e6c7d99dc")
 		)
+		(pin "AL37"
+			(uuid "d8c9347e-9e5e-4978-b618-8c145a482d12")
+		)
+		(pin "AN35"
+			(uuid "32a50550-4601-4fef-af70-a2a135aeea94")
+		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
+					(reference "UPCH1")
+					(unit 2)
+				)
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/cd978078-9495-426d-921d-88f146c11707"
 					(reference "UPCH1")
 					(unit 2)
 				)

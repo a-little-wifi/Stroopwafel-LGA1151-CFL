@@ -131,6 +131,42 @@
 					)
 				)
 				(pin unspecified line
+					(at -33.02 3.81 0)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 1.27 0)
+					(length 5.08)
+					(name "TP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
 					(at -33.02 -3.81 0)
 					(length 5.08)
 					(name "SPI0_MOSI"
@@ -18507,6 +18543,42 @@
 					)
 				)
 				(pin unspecified line
+					(at -33.02 3.81 0)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 1.27 0)
+					(length 5.08)
+					(name "TP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
 					(at -33.02 -3.81 0)
 					(length 5.08)
 					(name "SPI0_MOSI"
@@ -36875,6 +36947,42 @@
 						)
 					)
 					(number "R13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 3.81 0)
+					(length 5.08)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AL37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -33.02 1.27 0)
+					(length 5.08)
+					(name "TP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "AN35"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -64353,6 +64461,12 @@
 		(pin "G2"
 			(uuid "31c1bb2d-00a1-403a-ba9b-35e06835af28")
 		)
+		(pin "AL37"
+			(uuid "d37c637f-ea25-49f5-91b5-5a5bdac4772f")
+		)
+		(pin "AN35"
+			(uuid "ae025a9e-28ed-4c27-bf99-3228e9171cdc")
+		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/2db60b63-e8b1-46b6-baaa-324b159aae35"
@@ -64360,6 +64474,10 @@
 					(unit 12)
 				)
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
+					(reference "UPCH1")
+					(unit 12)
+				)
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/cd978078-9495-426d-921d-88f146c11707"
 					(reference "UPCH1")
 					(unit 12)
 				)
@@ -67100,6 +67218,12 @@
 		(pin "G2"
 			(uuid "31c1bb2d-00a1-403a-ba9b-35e06835af27")
 		)
+		(pin "AL37"
+			(uuid "9fb94cd6-4115-42c1-b55e-ddb54c94d31a")
+		)
+		(pin "AN35"
+			(uuid "d3c143dc-c08d-49da-b722-1acd13ab063c")
+		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/2db60b63-e8b1-46b6-baaa-324b159aae35"
@@ -67107,6 +67231,10 @@
 					(unit 9)
 				)
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
+					(reference "UPCH1")
+					(unit 9)
+				)
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/cd978078-9495-426d-921d-88f146c11707"
 					(reference "UPCH1")
 					(unit 9)
 				)
@@ -69848,6 +69976,12 @@
 		(pin "G2"
 			(uuid "31c1bb2d-00a1-403a-ba9b-35e06835af26")
 		)
+		(pin "AN35"
+			(uuid "a54774c2-33fe-4ac1-996a-576110f6f810")
+		)
+		(pin "AL37"
+			(uuid "5227a3c2-23cc-4406-932e-1b36b136bceb")
+		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/2db60b63-e8b1-46b6-baaa-324b159aae35"
@@ -69855,6 +69989,10 @@
 					(unit 8)
 				)
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
+					(reference "UPCH1")
+					(unit 8)
+				)
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/cd978078-9495-426d-921d-88f146c11707"
 					(reference "UPCH1")
 					(unit 8)
 				)
