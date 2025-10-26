@@ -20952,6 +20952,131 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:R_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.016 1.016)
+					)
+				)
+			)
+			(property "Value" "R_Small"
+				(at 1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_Small_0_1"
+				(rectangle
+					(start -0.762 1.778)
+					(end 0.762 -1.778)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 0.762)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 0.762)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -21054,6 +21179,29 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 77.47 107.95)
+		(end 90.17 114.3)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid b77a7523-2622-486e-9d84-f8b8aeefa336)
+	)
+	(text "place the resistor physically close to the OUT pin on each end?"
+		(exclude_from_sim no)
+		(at 20.32 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "679f5309-ee3a-4048-81d1-dd04d59e00b1")
+	)
 	(junction
 		(at 90.17 101.6)
 		(diameter 0)
@@ -21069,6 +21217,16 @@
 			(type default)
 		)
 		(uuid "11a22912-1885-434b-b638-97e507d3e722")
+	)
+	(wire
+		(pts
+			(xy 76.2 109.22) (xy 91.44 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e3b97d5-e089-4f75-8d08-7489d9284f0d")
 	)
 	(wire
 		(pts
@@ -21102,6 +21260,26 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 111.76) (xy 91.44 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f183acf3-417d-46b6-b4a6-0be9955f37e9")
+	)
+	(wire
+		(pts
+			(xy 76.2 111.76) (xy 81.28 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6839563-59eb-4423-b68a-70726b829a7b")
+	)
+	(wire
+		(pts
 			(xy 90.17 101.6) (xy 90.17 104.14)
 		)
 		(stroke
@@ -21109,6 +21287,50 @@
 			(type default)
 		)
 		(uuid "f9634b3e-4d1f-4258-8b60-24569ff9bfcc")
+	)
+	(global_label "TRIG_CPU_TO_PCH"
+		(shape input)
+		(at 76.2 111.76 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a3596960-3513-4d75-8a3d-c49597159df8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 61.059 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TRIG_PCH_TO_CPU"
+		(shape input)
+		(at 76.2 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aaec164b-48bd-4521-a246-faf7572f8323")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 61.059 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "A-my-stuff:Intel_CFL_1151")
@@ -24625,6 +24847,73 @@
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/e4d810de-49e6-45ae-bbfb-8cff0175b3e3"
 					(reference "JCPU1")
 					(unit 10)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 83.82 111.76 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a401a264-0353-466d-8c3a-057c38ad18b0")
+		(property "Reference" "R34"
+			(at 80.01 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "20Ω"
+			(at 87.63 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 83.82 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 83.82 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 83.82 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4e3436f1-1c03-45d1-9c05-177d4e4cdf71")
+		)
+		(pin "1"
+			(uuid "c67f4aec-1838-446f-afcf-b1debe1d6869")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/e4d810de-49e6-45ae-bbfb-8cff0175b3e3"
+					(reference "R34")
+					(unit 1)
 				)
 			)
 		)
