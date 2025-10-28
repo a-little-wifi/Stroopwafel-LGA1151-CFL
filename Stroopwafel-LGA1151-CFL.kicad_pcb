@@ -18856,7 +18856,7 @@
 				(justify mirror)
 			)
 		)
-		(path "/55a4f655-ea62-4675-bc34-60bbcfd07a2f/f625e091-44a1-4130-baec-ccc3d4d9b4a5")
+		(path "/55a4f655-ea62-4675-bc34-60bbcfd07a2f/4bb0a616-4597-4b06-aa05-4617267b8644")
 		(sheetname "/PCH_Highspeed_Clock_LPC_eSPI/")
 		(sheetfile "PCH_Highspeed_Clock_LPC_eSPI.kicad_sch")
 		(attr smd)
@@ -50966,7 +50966,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Intel 8th/9th Generation Coffee-Lake LGA1151 CPU"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -50978,7 +50978,7 @@
 				)
 			)
 		)
-		(path "/deeadc73-acb4-40d7-9415-61f11f304ecd/5886262c-23d8-4114-921c-d334d0ffb369")
+		(path "/deeadc73-acb4-40d7-9415-61f11f304ecd/e940ff6a-a163-498e-a9b3-14eb9317328c")
 		(sheetname "/CPU_Memory/")
 		(sheetfile "CPU_Memory.kicad_sch")
 		(attr smd)

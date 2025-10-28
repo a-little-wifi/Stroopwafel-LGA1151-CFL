@@ -8923,6 +8923,14 @@
 		(pin "2"
 			(uuid "9df5e173-f31d-4d3d-be20-c8af051c8156")
 		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/01fb967e-a450-4398-b24a-185552be6693"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -9267,6 +9275,14 @@
 		)
 		(pin "2"
 			(uuid "cd6b3016-c43e-4310-a001-232a2121ff05")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/01fb967e-a450-4398-b24a-185552be6693"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10570,7 +10586,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c65aea7f-11aa-4e83-96ff-6c6fb1bb444b")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR0103"
 			(at 180.34 30.48 0)
 			(effects
 				(font
@@ -10616,6 +10632,14 @@
 		)
 		(pin "1"
 			(uuid "f563c5aa-d9ae-4cad-9fe7-745581937a9a")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/01fb967e-a450-4398-b24a-185552be6693"
+					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11529,6 +11553,14 @@
 		)
 		(pin "12"
 			(uuid "c418deb5-15c3-4a6c-b320-1850187a2a8e")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/01fb967e-a450-4398-b24a-185552be6693"
+					(reference "J2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol

@@ -103561,6 +103561,14 @@
 		(pin "1"
 			(uuid "4161a03d-e469-4268-8e10-ae3d2e71b1c2")
 		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/cd978078-9495-426d-921d-88f146c11707"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small")
