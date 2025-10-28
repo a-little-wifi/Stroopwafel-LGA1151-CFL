@@ -12,8 +12,8 @@
 	)
 	(lib_symbols)
 	(rectangle
-		(start 20.32 17.78)
-		(end 113.03 24.13)
+		(start 25.4 50.8)
+		(end 118.11 57.15)
 		(stroke
 			(width 0.635)
 			(type solid)
@@ -26,8 +26,8 @@
 		(uuid 1880e306-d4ab-40f7-b7fd-465084df11f8)
 	)
 	(rectangle
-		(start 107.95 19.05)
-		(end 111.76 22.86)
+		(start 113.03 52.07)
+		(end 116.84 55.88)
 		(stroke
 			(width 0.3175)
 			(type default)
@@ -39,8 +39,8 @@
 		(uuid 18d562ec-3bc9-47c8-8f14-0a590da21e90)
 	)
 	(rectangle
-		(start 20.955 24.765)
-		(end 112.395 120.65)
+		(start 26.035 57.785)
+		(end 117.475 153.67)
 		(stroke
 			(width 0.635)
 			(type default)
@@ -52,8 +52,8 @@
 		(uuid 2c772bf8-9688-42dd-adfd-635b5b4cd7a9)
 	)
 	(rectangle
-		(start 104.394 20.32)
-		(end 106.426 21.59)
+		(start 109.474 53.34)
+		(end 111.506 54.61)
 		(stroke
 			(width 0.508)
 			(type default)
@@ -65,8 +65,8 @@
 		(uuid 4113e096-e7c8-4ec2-a8aa-2979b36e6944)
 	)
 	(rectangle
-		(start 103.505 19.05)
-		(end 107.315 22.86)
+		(start 108.585 52.07)
+		(end 112.395 55.88)
 		(stroke
 			(width 0.3175)
 			(type default)
@@ -78,8 +78,8 @@
 		(uuid 4f68681e-3efd-4e18-ae32-7a79dc8faded)
 	)
 	(rectangle
-		(start 20.32 17.78)
-		(end 113.03 121.285)
+		(start 25.4 50.8)
+		(end 118.11 154.305)
 		(stroke
 			(width 0.635)
 			(type default)
@@ -104,8 +104,8 @@
 		(uuid 936eeb3e-fab7-4ecf-be9c-27dc6f2d1467)
 	)
 	(rectangle
-		(start 99.06 19.05)
-		(end 102.87 22.86)
+		(start 104.14 52.07)
+		(end 107.95 55.88)
 		(stroke
 			(width 0.3175)
 			(type default)
@@ -118,7 +118,7 @@
 	)
 	(text "Stroopwafel LGA 1151\nIntel Coffee Lake motherboard project\nby WifiCable"
 		(exclude_from_sim no)
-		(at 19.05 167.64 0)
+		(at 25.4 20.32 0)
 		(effects
 			(font
 				(size 5.08 5.08)
@@ -132,7 +132,7 @@
 	)
 	(text "Table of contents"
 		(exclude_from_sim no)
-		(at 21.082 21.336 0)
+		(at 26.162 54.356 0)
 		(effects
 			(font
 				(face "KiCad Font")
@@ -146,7 +146,7 @@
 	)
 	(text "7."
 		(exclude_from_sim no)
-		(at 23.622 59.055 0)
+		(at 28.702 92.075 0)
 		(effects
 			(font
 				(size 1.651 1.651)
@@ -159,7 +159,7 @@
 	)
 	(text "1."
 		(exclude_from_sim no)
-		(at 23.622 28.575 0)
+		(at 28.702 61.595 0)
 		(effects
 			(font
 				(size 1.651 1.651)
@@ -172,7 +172,7 @@
 	)
 	(text "Table of contents"
 		(exclude_from_sim no)
-		(at 26.67 28.194 0)
+		(at 31.75 61.214 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -185,7 +185,7 @@
 	)
 	(text "6."
 		(exclude_from_sim no)
-		(at 23.622 53.975 0)
+		(at 28.702 86.995 0)
 		(effects
 			(font
 				(size 1.651 1.651)
@@ -198,7 +198,7 @@
 	)
 	(text "11."
 		(exclude_from_sim no)
-		(at 23.622 79.375 0)
+		(at 28.702 112.395 0)
 		(effects
 			(font
 				(size 1.651 1.651)
@@ -211,7 +211,7 @@
 	)
 	(text "2."
 		(exclude_from_sim no)
-		(at 23.622 33.655 0)
+		(at 28.702 66.675 0)
 		(effects
 			(font
 				(size 1.651 1.651)
@@ -224,7 +224,7 @@
 	)
 	(text "8."
 		(exclude_from_sim no)
-		(at 23.622 64.135 0)
+		(at 28.702 97.155 0)
 		(effects
 			(font
 				(size 1.651 1.651)
@@ -237,7 +237,7 @@
 	)
 	(text "5."
 		(exclude_from_sim no)
-		(at 23.622 48.895 0)
+		(at 28.702 81.915 0)
 		(effects
 			(font
 				(size 1.651 1.651)
@@ -250,7 +250,7 @@
 	)
 	(text "File: This one"
 		(exclude_from_sim no)
-		(at 66.04 28.194 0)
+		(at 71.12 61.214 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -263,7 +263,7 @@
 	)
 	(text "9."
 		(exclude_from_sim no)
-		(at 23.622 69.215 0)
+		(at 28.702 102.235 0)
 		(effects
 			(font
 				(size 1.651 1.651)
@@ -276,7 +276,7 @@
 	)
 	(text "14."
 		(exclude_from_sim no)
-		(at 23.622 94.615 0)
+		(at 28.702 127.635 0)
 		(effects
 			(font
 				(size 1.651 1.651)
@@ -289,7 +289,7 @@
 	)
 	(text "4."
 		(exclude_from_sim no)
-		(at 23.622 43.815 0)
+		(at 28.702 76.835 0)
 		(effects
 			(font
 				(size 1.651 1.651)
@@ -302,7 +302,7 @@
 	)
 	(text "13."
 		(exclude_from_sim no)
-		(at 23.622 89.535 0)
+		(at 28.702 122.555 0)
 		(effects
 			(font
 				(size 1.651 1.651)
@@ -315,7 +315,7 @@
 	)
 	(text "10."
 		(exclude_from_sim no)
-		(at 23.622 74.295 0)
+		(at 28.702 107.315 0)
 		(effects
 			(font
 				(size 1.651 1.651)
@@ -328,7 +328,7 @@
 	)
 	(text "3."
 		(exclude_from_sim no)
-		(at 23.622 38.735 0)
+		(at 28.702 71.755 0)
 		(effects
 			(font
 				(size 1.651 1.651)
@@ -341,7 +341,7 @@
 	)
 	(text "12."
 		(exclude_from_sim no)
-		(at 23.622 84.455 0)
+		(at 28.702 117.475 0)
 		(effects
 			(font
 				(size 1.651 1.651)
@@ -376,7 +376,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 60.96) (xy 111.76 60.96)
+			(xy 26.67 93.98) (xy 116.84 93.98)
 		)
 		(stroke
 			(width 0.635)
@@ -387,7 +387,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 86.36) (xy 111.76 86.36)
+			(xy 26.67 119.38) (xy 116.84 119.38)
 		)
 		(stroke
 			(width 0.635)
@@ -398,7 +398,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 30.48) (xy 111.76 30.48)
+			(xy 26.67 63.5) (xy 116.84 63.5)
 		)
 		(stroke
 			(width 0.635)
@@ -431,7 +431,7 @@
 	)
 	(polyline
 		(pts
-			(xy 108.966 21.844) (xy 110.744 20.066)
+			(xy 114.046 54.864) (xy 115.824 53.086)
 		)
 		(stroke
 			(width 0.508)
@@ -519,7 +519,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 45.72) (xy 111.76 45.72)
+			(xy 26.67 78.74) (xy 116.84 78.74)
 		)
 		(stroke
 			(width 0.635)
@@ -563,7 +563,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 40.64) (xy 111.76 40.64)
+			(xy 26.67 73.66) (xy 116.84 73.66)
 		)
 		(stroke
 			(width 0.635)
@@ -574,7 +574,7 @@
 	)
 	(polyline
 		(pts
-			(xy 100.076 21.59) (xy 101.854 21.59)
+			(xy 105.156 54.61) (xy 106.934 54.61)
 		)
 		(stroke
 			(width 0.508)
@@ -618,7 +618,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 76.2) (xy 111.76 76.2)
+			(xy 26.67 109.22) (xy 116.84 109.22)
 		)
 		(stroke
 			(width 0.635)
@@ -684,7 +684,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 81.28) (xy 111.76 81.28)
+			(xy 26.67 114.3) (xy 116.84 114.3)
 		)
 		(stroke
 			(width 0.635)
@@ -706,7 +706,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 35.56) (xy 111.76 35.56)
+			(xy 26.67 68.58) (xy 116.84 68.58)
 		)
 		(stroke
 			(width 0.635)
@@ -717,7 +717,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 71.12) (xy 111.76 71.12)
+			(xy 26.67 104.14) (xy 116.84 104.14)
 		)
 		(stroke
 			(width 0.635)
@@ -728,7 +728,7 @@
 	)
 	(polyline
 		(pts
-			(xy 108.966 20.066) (xy 110.744 21.844)
+			(xy 114.046 53.086) (xy 115.824 54.864)
 		)
 		(stroke
 			(width 0.508)
@@ -750,7 +750,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 91.44) (xy 111.76 91.44)
+			(xy 26.67 124.46) (xy 116.84 124.46)
 		)
 		(stroke
 			(width 0.635)
@@ -783,7 +783,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 96.52) (xy 111.76 96.52)
+			(xy 26.67 129.54) (xy 116.84 129.54)
 		)
 		(stroke
 			(width 0.635)
@@ -827,7 +827,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 55.88) (xy 111.76 55.88)
+			(xy 26.67 88.9) (xy 116.84 88.9)
 		)
 		(stroke
 			(width 0.635)
@@ -893,7 +893,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 50.8) (xy 111.76 50.8)
+			(xy 26.67 83.82) (xy 116.84 83.82)
 		)
 		(stroke
 			(width 0.635)
@@ -926,7 +926,7 @@
 	)
 	(polyline
 		(pts
-			(xy 65.405 25.4) (xy 65.405 120.015)
+			(xy 70.485 58.42) (xy 70.485 153.035)
 		)
 		(stroke
 			(width 0.635)
@@ -937,7 +937,7 @@
 	)
 	(polyline
 		(pts
-			(xy 26.035 25.4) (xy 26.035 120.015)
+			(xy 31.115 58.42) (xy 31.115 153.035)
 		)
 		(stroke
 			(width 0.635)
@@ -959,7 +959,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 66.04) (xy 111.76 66.04)
+			(xy 26.67 99.06) (xy 116.84 99.06)
 		)
 		(stroke
 			(width 0.635)
@@ -1003,7 +1003,7 @@
 	)
 	(polyline
 		(pts
-			(xy 21.59 25.4) (xy 111.76 25.4)
+			(xy 26.67 58.42) (xy 116.84 58.42)
 		)
 		(stroke
 			(width 0.635)
@@ -1013,7 +1013,7 @@
 		(uuid "fb14dae1-ecf5-4052-ad99-0618b8687b10")
 	)
 	(sheet
-		(at 26.67 92.075)
+		(at 31.75 125.095)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1028,7 +1028,7 @@
 		)
 		(uuid "01fb967e-a450-4398-b24a-185552be6693")
 		(property "Sheetname" "Display_ports"
-			(at 26.67 94.615 0)
+			(at 31.75 127.635 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1037,7 +1037,7 @@
 			)
 		)
 		(property "Sheetfile" "Display_ports.kicad_sch"
-			(at 66.04 93.345 0)
+			(at 71.12 126.365 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1054,7 +1054,7 @@
 		)
 	)
 	(sheet
-		(at 26.67 36.195)
+		(at 31.75 69.215)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1069,7 +1069,7 @@
 		)
 		(uuid "061fe2d6-87c2-48c2-90bb-0928700512fc")
 		(property "Sheetname" "CPU_PEG_DMI"
-			(at 26.67 38.735 0)
+			(at 31.75 71.755 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1078,7 +1078,7 @@
 			)
 		)
 		(property "Sheetfile" "CPU_PEG_DMI.kicad_sch"
-			(at 66.04 37.465 0)
+			(at 71.12 70.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1095,7 +1095,7 @@
 		)
 	)
 	(sheet
-		(at 26.67 46.355)
+		(at 31.75 79.375)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1110,7 +1110,7 @@
 		)
 		(uuid "1c68e8a0-095a-4b5e-9e5b-76592d9951b4")
 		(property "Sheetname" "CPU_CLK_CFG_VID_JTAG"
-			(at 26.67 48.895 0)
+			(at 31.75 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1119,7 +1119,7 @@
 			)
 		)
 		(property "Sheetfile" "CPU_CLK_CFG_VID_JTAG.kicad_sch"
-			(at 66.04 47.625 0)
+			(at 71.12 80.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1136,7 +1136,7 @@
 		)
 	)
 	(sheet
-		(at 26.67 76.835)
+		(at 31.75 109.855)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1151,7 +1151,7 @@
 		)
 		(uuid "2db60b63-e8b1-46b6-baaa-324b159aae35")
 		(property "Sheetname" "PCH_VCC_GND"
-			(at 26.67 79.375 0)
+			(at 31.75 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1160,7 +1160,7 @@
 			)
 		)
 		(property "Sheetfile" "PCH_VCC_GND.kicad_sch"
-			(at 66.04 78.105 0)
+			(at 71.12 111.125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1177,7 +1177,7 @@
 		)
 	)
 	(sheet
-		(at 26.67 56.515)
+		(at 31.75 89.535)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1192,7 +1192,7 @@
 		)
 		(uuid "5036d382-d60b-4069-a42a-4bbea2c68172")
 		(property "Sheetname" "CPU_VCC"
-			(at 26.67 59.055 0)
+			(at 31.75 92.075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1201,7 +1201,7 @@
 			)
 		)
 		(property "Sheetfile" "CPU_VCC.kicad_sch"
-			(at 66.04 57.785 0)
+			(at 71.12 90.805 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1218,7 +1218,7 @@
 		)
 	)
 	(sheet
-		(at 26.67 66.675)
+		(at 31.75 99.695)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1233,7 +1233,7 @@
 		)
 		(uuid "55a4f655-ea62-4675-bc34-60bbcfd07a2f")
 		(property "Sheetname" "PCH_Highspeed_Clock_LPC_eSPI"
-			(at 26.67 69.215 0)
+			(at 31.75 102.235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1242,7 +1242,7 @@
 			)
 		)
 		(property "Sheetfile" "PCH_Highspeed_Clock_LPC_eSPI.kicad_sch"
-			(at 66.04 67.945 0)
+			(at 71.12 100.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1259,7 +1259,7 @@
 		)
 	)
 	(sheet
-		(at 26.67 81.915)
+		(at 31.75 114.935)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1274,7 +1274,7 @@
 		)
 		(uuid "57f1b619-5b75-4a52-9868-2ca62c3e3ae1")
 		(property "Sheetname" "DDR4_slots"
-			(at 26.67 84.455 0)
+			(at 31.75 117.475 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1283,7 +1283,7 @@
 			)
 		)
 		(property "Sheetfile" "DDR4_slots.kicad_sch"
-			(at 66.04 83.185 0)
+			(at 71.12 116.205 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1300,7 +1300,7 @@
 		)
 	)
 	(sheet
-		(at 26.67 51.435)
+		(at 31.75 84.455)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1315,7 +1315,7 @@
 		)
 		(uuid "61df14ea-2065-4751-84ed-7e7cf71220e9")
 		(property "Sheetname" "CPU_GND"
-			(at 26.67 53.975 0)
+			(at 31.75 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1324,7 +1324,7 @@
 			)
 		)
 		(property "Sheetfile" "CPU_GND.kicad_sch"
-			(at 66.04 52.705 0)
+			(at 71.12 85.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1341,7 +1341,7 @@
 		)
 	)
 	(sheet
-		(at 26.67 86.995)
+		(at 31.75 120.015)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1356,7 +1356,7 @@
 		)
 		(uuid "7ff27d26-2496-4a9b-9ad6-7ba6a44f9b97")
 		(property "Sheetname" "PCIe_slots"
-			(at 26.67 89.535 0)
+			(at 31.75 122.555 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1365,7 +1365,7 @@
 			)
 		)
 		(property "Sheetfile" "PCIe_slots.kicad_sch"
-			(at 66.04 88.265 0)
+			(at 71.12 121.285 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1382,7 +1382,7 @@
 		)
 	)
 	(sheet
-		(at 26.67 71.755)
+		(at 31.75 104.775)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1397,7 +1397,7 @@
 		)
 		(uuid "cd978078-9495-426d-921d-88f146c11707")
 		(property "Sheetname" "PCH_Lowspeed_SPI_HDA_GPIO"
-			(at 26.67 74.295 0)
+			(at 31.75 107.315 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1406,7 +1406,7 @@
 			)
 		)
 		(property "Sheetfile" "PCH_Lowspeed_SPI_HDA_GPIO.kicad_sch"
-			(at 66.04 73.025 0)
+			(at 71.12 106.045 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1423,7 +1423,7 @@
 		)
 	)
 	(sheet
-		(at 26.67 31.115)
+		(at 31.75 64.135)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1438,7 +1438,7 @@
 		)
 		(uuid "deeadc73-acb4-40d7-9415-61f11f304ecd")
 		(property "Sheetname" "CPU_Memory"
-			(at 26.67 33.655 0)
+			(at 31.75 66.675 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1447,7 +1447,7 @@
 			)
 		)
 		(property "Sheetfile" "CPU_Memory.kicad_sch"
-			(at 66.04 32.385 0)
+			(at 71.12 65.405 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1464,7 +1464,7 @@
 		)
 	)
 	(sheet
-		(at 26.67 61.595)
+		(at 31.75 94.615)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1479,7 +1479,7 @@
 		)
 		(uuid "e4d810de-49e6-45ae-bbfb-8cff0175b3e3")
 		(property "Sheetname" "CPU_Misc"
-			(at 26.67 64.135 0)
+			(at 31.75 97.155 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1488,7 +1488,7 @@
 			)
 		)
 		(property "Sheetfile" "CPU_Misc.kicad_sch"
-			(at 66.04 62.865 0)
+			(at 71.12 95.885 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1505,7 +1505,7 @@
 		)
 	)
 	(sheet
-		(at 26.67 41.275)
+		(at 31.75 74.295)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1520,7 +1520,7 @@
 		)
 		(uuid "f32a0628-54c2-4f5a-8fa3-eb09958bebe4")
 		(property "Sheetname" "CPU_Display"
-			(at 26.67 43.815 0)
+			(at 31.75 76.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1529,7 +1529,7 @@
 			)
 		)
 		(property "Sheetfile" "CPU_Display.kicad_sch"
-			(at 66.04 42.545 0)
+			(at 71.12 75.565 0)
 			(effects
 				(font
 					(size 1.27 1.27)
