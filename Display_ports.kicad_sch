@@ -7265,10 +7265,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "32f5d18f-2f55-432a-ad87-4ce81ea76ebb")
+			(uuid "32c4ed0c-a83b-4997-9199-e4ecef075ffd")
 		)
 		(pin "2"
-			(uuid "f6235632-acdc-4aa5-ad8c-54289e19107a")
+			(uuid "13425135-decc-4f6e-ab58-6dd3355ad9b6")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -7333,10 +7333,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "33a66a5a-921b-4230-85b7-9a6b3ca4a961")
+			(uuid "08b7b27c-782b-4499-abc3-91bef39b777d")
 		)
 		(pin "2"
-			(uuid "eb06acec-44ef-43e6-8c29-82172d27e23b")
+			(uuid "310b11a3-402f-417c-bbd9-46f2f97b9c36")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -7428,76 +7428,76 @@
 			)
 		)
 		(pin "23"
-			(uuid "7a430a20-0fb8-4ace-bc93-0ced00820692")
+			(uuid "d18291ec-9946-4e66-8aab-b25544e2ffe4")
 		)
 		(pin "6"
-			(uuid "32fcaeeb-3848-4ffd-bdf5-dab92a4ea1db")
+			(uuid "bfcf1aa0-84b9-4c44-a005-7fde008dd9d5")
 		)
 		(pin "8"
-			(uuid "b5eef954-37b5-4cd4-86db-ddd4cabbb36c")
+			(uuid "8864f393-71d3-488a-9845-78a4ba64ed14")
 		)
 		(pin "7"
-			(uuid "5a5334aa-3cf1-4694-a02a-8e27c4ca34d8")
+			(uuid "4f47c93e-1cfe-44f4-a76e-7c978401f5b3")
 		)
 		(pin "9"
-			(uuid "a7ce839f-7b6d-4f09-93e6-86f659672c55")
+			(uuid "2d84345b-df23-41f4-81de-785e3549e745")
 		)
 		(pin "18"
-			(uuid "268170fd-5979-4865-8818-65a5c501bcc5")
+			(uuid "534dc0e6-2091-46bc-aa6b-513664b41f98")
 		)
 		(pin "20"
-			(uuid "a1972f29-4cb3-4e41-9474-34eed34be6f5")
+			(uuid "8816cca5-7a5d-4054-a682-53145a9078e7")
 		)
 		(pin "21"
-			(uuid "bb758efe-adc9-41e7-86a4-78e015ebbf9a")
+			(uuid "dc8142ca-b042-483c-8409-a80c3131224d")
 		)
 		(pin "3"
-			(uuid "684d6987-1862-4027-a58d-b0f9ae2bd672")
+			(uuid "f50ca923-5d00-4be0-891e-524d08357f8b")
 		)
 		(pin "17"
-			(uuid "e97cd190-0d7d-4402-bf99-7d944a00cfcc")
+			(uuid "2c7e1e61-d509-42fc-92bb-1da072f9e530")
 		)
 		(pin "11"
-			(uuid "afbd4f28-7c7a-470d-8989-6c669c755014")
+			(uuid "3e0b8570-e2b5-468d-923b-305a24a9e193")
 		)
 		(pin "10"
-			(uuid "5a8c8999-13c6-4da6-8f05-0928bb299be1")
+			(uuid "29bec562-5d58-4921-9163-50210a8f8f1d")
 		)
 		(pin "14"
-			(uuid "5caa34e2-2ac4-4b32-b80c-b2456be32c73")
+			(uuid "8702cb3c-9002-4ae5-afd0-f9ba34bb391f")
 		)
 		(pin "2"
-			(uuid "8ab1e9d7-c8b7-44aa-a624-c5f453dad63e")
+			(uuid "ec96daae-7f27-4676-91a1-6b023572429f")
 		)
 		(pin "15"
-			(uuid "e8e6cbbe-ffa8-4523-9ce2-5542269ae2d8")
+			(uuid "36537673-d253-4aa1-9989-bce219fad731")
 		)
 		(pin "16"
-			(uuid "f89b7765-4bf6-4748-8f08-01333a5bb30f")
+			(uuid "c211ad12-cea6-4df0-b6b4-517c4d21bf33")
 		)
 		(pin "4"
-			(uuid "54a9d641-e424-4a58-8560-e6c05db725c6")
+			(uuid "848d6ef6-7f23-4738-af8e-988e5d57fb68")
 		)
 		(pin "19"
-			(uuid "b0d9237b-7473-4c06-81f5-e48b519e9b73")
+			(uuid "a58e0451-6800-4583-a92d-5be8392a255b")
 		)
 		(pin "1"
-			(uuid "f14735b8-7471-4c21-bc8d-768b73bc8eb0")
+			(uuid "ed936193-5d54-43e8-9751-ed85724738d2")
 		)
 		(pin "22"
-			(uuid "8b5a61d8-a23b-48ff-8e38-eecb76e097d1")
+			(uuid "9b8a65bf-272f-4875-bee2-f447d7588958")
 		)
 		(pin "24"
-			(uuid "d28916b3-e6aa-4b58-9704-335c11828c38")
+			(uuid "e011f803-d4b2-430c-8f6d-6d92c3f508f5")
 		)
 		(pin "5"
-			(uuid "344a3e3e-cd23-40d3-a252-930bb1ae0feb")
+			(uuid "14ddd2e3-d0fa-4a97-be12-f3ac150c3750")
 		)
 		(pin "13"
-			(uuid "e8b21e5c-0997-4111-9923-e6abe17661ff")
+			(uuid "5c7cf0ff-dd8e-4985-b92d-189509db9ad3")
 		)
 		(pin "12"
-			(uuid "a260f81a-7899-4f8b-a5b5-de81e3dadbc6")
+			(uuid "dfb3b9a1-1bf8-42f1-985e-29430125f97a")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -7563,10 +7563,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "285f0a1f-10ef-49ff-8989-ac4d85f07c3a")
+			(uuid "f22824a9-6706-498e-a968-18ac92f4f331")
 		)
 		(pin "2"
-			(uuid "4895becd-666e-49c9-a2c6-929f63772c5f")
+			(uuid "7e0c262f-3d8c-4fde-aab4-7ba76436b99a")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -7631,7 +7631,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "e9903133-ee8c-4a19-b0ea-d4e53a8d8cf1")
+			(uuid "3571a552-7d95-491f-bd0c-ac2975b996af")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -7696,7 +7696,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "036cad0e-0d72-4037-8fca-307bfa77227c")
+			(uuid "5ed60f23-6a26-4c6b-9141-e6a084ba3976")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -7761,7 +7761,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "952cd435-407e-43f8-94bf-3c0d9670303e")
+			(uuid "45fa4daa-45a8-43a3-8320-27d749dc40ec")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -7826,7 +7826,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "61890354-5c09-404e-9c19-c775a485f8f6")
+			(uuid "e3ce4c60-257d-421f-91a3-60945e8bd4aa")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -7890,10 +7890,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "4369d78f-fe15-44cf-bcdf-7d0e30ada0fa")
+			(uuid "98c77225-de85-46bb-b5c5-5cd0a9ff9cca")
 		)
 		(pin "2"
-			(uuid "8181ae55-141c-45e4-a514-c2d09b099913")
+			(uuid "1a57afd5-5fc5-47e0-8323-843e298ec450")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -7958,10 +7958,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "3f8cbf0d-519a-4bc9-b16b-9c63acb5a407")
+			(uuid "9b17cdf2-7c96-4af1-99be-ac527fd777db")
 		)
 		(pin "2"
-			(uuid "75032967-f09b-4386-9ec8-be84c4af47cc")
+			(uuid "fcd42adf-6396-485c-bf13-2f582cd4ecd3")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -8025,10 +8025,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7118b5bd-17c0-4df5-8b64-7693750d29e1")
+			(uuid "138c95d8-d5d8-4449-997d-ff1ccd4c7778")
 		)
 		(pin "2"
-			(uuid "2976c41f-2f75-404d-8dc3-673e03d21527")
+			(uuid "611c8ac2-86b6-4126-925f-de3d4d1faa7a")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -8092,10 +8092,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a85ee050-c711-4222-ae69-e1b4bd1c6367")
+			(uuid "489f9364-be25-4060-bbe5-ff7f2ec8ef69")
 		)
 		(pin "2"
-			(uuid "50cfe542-15cc-4d22-bd4a-32a10fb385b7")
+			(uuid "764dc3e2-c684-4733-a1e1-4aa7ef4b2f9e")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -8160,7 +8160,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6a8cc7d5-cf08-4c01-83b9-6d8a84d28e23")
+			(uuid "096c73eb-629c-4187-955e-f4ba524c511d")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -8224,10 +8224,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "621de340-d028-478e-97cc-c59a7f3e0361")
+			(uuid "d30da1cb-c2d5-4f39-a7d2-58ec6ac23430")
 		)
 		(pin "2"
-			(uuid "dd92f3fc-dbbb-43c5-8c01-7fe64b5b7f1f")
+			(uuid "d0d582b8-14a3-42d7-941b-aaa9e48c4626")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -8292,10 +8292,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "1439f28e-8c07-4b60-8c4e-4d2d7bac7328")
+			(uuid "8a78f1e8-4fd2-4beb-9241-4c446201256b")
 		)
 		(pin "2"
-			(uuid "3f75d78c-2933-4822-955d-82aeb69f4f82")
+			(uuid "5f6eef2f-bb3c-44c6-8d0a-8a587b43075d")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -8362,10 +8362,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "3ffa57de-0137-411a-8470-b79addf79e58")
+			(uuid "a0ef5397-6dac-469d-a478-cbcf96772487")
 		)
 		(pin "2"
-			(uuid "5d2cc2e2-cf06-486b-b71a-8ab4b0594738")
+			(uuid "ba89d71e-5e5c-4581-81fe-4c682590fdc7")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -8429,10 +8429,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7ba38167-fa95-4298-adec-35ba5e8b9c92")
+			(uuid "9f8cea6b-b658-45b8-9b80-e7723562f1f3")
 		)
 		(pin "2"
-			(uuid "20f4054b-15a3-45fe-a828-9a91dd1eea81")
+			(uuid "a7754422-fffe-4256-9514-2a48ebef3928")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -8496,10 +8496,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "af8234bc-6643-4084-9688-67d8fdecc7c0")
+			(uuid "0372bc89-e662-49ec-ac24-d8585f0d2ec2")
 		)
 		(pin "2"
-			(uuid "90a15a29-a3f7-41d5-9cdd-ff5c6804fc48")
+			(uuid "a867f9dd-422f-43cd-908b-ecccb5f2119f")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -8563,10 +8563,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "5755371c-fb62-4598-bec9-62b95807f9db")
+			(uuid "955ba05c-c584-42bd-8e5c-4053d1d6934e")
 		)
 		(pin "2"
-			(uuid "4c94be79-d6eb-4e7d-be8e-a9131159b978")
+			(uuid "ddc6064e-0e0d-4455-a90b-2d7d3cb97a85")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -8635,13 +8635,13 @@
 			)
 		)
 		(pin "1"
-			(uuid "c91b2c39-34f4-4e46-bae5-ca72284366db")
+			(uuid "26358ce8-7f05-4f4c-840a-568a413a89bd")
 		)
 		(pin "3"
-			(uuid "e94dd86c-a6ae-464c-add4-416a97c97c9f")
+			(uuid "f4d663d5-b542-4245-8c51-f316d0038389")
 		)
 		(pin "2"
-			(uuid "dccd2153-1377-4f12-8be8-d6017cd25c1b")
+			(uuid "15d6f260-7c4d-405b-b6d6-fc799ab60fa2")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -8706,10 +8706,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "871143fc-983a-4d7c-89e6-fed8edeabdbb")
+			(uuid "88d552ed-f141-4f82-9bf9-f18ee1137f00")
 		)
 		(pin "2"
-			(uuid "a6f0f907-a2c2-4217-a705-bffc235765eb")
+			(uuid "401c4278-8aa4-40cd-bd45-0fc6db97ab18")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -8773,10 +8773,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "ce821522-5279-4676-a7e2-94aea7e84ed0")
+			(uuid "9d6cedb9-07ba-4479-9421-12b7a36c8915")
 		)
 		(pin "2"
-			(uuid "9a058a2b-cd86-4cac-a8d5-5df418f19e27")
+			(uuid "4a6f8e81-566e-4742-9e3f-ad1b3e37d058")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -8846,13 +8846,13 @@
 			)
 		)
 		(pin "1"
-			(uuid "5a20149a-f479-4310-a172-35aa8510ed12")
+			(uuid "be0643e4-e7f9-4699-a795-0021e09d9a6c")
 		)
 		(pin "3"
-			(uuid "ab33c0f5-06aa-43a0-b002-582f8d67daee")
+			(uuid "36a1bb2f-81bf-45c5-9bff-a654c1cb7b08")
 		)
 		(pin "2"
-			(uuid "0eb6b391-edcd-4a09-bd1b-812ab307cf62")
+			(uuid "551840cb-32f9-460f-a4df-8cd8732f8fc3")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -8918,18 +8918,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "01fd9c27-20cf-4bc1-b710-88a002eaea99")
+			(uuid "a3ccb973-4b5a-4cc1-a7b6-bb1a78b4596e")
 		)
 		(pin "2"
-			(uuid "5f6cd810-387d-4ba3-b904-7ec4ac5290df")
-		)
-		(instances
-			(project ""
-				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/01fb967e-a450-4398-b24a-185552be6693"
-					(reference "R4")
-					(unit 1)
-				)
-			)
+			(uuid "9df5e173-f31d-4d3d-be20-c8af051c8156")
 		)
 	)
 	(symbol
@@ -8985,10 +8977,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "cf10e806-617d-4818-bb66-3303d0f6d1ab")
+			(uuid "dd08f27d-8331-4fe2-a0d4-e06dacaac06d")
 		)
 		(pin "2"
-			(uuid "94604e63-f0b5-4e8d-b714-d6673b12bc16")
+			(uuid "7d702b79-4435-42db-b3e1-b7a75c5545d1")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -9052,10 +9044,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "af7a3a76-87d2-4270-959e-15355e6757fb")
+			(uuid "05955812-1680-47ac-8c15-9d5b9c438d48")
 		)
 		(pin "2"
-			(uuid "a5484b3e-8825-45bb-8561-6824640dd3e0")
+			(uuid "8e9243b1-fc3d-4a9c-9976-722d7227dce4")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -9120,10 +9112,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "f2b72595-352a-49d5-8251-1f0c91ca37bb")
+			(uuid "d5f757c9-5d89-475c-ba3a-3ead2a879b61")
 		)
 		(pin "2"
-			(uuid "7e0e1700-1f2c-403e-9854-8820350b278f")
+			(uuid "b55cf299-ae58-4e26-b7ef-051571b41851")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -9193,13 +9185,13 @@
 			)
 		)
 		(pin "1"
-			(uuid "4671e0e7-a7b2-414d-a582-7a9d6d9a04ae")
+			(uuid "36c28dbd-7279-4754-aee0-dcc03ffe77db")
 		)
 		(pin "3"
-			(uuid "c7f63072-e79c-4cc9-8fa7-4b58574d8ec0")
+			(uuid "208d03c5-e5f4-4208-8b8a-b38f2c1cdb99")
 		)
 		(pin "2"
-			(uuid "0c7b94f3-b043-4dbb-8774-80887f092ef2")
+			(uuid "bdc999f8-eb1e-4d0a-82ba-3b97ffdecd6f")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -9268,21 +9260,13 @@
 			)
 		)
 		(pin "1"
-			(uuid "75fd0739-8c6e-46fc-89a6-c81066646339")
+			(uuid "09f9f8e5-06a2-4075-9ec7-b916f69dae09")
 		)
 		(pin "3"
-			(uuid "b586845c-552d-4235-8b8b-749d8076cbc4")
+			(uuid "d1d5b150-3614-47b2-8c5e-2d33bb18fb02")
 		)
 		(pin "2"
-			(uuid "8cf716e7-ea6e-49fe-9954-d363d0ee398c")
-		)
-		(instances
-			(project ""
-				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/01fb967e-a450-4398-b24a-185552be6693"
-					(reference "Q1")
-					(unit 1)
-				)
-			)
+			(uuid "cd6b3016-c43e-4310-a001-232a2121ff05")
 		)
 	)
 	(symbol
@@ -9343,13 +9327,13 @@
 			)
 		)
 		(pin "1"
-			(uuid "a2627fb5-4763-421a-b88f-2184990f5ce3")
+			(uuid "bcb97d6e-99f0-409c-b2d1-76115ad94d50")
 		)
 		(pin "3"
-			(uuid "1cee2607-560c-471e-8d52-ee68794af236")
+			(uuid "7d36ae65-81f8-45a9-b006-ad52007d63fe")
 		)
 		(pin "2"
-			(uuid "e7aff05a-d479-437c-8e6c-78c39df8b724")
+			(uuid "8142f13a-9cce-4199-a8f2-6d438bf97aa4")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -9413,10 +9397,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7ef6e60a-c6d4-47ae-a990-0b1a0a6f7af1")
+			(uuid "db1de417-051c-4a68-bf7e-3512faaf52d6")
 		)
 		(pin "2"
-			(uuid "8dcf48b6-cc2f-4e5c-b3ae-c5af15026597")
+			(uuid "1e90164c-d216-4848-a403-f82fdfa7d731")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -9480,10 +9464,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "96ed7d39-ac7d-424e-8bdc-d71c98502e60")
+			(uuid "13624fa1-8f6a-4c92-abc1-b47d44f3505a")
 		)
 		(pin "2"
-			(uuid "3cee4ee5-858f-4aa8-9100-5c954abe9dff")
+			(uuid "e3c18c01-e420-43e4-915f-99ab5dcbe5d8")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -9548,7 +9532,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b43f96d9-5eb7-426f-a21e-5b14c000e170")
+			(uuid "a2da5644-8dd1-4929-8901-cb07140348a4")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -9613,7 +9597,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "d3f781a6-1988-4d4c-b6ee-4459da96f997")
+			(uuid "9667827f-c240-4b52-a2d5-e87df2fdbaee")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -9677,10 +9661,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "3cfe2fbc-3c64-47b8-83ae-5aa80c253cff")
+			(uuid "329011f9-2824-4596-9e1f-52743ccf8e23")
 		)
 		(pin "2"
-			(uuid "085ce7c2-3979-4539-bc88-4e4a4626a2b4")
+			(uuid "c7274394-0a8a-4397-a9fd-72cd359e728d")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -9745,10 +9729,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "2e585bb5-f78c-49af-9d8e-e83f72c90d74")
+			(uuid "bdfb6cc8-82eb-42a4-8dd6-e24ec9eff005")
 		)
 		(pin "2"
-			(uuid "88444204-4a4e-497b-893e-298890542a3c")
+			(uuid "7fb5553c-45d9-410f-9758-b11ac415add2")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -9814,10 +9798,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "28117165-712d-4cb9-8d9b-e1d75285ced2")
+			(uuid "c44c0d51-ed56-46e8-915c-910ffa6b644d")
 		)
 		(pin "2"
-			(uuid "41b1dd5f-eef9-4066-a70c-f0fba51e87c4")
+			(uuid "e3bb7506-3515-43dc-a967-1511ed1161c0")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -9882,10 +9866,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7a285677-10da-45c8-bbd8-efe482730a04")
+			(uuid "d1808e3f-aeec-48e9-ab7e-0035bca0af4e")
 		)
 		(pin "2"
-			(uuid "e344e59a-98b3-4865-8009-92d2bc131480")
+			(uuid "eb02a6fb-610b-4343-be9e-1925f4176f82")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -9949,10 +9933,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "e0233755-8323-4e84-838f-a4801e6cd4ab")
+			(uuid "39030cd0-5823-452b-95de-b4463a9cf66c")
 		)
 		(pin "2"
-			(uuid "ed541a2c-2217-4d27-958c-cda93c4554ce")
+			(uuid "848ad633-533b-4a30-8e0d-a37a4308407f")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -10016,10 +10000,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "563ece40-76da-4828-8e7e-b11e1c35aabb")
+			(uuid "390bd832-b1f0-48de-93ce-e16df967c5da")
 		)
 		(pin "2"
-			(uuid "bdcde8ff-b28d-4415-aaea-ec4cdb33140c")
+			(uuid "a50c2bb1-a6eb-4827-9eba-4ef8bb242467")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -10085,10 +10069,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "4d6efb0d-538c-47e2-a896-bdc43c96fb17")
+			(uuid "7c2bddac-ef70-438e-a22f-b3c5a587d233")
 		)
 		(pin "2"
-			(uuid "2c69bd93-e43e-4595-a17c-14f78d276016")
+			(uuid "de275f35-3ded-4de1-82f8-f62be3faf429")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -10152,10 +10136,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "3c53670b-7fe9-48d6-896b-38213f82f761")
+			(uuid "10d7e206-64e2-49fa-b037-ede6c7afacc6")
 		)
 		(pin "2"
-			(uuid "131c1da7-452c-4e20-ba12-08c37b02c8da")
+			(uuid "22bd88fb-cc45-42b3-b173-8754c35e2437")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -10219,10 +10203,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "2a320082-1ff4-4f1f-9dc9-90bdc5197787")
+			(uuid "01cc4818-bf7f-4559-ac5e-5e486a3f2249")
 		)
 		(pin "2"
-			(uuid "7a34d3db-51ef-452b-b84f-f0c5802ffe4d")
+			(uuid "931c8bf3-a8a8-4b22-bff0-c443d8cb8468")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -10288,10 +10272,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a133719f-ab26-4628-a291-d7511a9a79bc")
+			(uuid "4217ec7a-6441-434e-b8a8-bc36957c9feb")
 		)
 		(pin "2"
-			(uuid "704fa3c3-e53c-4bb9-ac87-011e7dced1a8")
+			(uuid "c50dd4f2-5bff-4054-9572-6d1e5906989c")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -10360,13 +10344,13 @@
 			)
 		)
 		(pin "1"
-			(uuid "ff9ff128-3f47-4d1e-bba0-4a18d40dd85c")
+			(uuid "1f84280e-03dc-47ea-a579-73dc19a0a96d")
 		)
 		(pin "3"
-			(uuid "458dd7a7-5572-417b-a5ff-7bc6d059762f")
+			(uuid "ba5cb784-09f9-49ef-ac56-65ef02eb622d")
 		)
 		(pin "2"
-			(uuid "0b5e7d29-06ec-4be6-a1d0-c25fd98d9f62")
+			(uuid "edace9e6-8108-48a2-8cd5-61017c729ad5")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -10431,10 +10415,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "e34c178a-386b-4470-856a-371ba42e9f51")
+			(uuid "03ee1ded-c29b-4c86-87f3-36e9147f0954")
 		)
 		(pin "2"
-			(uuid "11fb8a40-360b-4715-85ae-8e7064865b82")
+			(uuid "3b36477d-d874-4478-8359-ef5042d6bd89")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -10499,7 +10483,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "2a3b4e29-24d1-44d0-813d-67c2888a2df5")
+			(uuid "8a552517-6518-4c12-ac70-2e7b3b3c17d8")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -10563,10 +10547,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "e3b74ba1-b417-42c4-a929-25f3998f9742")
+			(uuid "9a290b09-4e68-4d28-af7d-e9db5b2320ed")
 		)
 		(pin "2"
-			(uuid "ec5a4cd4-3b53-42f9-a428-1dee02d7bdb6")
+			(uuid "16922032-4ef9-48c3-b0ce-667fa753799a")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -10631,15 +10615,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "89aef830-3e4b-409a-8b9c-d09dbf0533fe")
-		)
-		(instances
-			(project ""
-				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/01fb967e-a450-4398-b24a-185552be6693"
-					(reference "#PWR027")
-					(unit 1)
-				)
-			)
+			(uuid "f563c5aa-d9ae-4cad-9fe7-745581937a9a")
 		)
 	)
 	(symbol
@@ -10695,10 +10671,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "b215eee5-00d4-49af-ad8e-2536c1746696")
+			(uuid "5b5ecbad-421d-4f5d-82a3-5b5d05380140")
 		)
 		(pin "2"
-			(uuid "d63f5a13-d6df-43e3-ba4a-d358a6326736")
+			(uuid "3a1eeedd-bf3b-4d9b-9b0f-4391911d57eb")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -10762,10 +10738,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c5b6d7f9-9a76-413b-bb71-a5237ae1b391")
+			(uuid "dd574848-03c0-4616-8dec-c7362df9a28b")
 		)
 		(pin "2"
-			(uuid "09df0cb2-acdb-447c-ba65-651ea848a355")
+			(uuid "7f798f08-537f-4001-99bc-ee9b79a1f5e0")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -10829,10 +10805,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "d7219bd8-602e-4feb-8d48-64865dae5ea9")
+			(uuid "ee067cce-2a00-48ed-822f-96d705b7a404")
 		)
 		(pin "2"
-			(uuid "99664702-e122-42fa-b931-3192fa0364e7")
+			(uuid "261259fe-5ba2-4832-ae63-610b388b2068")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -10924,76 +10900,76 @@
 			)
 		)
 		(pin "23"
-			(uuid "ec65980d-8d59-4ef7-a0ea-6bed9ac87b63")
+			(uuid "73ebdd13-81b9-4dda-ae28-f72c2488df7d")
 		)
 		(pin "6"
-			(uuid "0ee70792-c6af-48c2-8784-20fa1171291f")
+			(uuid "80c75398-cb34-44bf-b23a-497cfe0bc337")
 		)
 		(pin "8"
-			(uuid "f359092d-4d1f-4a87-b136-ff8624214f6e")
+			(uuid "d9852e7d-4d95-4e06-8742-256dfeb456bd")
 		)
 		(pin "7"
-			(uuid "f7bee3b1-2673-41f7-af45-db71f8d7a95a")
+			(uuid "247ba227-ff7b-4d5f-a025-2beb863c36e9")
 		)
 		(pin "9"
-			(uuid "dd08e562-7104-4fa9-a76d-bcfbc373479d")
+			(uuid "ad9d46a3-6973-4ada-98d6-4fa065268695")
 		)
 		(pin "18"
-			(uuid "c148d4a2-5159-490b-9262-543dc8f32836")
+			(uuid "15e3d4c5-247b-411d-8d3f-44074f4af1f0")
 		)
 		(pin "20"
-			(uuid "eed52485-ff2c-4145-8f5a-abb10ff78e27")
+			(uuid "e057df07-2834-4d97-be4a-be0c51082180")
 		)
 		(pin "21"
-			(uuid "7a46627f-1004-4699-9024-54375056b2b3")
+			(uuid "08c2a8c4-8ca7-416d-bbc3-e1a80a402b75")
 		)
 		(pin "3"
-			(uuid "41313d69-359d-40ea-a31f-f9c4949def6a")
+			(uuid "b676dac3-54da-4a6d-880f-8b451900ae2d")
 		)
 		(pin "17"
-			(uuid "f387e951-223e-4a7c-8204-f35f72a105a6")
+			(uuid "d6999436-389d-431e-a887-edc77b5e4430")
 		)
 		(pin "11"
-			(uuid "0bfcad9a-e6e5-406f-821f-61b27b7f4747")
+			(uuid "77252778-2dd1-45f9-9ef2-67334e75e6b2")
 		)
 		(pin "10"
-			(uuid "e20a5610-9260-4455-a9d7-1b68f07cec42")
+			(uuid "bfaa01ed-e38d-47aa-bc3b-aa1bdeda3b68")
 		)
 		(pin "14"
-			(uuid "9db6f631-b7a7-490c-9df7-ea7632c1486e")
+			(uuid "b352e934-0ea8-4e83-b600-4d8083ebb51c")
 		)
 		(pin "2"
-			(uuid "9ca5b5f6-79c1-4a6e-8f14-4931ff9d524a")
+			(uuid "c37fe4cb-cd32-4802-890f-76b4d3bfb0dd")
 		)
 		(pin "15"
-			(uuid "22a7b52f-af02-417f-86fc-869ad7fc7495")
+			(uuid "102a5e67-eb72-4c75-80fc-2fac123198af")
 		)
 		(pin "16"
-			(uuid "042b078f-bf8e-45c8-a6a0-ac6bcd76312d")
+			(uuid "cd3df275-87d1-4ca3-9819-8b0bb19bb7b7")
 		)
 		(pin "4"
-			(uuid "3dc72a8e-9307-4248-bcf7-dd09c912bc00")
+			(uuid "ab9cf307-93bd-4831-9c08-f109ca7bd560")
 		)
 		(pin "19"
-			(uuid "bee4074f-ef6c-4172-8456-1a92a2b27615")
+			(uuid "ee2caea4-114d-4f0e-8eed-a18c5b87cc42")
 		)
 		(pin "1"
-			(uuid "5c130e03-e91b-4998-9a7d-06d484e8fc7f")
+			(uuid "c338d17c-eccf-41cf-98c3-ec394f629f11")
 		)
 		(pin "22"
-			(uuid "59d76825-16e3-4457-9a2c-2d6bfb04b533")
+			(uuid "444c3afe-6d30-443d-a18d-8c57e5f15ffb")
 		)
 		(pin "24"
-			(uuid "a31630e0-a323-4b33-8886-8bb549af1639")
+			(uuid "7b723711-e91d-46ce-9ea6-47d5226925a2")
 		)
 		(pin "5"
-			(uuid "4db46adb-dd0e-432f-ae9a-1c865f411c4c")
+			(uuid "cc26b298-89c0-4541-9124-af3c5d659931")
 		)
 		(pin "13"
-			(uuid "89238b30-576b-460a-ad4a-39f38f38150b")
+			(uuid "5c66d79d-8697-43d7-baaf-cc765945bd2e")
 		)
 		(pin "12"
-			(uuid "42dbd04c-9d41-41a0-9bb7-a26e19af0468")
+			(uuid "9ccb0766-b2cb-4a10-9864-ecbfff52cf19")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -11057,10 +11033,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "52324221-45f9-4ebe-9325-0f46ae10d14b")
+			(uuid "cd1671e5-918f-4aa9-8f22-e62302074413")
 		)
 		(pin "2"
-			(uuid "747d3155-62ea-41e6-bdcf-8227a12f6f46")
+			(uuid "f09dfd61-de3b-4558-809c-aa38938be4ca")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -11124,10 +11100,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "e3cfffe0-e7c0-435f-a93a-f20549f6139f")
+			(uuid "ab49c019-5151-4108-b331-d41254aed210")
 		)
 		(pin "2"
-			(uuid "40040820-9046-459f-8884-4cfc8cb20d68")
+			(uuid "a650c9e6-8495-430a-883f-09466a15bbf8")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -11192,7 +11168,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1b26de01-3d7e-4815-9bb9-c4a3d7e022ce")
+			(uuid "7ebf5606-dd68-4e2a-8f2f-0aa29e42f41a")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -11257,7 +11233,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "0a67476f-184d-437d-bd65-53508c94f5e6")
+			(uuid "ab2ce633-65a3-464a-89cf-fb7fde1f67d9")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -11321,10 +11297,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "1e68dbe5-53b4-47f0-9474-c248a430a8a6")
+			(uuid "c58247b1-2b1c-40e0-8888-4b89e17171b1")
 		)
 		(pin "2"
-			(uuid "2c3b91f0-b07e-40ed-91ff-da5fed450f4a")
+			(uuid "196621c1-3dc8-4b22-8d30-2a30b26c379b")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -11388,10 +11364,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "427fa623-0358-44c4-a06c-c8b3329548f3")
+			(uuid "a15077b4-3703-4ca1-9a74-5e8337fa06be")
 		)
 		(pin "2"
-			(uuid "f1ebc5be-6120-4018-8a8d-4d3b1b687b2d")
+			(uuid "c391f3b8-d20c-4ac0-b598-e0f36d903f83")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -11483,84 +11459,76 @@
 			)
 		)
 		(pin "23"
-			(uuid "2499366c-1a49-4395-97d4-e4678f832b5b")
+			(uuid "f6eaaa5b-5b92-4303-b2a3-12c7664b903e")
 		)
 		(pin "6"
-			(uuid "674e130c-825b-4cee-9e94-c308ab825afc")
+			(uuid "f43b9480-2c3e-4d5a-b3d1-6b8f8da3246a")
 		)
 		(pin "8"
-			(uuid "ffefdb7f-54ba-4164-a6bf-f067bd2c8470")
+			(uuid "0b796033-769d-4354-8ad3-d8de72d70d72")
 		)
 		(pin "7"
-			(uuid "f446d2c3-4bd9-47fe-a6cf-b292d5518420")
+			(uuid "4219b324-6401-4adf-a10d-788786813478")
 		)
 		(pin "9"
-			(uuid "5e2f4ec0-0c3a-4b14-83d0-82859b0502a8")
+			(uuid "528f040d-b70c-46ae-b251-f2883ce3c2e7")
 		)
 		(pin "18"
-			(uuid "cb0ad43e-dbaa-46f2-bb12-6f340c4fec20")
+			(uuid "28df9efb-7796-4fc9-9616-4eba4f12feea")
 		)
 		(pin "20"
-			(uuid "0e710f67-0df3-45e9-8e4b-6e07d2dbfa39")
+			(uuid "41c428fe-a9dc-470a-80f9-7409f9cf6dc8")
 		)
 		(pin "21"
-			(uuid "83fcbedb-04a5-4afc-b622-ad73635cea96")
+			(uuid "d67d8503-59f3-4d32-a876-6260b977fdbf")
 		)
 		(pin "3"
-			(uuid "16f3335b-51ab-49ab-8d56-748187009d04")
+			(uuid "daaadb75-ae7d-44c4-bc71-2494fdb20c2d")
 		)
 		(pin "17"
-			(uuid "aadbba02-47e3-4529-bef3-b90ce750da4b")
+			(uuid "84f14762-6860-42ba-9d36-179009b14a37")
 		)
 		(pin "11"
-			(uuid "d369a7be-fbd3-4199-91eb-6310271ec944")
+			(uuid "7806f6f6-940e-403b-9564-5d3062e8bfd0")
 		)
 		(pin "10"
-			(uuid "93624c6a-4278-4808-ba08-67f942b57c97")
+			(uuid "24e45ebc-daa8-4812-b78d-3311b65f9846")
 		)
 		(pin "14"
-			(uuid "48d9995b-1ae7-4b1f-86f5-3c23f8a8a8b5")
+			(uuid "889f8fd8-db72-497d-bba6-33009fd632e3")
 		)
 		(pin "2"
-			(uuid "86dd10d2-d168-45ee-8341-8f2ae08d9ee8")
+			(uuid "ed1e3393-9975-48f9-9dac-e3b98e2492e0")
 		)
 		(pin "15"
-			(uuid "49f38982-2a7c-4cb9-817d-1e08069deed2")
+			(uuid "5632d69e-463a-4e6e-9c0a-8b310b4e192d")
 		)
 		(pin "16"
-			(uuid "cfe921f7-d60c-4d82-962b-d56630e788b7")
+			(uuid "23f99430-b307-450a-ab07-3a7b89eae6ab")
 		)
 		(pin "4"
-			(uuid "5e3557f7-de25-41c8-8451-32c4efdc3b7e")
+			(uuid "5b532bb2-b4b6-4839-8196-5cf5446642ab")
 		)
 		(pin "19"
-			(uuid "35a8b1f9-02a6-4b3e-a316-29eee9d4276e")
+			(uuid "896e93b3-18e3-4ef8-b0ac-6cba358351b4")
 		)
 		(pin "1"
-			(uuid "090d9e06-8c87-4f47-870f-df1a296b24f8")
+			(uuid "2df19538-90bb-4870-8ad3-536e12b8cfc1")
 		)
 		(pin "22"
-			(uuid "49003828-fee5-4090-9f3b-96f88257fe58")
+			(uuid "87d3dad4-cc9f-40f6-8d0b-56038d0f0cc3")
 		)
 		(pin "24"
-			(uuid "3b2e34ef-b292-4413-bb6e-547b7abcb2a0")
+			(uuid "b516468f-979b-4189-b917-cea861bb208c")
 		)
 		(pin "5"
-			(uuid "ce563a68-252f-493a-83bb-76bb1d447fe4")
+			(uuid "9dd30443-849c-4509-8881-86aa80fdee40")
 		)
 		(pin "13"
-			(uuid "2ad5be1d-840c-474c-bc61-e0375c6c25a8")
+			(uuid "f3df1986-1a20-4e52-ae9c-258ddd4291c3")
 		)
 		(pin "12"
-			(uuid "7e822b3d-f2cc-4a4c-af1b-98a74343a89c")
-		)
-		(instances
-			(project ""
-				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/01fb967e-a450-4398-b24a-185552be6693"
-					(reference "J2")
-					(unit 1)
-				)
-			)
+			(uuid "c418deb5-15c3-4a6c-b320-1850187a2a8e")
 		)
 	)
 	(symbol
@@ -11617,7 +11585,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b5cef662-2b7d-4f8b-880c-31db3ca9426f")
+			(uuid "88d235fd-8b21-4681-80a0-a2cdba508286")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -11693,136 +11661,136 @@
 			)
 		)
 		(pin "44"
-			(uuid "031a8553-8ee6-4e39-bf65-30c955be7877")
+			(uuid "02c21ca0-24d8-4bd5-ab35-5271e9218ca2")
 		)
 		(pin "35"
-			(uuid "8372b654-6214-4114-ae9c-6603b8771050")
+			(uuid "fb47b8d9-2721-44c2-a6e9-a8e0f5509d63")
 		)
 		(pin "8"
-			(uuid "b7b91c4c-5517-4d98-9977-0e69ffab184a")
+			(uuid "28cbc0bc-f9ed-462b-b4ff-728d5906ecd0")
 		)
 		(pin "13"
-			(uuid "f95f33c9-65f6-429e-83bb-a5b34665f283")
+			(uuid "a3da3dcc-9d29-4e89-951f-2ade1b956aa9")
 		)
 		(pin "26"
-			(uuid "21c3eeca-f587-44ac-adaf-f83e7faf6347")
+			(uuid "6859b412-c346-401b-b132-6c2d3d1a38be")
 		)
 		(pin "28"
-			(uuid "aa611768-b9e5-44b3-a479-53b44a73158a")
+			(uuid "49a8a9a8-4aa5-4bf2-ada3-01726c197b1b")
 		)
 		(pin "10"
-			(uuid "34342d8a-359e-49c2-896f-06e1b40a738a")
+			(uuid "8d4d63ba-2d4b-46d1-ab37-d528ddf2eec3")
 		)
 		(pin "1"
-			(uuid "be70fd41-ff73-47fd-823a-6ded9a1d9673")
+			(uuid "0eef6c83-deb1-4843-9338-30330e96890c")
 		)
 		(pin "20"
-			(uuid "dfeaaba8-e7a3-4051-a657-fed55b606132")
+			(uuid "d7fae898-1ff6-464e-a48c-3d6e9e462d1a")
 		)
 		(pin "33"
-			(uuid "0998e0d3-70e5-497b-9820-ea8665b70347")
+			(uuid "7f936851-8b51-4b8d-9331-775977656385")
 		)
 		(pin "36"
-			(uuid "47334c9d-d8e4-4464-9a85-9fb2c68b9a07")
+			(uuid "71d9d3d5-899a-4dfd-92fc-1598d48eff59")
 		)
 		(pin "3"
-			(uuid "a26477df-40a0-44a2-846a-04705d015011")
+			(uuid "4f516ff9-b726-4656-8a03-46e6f766691a")
 		)
 		(pin "17"
-			(uuid "840ffa0d-783f-4408-91b0-ffd9d37e3eed")
+			(uuid "518ef2d6-6cef-4414-9ec1-452dff552860")
 		)
 		(pin "24"
-			(uuid "07d1f1af-a280-4435-b932-1acddac335ae")
+			(uuid "c14b282b-c008-4ea1-a29f-6c2b8f532477")
 		)
 		(pin "5"
-			(uuid "be19756f-c361-49dc-a380-ed638d1bbe5b")
+			(uuid "16fe605d-5f2d-4361-bc82-bcbf7148c408")
 		)
 		(pin "18"
-			(uuid "1c123ccc-acc9-40c2-b39a-f874e929e811")
+			(uuid "0c6d348e-b4f7-417d-aa22-d86e530726c2")
 		)
 		(pin "27"
-			(uuid "086d5c79-c107-4371-bace-83d9e434dc4a")
+			(uuid "6f07e3a7-7e1f-4617-b4da-a3cf07397d9b")
 		)
 		(pin "40"
-			(uuid "fbcd5b68-5f85-426e-a544-ae87d8ea079e")
+			(uuid "3a51988d-6f80-4c68-9d63-7028ae9a8aa2")
 		)
 		(pin "41"
-			(uuid "f949c736-14a9-4e79-a81e-8fa38729255d")
+			(uuid "38fd6909-0134-4cf6-90f4-0da04234f142")
 		)
 		(pin "14"
-			(uuid "3963a05f-e909-4efa-b700-e22fe458c660")
+			(uuid "80ea3e14-3ce2-46cc-8ebe-3e4aaaa5d3fa")
 		)
 		(pin "11"
-			(uuid "94e5371b-ae09-402c-973b-e56bd1add6fc")
+			(uuid "9d52fa43-673c-451f-bf71-c358af36601c")
 		)
 		(pin "30"
-			(uuid "5a438698-1411-4a1d-9909-2bee0dc82f7e")
+			(uuid "dcc821cf-36dc-4265-b22a-d137af9e97ec")
 		)
 		(pin "9"
-			(uuid "52186dbb-941c-4f2f-85b1-d5139726f002")
+			(uuid "c4cc384c-51d9-47b2-90e9-d46a14bc55f4")
 		)
 		(pin "22"
-			(uuid "0d908742-10dd-413e-b3c5-189562faa862")
+			(uuid "dc2e051f-b2df-4772-9b62-ae17611f751f")
 		)
 		(pin "25"
-			(uuid "7324140b-9c74-440f-96bc-04e828a60a78")
+			(uuid "621acea7-3274-4e0e-8ccc-2d731fd00cfd")
 		)
 		(pin "2"
-			(uuid "11502084-2fcf-4c5b-b375-53d43e3505ac")
+			(uuid "cee55013-87ba-419d-864b-84c0d7e44504")
 		)
 		(pin "12"
-			(uuid "4b4df403-b6e0-4777-aae2-20aa4fad0c99")
+			(uuid "e23c67d8-e3b8-4ec2-a1f9-b0650b714ddd")
 		)
 		(pin "29"
-			(uuid "d1e51dfe-31d9-4472-918e-2125bca70efd")
+			(uuid "8c708707-3075-4e79-b2f1-4dafd7c1b918")
 		)
 		(pin "4"
-			(uuid "a6bac944-df6f-4283-9881-c95d02da4a23")
+			(uuid "7e53da0a-8efb-44a8-9a0e-d193628f426c")
 		)
 		(pin "7"
-			(uuid "e5e3ccb1-d0d0-4a0a-bbff-d75ca0ca1932")
+			(uuid "aea2c116-a313-4692-8e93-68d2a849e630")
 		)
 		(pin "23"
-			(uuid "1c009610-b145-4941-971d-838dfb382de9")
+			(uuid "dcd5423c-f68b-40d6-95a4-8bbb08b38b4d")
 		)
 		(pin "6"
-			(uuid "2e3f994e-676a-431a-9f86-965ad0ae3dd0")
+			(uuid "a4a7e3a7-e6fc-4b69-909a-14ccaaf53c2d")
 		)
 		(pin "21"
-			(uuid "58da00dc-e367-4c35-9596-8204ee6c8f86")
+			(uuid "5a824874-196f-4675-b016-699388b93d65")
 		)
 		(pin "32"
-			(uuid "e3ba3541-2d6d-4598-8139-f397c7b907fb")
+			(uuid "b16fa5dd-59f2-4cc4-b264-a7fbc3ea8416")
 		)
 		(pin "34"
-			(uuid "585da433-2cd9-4dab-9003-769b47601424")
+			(uuid "90e0acc3-0dae-464a-af27-b53499e6ef4d")
 		)
 		(pin "38"
-			(uuid "9c44ef15-5949-4657-8993-981ef2680395")
+			(uuid "5b863ea6-ad27-4361-af82-2fae07076d99")
 		)
 		(pin "19"
-			(uuid "8275f59b-f7ff-4869-b760-c4937b1be3cd")
+			(uuid "2af14316-ef4b-417b-a9af-6f38106ab4bb")
 		)
 		(pin "31"
-			(uuid "92fe9572-ca83-4078-a379-48bd796546c8")
+			(uuid "4c925144-8e83-4568-8918-d6e9ccb52c13")
 		)
 		(pin "42"
-			(uuid "6e2a189c-433e-4888-b4a2-d0477368d9de")
+			(uuid "ef044033-58e5-4646-9aa6-13efd44f63ee")
 		)
 		(pin "43"
-			(uuid "27eb6ffa-4356-4b34-a2bd-86c9a2b87e13")
+			(uuid "eaddc58e-074a-4d50-8b09-73bdbc6ce080")
 		)
 		(pin "15"
-			(uuid "b322a7ab-e915-4bb9-9c51-8a0917076c6b")
+			(uuid "32fbf733-e8f8-4e25-abf2-149d65050031")
 		)
 		(pin "39"
-			(uuid "eccf76d3-4d53-480a-8c10-9577ae6e0adf")
+			(uuid "45852d48-639e-49b9-8430-c3311dd7f47e")
 		)
 		(pin "37"
-			(uuid "13457649-129a-4af5-8ce9-a42648372f02")
+			(uuid "af8fcbe3-77f6-41d9-8c5e-10db202893e2")
 		)
 		(pin "16"
-			(uuid "d9308bc6-685c-4468-9e6b-41dc493c3b2a")
+			(uuid "352ae207-6ab7-4cce-9608-38b24a7d5ed0")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -11887,10 +11855,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "576f3d26-b44d-4909-9717-204efb1d8435")
+			(uuid "50d92eb7-b5b3-4a44-8b9d-e756766f062e")
 		)
 		(pin "2"
-			(uuid "a3de4899-595a-40ec-9ca0-7640077c8ad8")
+			(uuid "44c54ad6-6a6f-4eff-b5c8-66a626d6391b")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
@@ -11954,10 +11922,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "b9c2730c-ebe3-48a3-87ed-3093038c56ab")
+			(uuid "d43800d2-711f-4138-925c-f91d80bde41a")
 		)
 		(pin "2"
-			(uuid "f6868eca-3834-4664-b885-125aa135b19a")
+			(uuid "99e3d063-d754-4148-93e7-63fb471d897b")
 		)
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
