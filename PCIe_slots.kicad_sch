@@ -3183,6 +3183,131 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:+5V"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+5V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+5V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+5V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+5V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -3382,6 +3507,12 @@
 		(uuid "51d394ca-3f94-4bb7-88af-ad2b65bdf18b")
 	)
 	(junction
+		(at 85.09 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "52ac6363-39fe-4064-a92b-f1a4a506f438")
+	)
+	(junction
 		(at 85.09 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3410,6 +3541,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "647d08f0-d673-4032-9a6d-c01ce3227d97")
+	)
+	(junction
+		(at 124.46 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65eaf4aa-ba42-4d73-9bfb-3ffd19b886dd")
 	)
 	(junction
 		(at 118.11 198.12)
@@ -3526,6 +3663,12 @@
 		(uuid "88d6b3fc-5857-4918-be14-a5b834f3218b")
 	)
 	(junction
+		(at 85.09 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8cd73311-32f3-4352-829d-f7a2915c82b7")
+	)
+	(junction
 		(at 85.09 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3614,6 +3757,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bce446cc-8f30-4e90-8667-cf0bc3d3543a")
+	)
+	(junction
+		(at 118.11 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c392400b-42b3-4f8c-b20e-d9f2f1738238")
 	)
 	(junction
 		(at 118.11 96.52)
@@ -4043,6 +4192,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 35.56) (xy 86.36 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d0f1665-2300-409c-81ef-e55eacc38a5b")
+	)
+	(wire
+		(pts
 			(xy 55.88 231.14) (xy 86.36 231.14)
 		)
 		(stroke
@@ -4203,6 +4362,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 38.1) (xy 118.11 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3373055e-199c-406f-823a-02b5a6cc5f05")
+	)
+	(wire
+		(pts
 			(xy 55.88 93.98) (xy 86.36 93.98)
 		)
 		(stroke
@@ -4360,6 +4529,26 @@
 			(type default)
 		)
 		(uuid "45fc9fee-7ad5-4d3c-b728-e06c0c980cc8")
+	)
+	(wire
+		(pts
+			(xy 85.09 35.56) (xy 85.09 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "462aa0a3-4f52-401a-bb78-9110b3ecf1ac")
+	)
+	(wire
+		(pts
+			(xy 118.11 29.21) (xy 118.11 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46f6744c-36e4-4b07-9048-4bb77b5e1e42")
 	)
 	(wire
 		(pts
@@ -4563,6 +4752,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 55.88) (xy 124.46 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e9491f6-b27c-42f6-ba54-4261fd3add4b")
+	)
+	(wire
+		(pts
 			(xy 85.09 129.54) (xy 85.09 137.16)
 		)
 		(stroke
@@ -4733,6 +4932,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 53.34) (xy 86.36 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fb7549e-5f62-4954-b01f-323e766c1818")
+	)
+	(wire
+		(pts
 			(xy 45.72 73.66) (xy 50.8 73.66)
 		)
 		(stroke
@@ -4803,6 +5012,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 31.75) (xy 78.74 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7692aa1b-7e85-467a-84ef-867461a0f6d0")
+	)
+	(wire
+		(pts
 			(xy 121.92 149.86) (xy 116.84 149.86)
 		)
 		(stroke
@@ -4870,6 +5089,16 @@
 			(type default)
 		)
 		(uuid "7de9e0ca-1390-42eb-89a1-7c4a6cbefc8d")
+	)
+	(wire
+		(pts
+			(xy 116.84 40.64) (xy 118.11 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7eb73937-3ef9-4ce3-a78e-bf4543fde24f")
 	)
 	(wire
 		(pts
@@ -5253,6 +5482,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 31.75) (xy 124.46 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dc2b0c4-3e5b-45ba-81de-79971d708b9e")
+	)
+	(wire
+		(pts
 			(xy 121.92 213.36) (xy 116.84 213.36)
 		)
 		(stroke
@@ -5280,6 +5519,16 @@
 			(type default)
 		)
 		(uuid "9fed827f-d99d-49c9-9acf-410c3c5692e9")
+	)
+	(wire
+		(pts
+			(xy 85.09 29.21) (xy 85.09 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0582841-7b9c-483c-82eb-342155375497")
 	)
 	(wire
 		(pts
@@ -5360,6 +5609,16 @@
 			(type default)
 		)
 		(uuid "a61f7d3d-b754-4df6-bca0-1cb78579afa7")
+	)
+	(wire
+		(pts
+			(xy 85.09 38.1) (xy 86.36 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6ad52c8-0daf-43a9-9b63-2eaefcf52cfe")
 	)
 	(wire
 		(pts
@@ -5703,6 +5962,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 38.1) (xy 85.09 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8344479-7b99-40a8-b2cb-9b1676bee2ac")
+	)
+	(wire
+		(pts
 			(xy 55.88 106.68) (xy 86.36 106.68)
 		)
 		(stroke
@@ -5753,6 +6022,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 58.42) (xy 124.46 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ceedd564-690f-4b77-ba22-419671647bd2")
+	)
+	(wire
+		(pts
 			(xy 118.11 114.3) (xy 118.11 124.46)
 		)
 		(stroke
@@ -5780,6 +6059,16 @@
 			(type default)
 		)
 		(uuid "d0e63d33-d5c7-4378-beaa-b49a6be1cef1")
+	)
+	(wire
+		(pts
+			(xy 85.09 40.64) (xy 86.36 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d34a0329-1752-4ff9-8312-d921b16cec3f")
 	)
 	(wire
 		(pts
@@ -5830,6 +6119,16 @@
 			(type default)
 		)
 		(uuid "d939aa73-661d-44c9-9280-4f11e5c01ccf")
+	)
+	(wire
+		(pts
+			(xy 118.11 38.1) (xy 118.11 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d998db3e-ef7d-42e3-a27c-9b470f567605")
 	)
 	(wire
 		(pts
@@ -6180,6 +6479,16 @@
 			(type default)
 		)
 		(uuid "fc5d7e5b-7a7d-4853-a1b3-9d65530c0d40")
+	)
+	(wire
+		(pts
+			(xy 124.46 55.88) (xy 124.46 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd9cca04-dcfc-4321-93e2-013f6e521531")
 	)
 	(wire
 		(pts
@@ -9257,6 +9566,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 78.74 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "78a98a78-47c0-4237-a05f-e330aece7323")
+		(property "Reference" "#PWR038"
+			(at 78.74 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "temp_3.3V"
+			(at 78.74 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 78.74 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 78.74 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cfda81d2-c26f-424f-968c-a99bd94998b2")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/7ff27d26-2496-4a9b-9ad6-7ba6a44f9b97"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 101.6 259.08 0)
 		(unit 1)
@@ -9590,6 +9964,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 124.46 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9399d73d-c5e3-4ad3-83a8-c4baab646245")
+		(property "Reference" "#PWR01"
+			(at 124.46 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "temp_3.3V"
+			(at 124.46 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 124.46 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e33773a6-0a2d-43af-842c-8cef282cadca")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/7ff27d26-2496-4a9b-9ad6-7ba6a44f9b97"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 53.34 134.62 90)
 		(unit 1)
@@ -9657,6 +10096,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 85.09 29.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aa3cce7b-609d-4d4b-abc8-c30481c78702")
+		(property "Reference" "#PWR011"
+			(at 85.09 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "temp_12V"
+			(at 85.09 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 85.09 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "989dbc29-f0cd-412a-be24-8640595c4368")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/7ff27d26-2496-4a9b-9ad6-7ba6a44f9b97"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 53.34 142.24 90)
 		(unit 1)
@@ -9718,6 +10222,71 @@
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/7ff27d26-2496-4a9b-9ad6-7ba6a44f9b97"
 					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 118.11 29.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b5778d39-bd79-4338-96a5-1868818280ce")
+		(property "Reference" "#PWR027"
+			(at 118.11 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "temp_12V"
+			(at 118.11 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 118.11 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 118.11 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a3dc7fac-6f9f-475c-bed2-b831cf8b4a5d")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/7ff27d26-2496-4a9b-9ad6-7ba6a44f9b97"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)

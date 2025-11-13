@@ -824,6 +824,10 @@
     [
       "01fb967e-a450-4398-b24a-185552be6693",
       "Display_ports"
+    ],
+    [
+      "e0b20d4f-7794-41ca-a81f-d58e60c6781b",
+      "EC"
     ]
   ],
   "text_variables": {}
