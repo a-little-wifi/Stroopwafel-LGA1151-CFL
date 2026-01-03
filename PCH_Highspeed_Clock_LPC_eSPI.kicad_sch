@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "4c54bde2-769c-4f02-aace-16618b1d341a")
-	(paper "A3")
+	(paper "A2")
 	(title_block
 		(title "PCH DMI, PCIe, SATA, USB3, USB2, Clockgen, CNVi, LPC/eSPI & GPIO")
 		(company "WifiCable")
@@ -791,6 +791,28 @@
 						(type background)
 					)
 				)
+				(rectangle
+					(start -31.75 -114.3)
+					(end -31.115 -124.46)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -15.875 -120.015)
+					(end -15.24 -130.175)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(polyline
 					(pts
 						(xy -4.826 -114.3) (xy -4.826 -158.75)
@@ -1341,6 +1363,14 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+				(text "= GbE"
+					(at -11.43 -125.095 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
 				(text "PCIe Controller #2"
@@ -4207,6 +4237,39 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+				(rectangle
+					(start -38.1 -12.7)
+					(end -37.465 -22.86)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -46.99)
+					(end -37.465 -57.15)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -59.69)
+					(end -37.465 -69.85)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
 					)
 				)
 				(polyline
@@ -19328,6 +19391,28 @@
 						(type background)
 					)
 				)
+				(rectangle
+					(start -31.75 -114.3)
+					(end -31.115 -124.46)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -15.875 -120.015)
+					(end -15.24 -130.175)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(polyline
 					(pts
 						(xy -4.826 -114.3) (xy -4.826 -158.75)
@@ -19878,6 +19963,14 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+				(text "= GbE"
+					(at -11.43 -125.095 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
 				(text "PCIe Controller #2"
@@ -22744,6 +22837,39 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+				(rectangle
+					(start -38.1 -12.7)
+					(end -37.465 -22.86)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -46.99)
+					(end -37.465 -57.15)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -59.69)
+					(end -37.465 -69.85)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
 					)
 				)
 				(polyline
@@ -37740,6 +37866,28 @@
 						(type background)
 					)
 				)
+				(rectangle
+					(start -31.75 -114.3)
+					(end -31.115 -124.46)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -15.875 -120.015)
+					(end -15.24 -130.175)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(polyline
 					(pts
 						(xy -4.826 -114.3) (xy -4.826 -158.75)
@@ -38290,6 +38438,14 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+				(text "= GbE"
+					(at -11.43 -125.095 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
 				(text "PCIe Controller #2"
@@ -41156,6 +41312,39 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+				(rectangle
+					(start -38.1 -12.7)
+					(end -37.465 -22.86)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -46.99)
+					(end -37.465 -57.15)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -59.69)
+					(end -37.465 -69.85)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
 					)
 				)
 				(polyline
@@ -56152,6 +56341,28 @@
 						(type background)
 					)
 				)
+				(rectangle
+					(start -31.75 -114.3)
+					(end -31.115 -124.46)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -15.875 -120.015)
+					(end -15.24 -130.175)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(polyline
 					(pts
 						(xy -4.826 -114.3) (xy -4.826 -158.75)
@@ -56702,6 +56913,14 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+				(text "= GbE"
+					(at -11.43 -125.095 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
 				(text "PCIe Controller #2"
@@ -59568,6 +59787,39 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+				(rectangle
+					(start -38.1 -12.7)
+					(end -37.465 -22.86)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -46.99)
+					(end -37.465 -57.15)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -59.69)
+					(end -37.465 -69.85)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
 					)
 				)
 				(polyline
@@ -74564,6 +74816,28 @@
 						(type background)
 					)
 				)
+				(rectangle
+					(start -31.75 -114.3)
+					(end -31.115 -124.46)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -15.875 -120.015)
+					(end -15.24 -130.175)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(polyline
 					(pts
 						(xy -4.826 -114.3) (xy -4.826 -158.75)
@@ -75114,6 +75388,14 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+				(text "= GbE"
+					(at -11.43 -125.095 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
 				(text "PCIe Controller #2"
@@ -77980,6 +78262,39 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+				(rectangle
+					(start -38.1 -12.7)
+					(end -37.465 -22.86)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -46.99)
+					(end -37.465 -57.15)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -59.69)
+					(end -37.465 -69.85)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
 					)
 				)
 				(polyline
@@ -92296,6 +92611,19 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "subtract 5 for PCIe lane number\n(first 6 lanes are the USB3.2G2 ports + index starts at 0 vs 1)"
+		(exclude_from_sim no)
+		(at -123.19 41.91 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.381)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "5a682cbe-8d94-4e19-a6d0-5821892ce194")
+	)
 	(text "Z390 pls (or Q370 but idk how to handle AMT)"
 		(exclude_from_sim no)
 		(at -120.65 218.44 0)
@@ -92309,15 +92637,179 @@
 		)
 		(uuid "af678e04-2ebf-4902-a2e9-afa7ea09da11")
 	)
+	(text "PCIe controller 1 (L1-4):\n?\n\nPCIe controller 2 (L5-8):\n?\n\nPCIe controller 3 (L9-12):\n NVMe 0 with lane reversal for SATA on first lane\n x2 no SATA on H310, x4 with SATA on all other chipsets\n\nPCIe controller 4 (L13-16):\n?\n\nPCIe controller 5 (L17-20):\n?\n\nPCIe controller 6 (L21-24):\n?"
+		(exclude_from_sim no)
+		(at -118.11 308.61 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.3175)
+			)
+			(justify left top)
+		)
+		(uuid "c45adf97-708d-4950-9984-b8711ebed495")
+	)
+	(text_box "DMI lane reversed"
+		(exclude_from_sim no)
+		(at 90.17 34.29 0)
+		(size 57.15 43.18)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "0dee70fa-26c9-4944-8cb5-318507a5e95d")
+	)
+	(text_box "PCIe controller 4 (L13-16):\n ?"
+		(exclude_from_sim no)
+		(at 39.37 330.2 0)
+		(size 85.09 46.99)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "39a7acd0-eb4b-49cb-95e4-97a76f13c258")
+	)
+	(text_box "PCIe controller 5 (L17-20):\n ?"
+		(exclude_from_sim no)
+		(at 212.09 330.2 0)
+		(size 85.09 46.99)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right top)
+		)
+		(uuid "47994dcb-b388-4ec8-9ec1-5d3be8e22676")
+	)
+	(text_box "PCIe controller 3 (L9-12):\n NVMe 0 with lane reversal for SATA on first lane\n x2 no SATA on H310, x4 with SATA on all other chipsets\n"
+		(exclude_from_sim no)
+		(at 39.37 283.21 0)
+		(size 85.09 46.99)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "5251916f-61a0-4562-948c-c38fcde872d8")
+	)
+	(text_box "PCIe controller 6 (L21-24):\n ?"
+		(exclude_from_sim no)
+		(at 205.74 171.45 0)
+		(size 85.09 46.99)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right top)
+		)
+		(uuid "5307639b-41c6-49fe-bb15-3cca2fe79f90")
+	)
+	(text_box "PCIe controller 1 (L1-4):\n ?"
+		(exclude_from_sim no)
+		(at 44.45 123.19 0)
+		(size 85.09 46.99)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "67914a2d-099d-4092-8c42-ee4835ba2af0")
+	)
+	(text_box "PCIe controller 2 (L5-8):\n ?"
+		(exclude_from_sim no)
+		(at 44.45 170.18 0)
+		(size 85.09 46.99)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "c8da4334-a4e8-4f0d-b54c-f8658c00145b")
+	)
 	(junction
-		(at 285.75 59.69)
+		(at 232.41 280.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "75c52995-26c0-41e0-9a92-d194623b8997")
 	)
 	(wire
 		(pts
-			(xy 184.15 173.99) (xy 189.23 173.99)
+			(xy 363.22 257.81) (xy 368.3 257.81)
 		)
 		(stroke
 			(width 0)
@@ -92327,7 +92819,37 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 184.15) (xy 189.23 184.15)
+			(xy 120.65 313.69) (xy 125.73 313.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18aaaee4-b14a-444c-9905-2bdce6a54a80")
+	)
+	(wire
+		(pts
+			(xy 120.65 293.37) (xy 125.73 293.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1af32ad3-bc4e-4eb1-a924-398949f0d548")
+	)
+	(wire
+		(pts
+			(xy 120.65 308.61) (xy 125.73 308.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f953245-492b-4341-bf87-6ddad135b37f")
+	)
+	(wire
+		(pts
+			(xy 363.22 267.97) (xy 368.3 267.97)
 		)
 		(stroke
 			(width 0)
@@ -92337,7 +92859,17 @@
 	)
 	(wire
 		(pts
-			(xy 285.75 59.69) (xy 285.75 71.12)
+			(xy 120.65 285.75) (xy 125.73 285.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36045c2d-5d57-4a77-9655-aa7d7d2fdf37")
+	)
+	(wire
+		(pts
+			(xy 232.41 280.67) (xy 232.41 292.1)
 		)
 		(stroke
 			(width 0)
@@ -92347,7 +92879,27 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 67.31) (xy 264.16 67.31)
+			(xy 120.65 299.72) (xy 125.73 299.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f4c8223-36b8-4838-8341-59f26c2f585f")
+	)
+	(wire
+		(pts
+			(xy 120.65 288.29) (xy 125.73 288.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "506ad1ed-cbe3-4193-b7f5-0b4ccce2b8c1")
+	)
+	(wire
+		(pts
+			(xy 213.36 288.29) (xy 210.82 288.29)
 		)
 		(stroke
 			(width 0)
@@ -92357,7 +92909,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 46.99) (xy 58.42 46.99)
+			(xy 127 54.61) (xy 130.81 54.61)
 		)
 		(stroke
 			(width 0)
@@ -92367,7 +92919,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 184.15) (xy 255.27 184.15)
+			(xy 439.42 267.97) (xy 434.34 267.97)
 		)
 		(stroke
 			(width 0)
@@ -92377,7 +92929,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 179.07) (xy 255.27 179.07)
+			(xy 439.42 262.89) (xy 434.34 262.89)
 		)
 		(stroke
 			(width 0)
@@ -92387,7 +92939,27 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 209.55) (xy 189.23 209.55)
+			(xy 120.65 316.23) (xy 125.73 316.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "636dff91-57d7-4cef-96cb-a2a793ad3360")
+	)
+	(wire
+		(pts
+			(xy 120.65 302.26) (xy 125.73 302.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69929c47-dd1d-4b98-96b3-5dc0c8948d81")
+	)
+	(wire
+		(pts
+			(xy 363.22 293.37) (xy 368.3 293.37)
 		)
 		(stroke
 			(width 0)
@@ -92397,7 +92969,37 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 57.15) (xy 179.07 57.15)
+			(xy 120.65 320.04) (xy 125.73 320.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "779112a0-073e-4ed2-a6ef-3fc529ee4c12")
+	)
+	(wire
+		(pts
+			(xy 120.65 304.8) (xy 125.73 304.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "781f90bf-759a-4336-a983-7237362f8408")
+	)
+	(wire
+		(pts
+			(xy 120.65 297.18) (xy 125.73 297.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "793dc58f-57ad-4923-b2a6-b7c8ffd80ff8")
+	)
+	(wire
+		(pts
+			(xy 120.65 278.13) (xy 125.73 278.13)
 		)
 		(stroke
 			(width 0)
@@ -92407,7 +93009,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 54.61) (xy 58.42 54.61)
+			(xy 127 62.23) (xy 130.81 62.23)
 		)
 		(stroke
 			(width 0)
@@ -92417,7 +93019,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 36.83) (xy 58.42 36.83)
+			(xy 127 44.45) (xy 130.81 44.45)
 		)
 		(stroke
 			(width 0)
@@ -92427,7 +93029,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 186.69) (xy 255.27 186.69)
+			(xy 439.42 270.51) (xy 434.34 270.51)
 		)
 		(stroke
 			(width 0)
@@ -92437,7 +93039,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 181.61) (xy 189.23 181.61)
+			(xy 363.22 265.43) (xy 368.3 265.43)
 		)
 		(stroke
 			(width 0)
@@ -92447,7 +93049,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 67.31) (xy 58.42 67.31)
+			(xy 127 74.93) (xy 130.81 74.93)
 		)
 		(stroke
 			(width 0)
@@ -92457,7 +93059,27 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 59.69) (xy 285.75 59.69)
+			(xy 363.22 295.91) (xy 368.3 295.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99bf30c1-a515-4141-9a9a-63f66967ed62")
+	)
+	(wire
+		(pts
+			(xy 120.65 290.83) (xy 125.73 290.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f6c3815-0632-480f-a568-8227eda4217b")
+	)
+	(wire
+		(pts
+			(xy 210.82 280.67) (xy 232.41 280.67)
 		)
 		(stroke
 			(width 0)
@@ -92467,7 +93089,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 44.45) (xy 58.42 44.45)
+			(xy 127 52.07) (xy 130.81 52.07)
 		)
 		(stroke
 			(width 0)
@@ -92477,7 +93099,17 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 57.15) (xy 279.4 57.15)
+			(xy 120.65 325.12) (xy 125.73 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4c3deda-abaa-40fe-b6e0-dce1bcb69967")
+	)
+	(wire
+		(pts
+			(xy 220.98 278.13) (xy 226.06 278.13)
 		)
 		(stroke
 			(width 0)
@@ -92487,7 +93119,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 52.07) (xy 179.07 52.07)
+			(xy 120.65 273.05) (xy 125.73 273.05)
 		)
 		(stroke
 			(width 0)
@@ -92497,7 +93129,7 @@
 	)
 	(wire
 		(pts
-			(xy 285.75 76.2) (xy 285.75 78.74)
+			(xy 232.41 297.18) (xy 232.41 299.72)
 		)
 		(stroke
 			(width 0)
@@ -92507,7 +93139,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 64.77) (xy 264.16 64.77)
+			(xy 213.36 285.75) (xy 210.82 285.75)
 		)
 		(stroke
 			(width 0)
@@ -92517,7 +93149,27 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 57.15) (xy 58.42 57.15)
+			(xy 120.65 311.15) (xy 125.73 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cafae5a5-98d3-4497-a89d-a2f5c64c0a47")
+	)
+	(wire
+		(pts
+			(xy 120.65 322.58) (xy 125.73 322.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb055221-f450-43d3-b9e2-94120d6c49cf")
+	)
+	(wire
+		(pts
+			(xy 127 64.77) (xy 130.81 64.77)
 		)
 		(stroke
 			(width 0)
@@ -92527,7 +93179,17 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 64.77) (xy 58.42 64.77)
+			(xy 439.42 278.13) (xy 434.34 278.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbdfb508-c1e3-43ad-92e7-d638ac36a2bb")
+	)
+	(wire
+		(pts
+			(xy 127 72.39) (xy 130.81 72.39)
 		)
 		(stroke
 			(width 0)
@@ -92537,7 +93199,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 57.15) (xy 269.24 57.15)
+			(xy 210.82 278.13) (xy 215.9 278.13)
 		)
 		(stroke
 			(width 0)
@@ -92547,7 +93209,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 176.53) (xy 255.27 176.53)
+			(xy 439.42 260.35) (xy 434.34 260.35)
 		)
 		(stroke
 			(width 0)
@@ -92557,7 +93219,17 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 176.53) (xy 189.23 176.53)
+			(xy 120.65 327.66) (xy 125.73 327.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8e9c7ed-92b0-496b-9360-e97b3e73fc3b")
+	)
+	(wire
+		(pts
+			(xy 363.22 260.35) (xy 368.3 260.35)
 		)
 		(stroke
 			(width 0)
@@ -92567,7 +93239,17 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 62.23) (xy 266.7 62.23)
+			(xy 439.42 275.59) (xy 434.34 275.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd946ddc-bb09-459a-9f3b-f4128564a901")
+	)
+	(wire
+		(pts
+			(xy 210.82 283.21) (xy 213.36 283.21)
 		)
 		(stroke
 			(width 0)
@@ -92577,7 +93259,7 @@
 	)
 	(wire
 		(pts
-			(xy 285.75 59.69) (xy 288.29 59.69)
+			(xy 232.41 280.67) (xy 234.95 280.67)
 		)
 		(stroke
 			(width 0)
@@ -92587,7 +93269,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 54.61) (xy 179.07 54.61)
+			(xy 120.65 275.59) (xy 125.73 275.59)
 		)
 		(stroke
 			(width 0)
@@ -92597,7 +93279,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 34.29) (xy 58.42 34.29)
+			(xy 127 41.91) (xy 130.81 41.91)
 		)
 		(stroke
 			(width 0)
@@ -97969,9 +98651,31 @@
 			"6f1t0C20xWUAAAAASUVORK5CYII="
 		)
 	)
+	(global_label "SSD0_PCIe_Tx3-"
+		(shape input)
+		(at 120.65 293.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "132ac0f1-97dd-4f8e-b3eb-3609c419a749")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.8481 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PCIe_CPU_CLKREQ#"
 		(shape input)
-		(at 184.15 209.55 180)
+		(at 363.22 293.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -97981,7 +98685,7 @@
 		)
 		(uuid "14d0182e-87f4-42b4-8a0f-7680df6e2d9a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.3481 209.55 0)
+			(at 345.4181 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -97993,7 +98697,7 @@
 	)
 	(global_label "DMI_CTx_PRx_2-"
 		(shape input)
-		(at 58.42 41.91 180)
+		(at 130.81 49.53 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98003,7 +98707,7 @@
 		)
 		(uuid "24a93f7c-e924-438c-842d-4de3a1405df0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.5901 41.91 0)
+			(at 111.9801 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98015,7 +98719,7 @@
 	)
 	(global_label "CPU_PCIBCLK-"
 		(shape input)
-		(at 260.35 179.07 0)
+		(at 439.42 262.89 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98025,7 +98729,7 @@
 		)
 		(uuid "30a8f0a8-2bab-42a6-aa73-3436c382e463")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 280.8129 179.07 0)
+			(at 459.8829 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98037,7 +98741,7 @@
 	)
 	(global_label "CPU_24MCLK-"
 		(shape input)
-		(at 184.15 176.53 180)
+		(at 363.22 260.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98047,7 +98751,7 @@
 		)
 		(uuid "3208f2b9-c51f-4b90-9503-c5b102ab7358")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.6871 176.53 0)
+			(at 342.7571 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98059,7 +98763,7 @@
 	)
 	(global_label "DMI_CTx_PRx_3+"
 		(shape input)
-		(at 58.42 29.21 180)
+		(at 130.81 36.83 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98069,7 +98773,7 @@
 		)
 		(uuid "3443e7dc-a533-4cbd-9475-749d92a727c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.5901 29.21 0)
+			(at 111.9801 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98081,7 +98785,7 @@
 	)
 	(global_label "PM_SYNC_PCH"
 		(shape input)
-		(at 266.7 62.23 0)
+		(at 213.36 283.21 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98091,7 +98795,7 @@
 		)
 		(uuid "385d9ff5-b3df-4b91-99c4-35030d576a16")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 283.1109 62.23 0)
+			(at 229.7709 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98101,9 +98805,31 @@
 			)
 		)
 	)
+	(global_label "SSD0_PCIe_Rx2-"
+		(shape input)
+		(at 120.65 299.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3fb9c93c-2dd3-404c-8e14-7fadd552eada")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.5457 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CPU_PCIBCLK+"
 		(shape input)
-		(at 260.35 176.53 0)
+		(at 439.42 260.35 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98113,7 +98839,7 @@
 		)
 		(uuid "40ecba34-5b8b-4a05-ba7d-cf00ffa47d32")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 280.8129 176.53 0)
+			(at 459.8829 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98123,9 +98849,53 @@
 			)
 		)
 	)
+	(global_label "SSD0_PCIe_Rx3+"
+		(shape input)
+		(at 120.65 285.75 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "43a294d8-c9d0-4636-9dc6-39c0ee4e83e7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.5457 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_PCIe_Tx2+"
+		(shape input)
+		(at 120.65 302.26 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "47322e1a-9d7a-45ed-8385-6008b4a2b969")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.8481 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "DMI_CTx_PRx_0+"
 		(shape input)
-		(at 58.42 59.69 180)
+		(at 130.81 67.31 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98135,7 +98905,7 @@
 		)
 		(uuid "48f7e944-efb7-41de-a99c-4cd81f5735ed")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.5901 59.69 0)
+			(at 111.9801 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98147,7 +98917,7 @@
 	)
 	(global_label "DMI_CTx_PRx_3-"
 		(shape input)
-		(at 58.42 31.75 180)
+		(at 130.81 39.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98157,7 +98927,29 @@
 		)
 		(uuid "4b1b3bca-b0ad-423d-8e73-4ca61214ddbc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.5901 31.75 0)
+			(at 111.9801 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_PCIe/SATA_Tx0-"
+		(shape input)
+		(at 120.65 327.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4cfb531f-e713-4ec0-a7fa-a257bac4346d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.8481 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98169,7 +98961,7 @@
 	)
 	(global_label "PCIe_CPU_Refclk-"
 		(shape input)
-		(at 260.35 186.69 0)
+		(at 439.42 270.51 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98179,7 +98971,7 @@
 		)
 		(uuid "515b7835-3f6a-4774-af01-f36d2ba27c80")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 278.1519 186.69 0)
+			(at 457.2219 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98191,7 +98983,7 @@
 	)
 	(global_label "DMI_CRx_PTx_1-"
 		(shape input)
-		(at 54.61 57.15 180)
+		(at 127 64.77 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98201,7 +98993,7 @@
 		)
 		(uuid "59f51b94-b973-4e48-b415-3a25d2a6b329")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 35.7801 57.15 0)
+			(at 108.1701 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98211,9 +99003,53 @@
 			)
 		)
 	)
+	(global_label "SSD0_PCIe_Rx1+"
+		(shape input)
+		(at 120.65 308.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "601b6219-3f3d-48cd-93e5-b2ed54283920")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.5457 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_Refclk+"
+		(shape input)
+		(at 439.42 275.59 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6038ecf0-9068-4166-9660-78ae17b89959")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 459.8829 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "eDP_VDDEN"
 		(shape input)
-		(at 173.99 57.15 180)
+		(at 120.65 278.13 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98223,7 +99059,7 @@
 		)
 		(uuid "61a48d53-d1a1-490d-99ae-a01a300a6494")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 153.5271 57.15 0)
+			(at 100.1871 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98235,7 +99071,7 @@
 	)
 	(global_label "PM_DOWN_PCH"
 		(shape input)
-		(at 266.7 67.31 0)
+		(at 213.36 288.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98245,7 +99081,7 @@
 		)
 		(uuid "6a80b8e5-fdd0-45f4-a04c-cec0d8107bec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 278.7566 67.31 0)
+			(at 225.4166 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98257,7 +99093,7 @@
 	)
 	(global_label "DMI_CRx_PTx_2+"
 		(shape input)
-		(at 54.61 44.45 180)
+		(at 127 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98267,7 +99103,7 @@
 		)
 		(uuid "6b9e6c92-0c39-424f-abaa-42152a206883")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 35.7801 44.45 0)
+			(at 108.1701 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98279,7 +99115,7 @@
 	)
 	(global_label "PCIe_CPU_Refclk+"
 		(shape input)
-		(at 260.35 184.15 0)
+		(at 439.42 267.97 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98289,7 +99125,7 @@
 		)
 		(uuid "708714d9-3069-4bb1-b82a-f0f7096ac2fb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 278.1519 184.15 0)
+			(at 457.2219 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98301,7 +99137,7 @@
 	)
 	(global_label "DMI_CRx_PTx_2-"
 		(shape input)
-		(at 54.61 46.99 180)
+		(at 127 54.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98311,7 +99147,51 @@
 		)
 		(uuid "78343d39-a5e5-4a3a-a6b9-65d9ddb616f2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 35.7801 46.99 0)
+			(at 108.1701 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_PCIe/SATA_Rx0-"
+		(shape input)
+		(at 120.65 322.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "78b24f4c-b661-4b0d-a24d-46c4ce57b98c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.5457 322.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_PCIe_Tx1+"
+		(shape input)
+		(at 120.65 313.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7bf3e82c-6345-4d13-aa8c-3eabfc8ae9ba")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.8481 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98323,7 +99203,7 @@
 	)
 	(global_label "eDP_PWM"
 		(shape input)
-		(at 173.99 52.07 180)
+		(at 120.65 273.05 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98333,7 +99213,7 @@
 		)
 		(uuid "81d5c6d4-466b-477d-9ee7-200d31fa3e26")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 153.5271 52.07 0)
+			(at 100.1871 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98345,7 +99225,7 @@
 	)
 	(global_label "THERMTRIP#"
 		(shape input)
-		(at 279.4 57.15 0)
+		(at 226.06 278.13 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98355,7 +99235,7 @@
 		)
 		(uuid "82878d7c-4ff9-4b37-ab55-be72d31452aa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 299.8629 57.15 0)
+			(at 246.5229 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98367,7 +99247,7 @@
 	)
 	(global_label "DMI_CTx_PRx_2+"
 		(shape input)
-		(at 58.42 39.37 180)
+		(at 130.81 46.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98377,7 +99257,7 @@
 		)
 		(uuid "83ffb538-2e65-4aa3-adb5-2a400a35ee5d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.5901 39.37 0)
+			(at 111.9801 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98389,7 +99269,7 @@
 	)
 	(global_label "DMI_CTx_PRx_1-"
 		(shape input)
-		(at 58.42 52.07 180)
+		(at 130.81 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98399,7 +99279,139 @@
 		)
 		(uuid "84584783-9a60-4c3a-ba13-37a4e1719ee8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.5901 52.07 0)
+			(at 111.9801 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_Refclk-"
+		(shape input)
+		(at 439.42 278.13 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "856353c4-6043-432b-b9f2-a4907a566cc0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 459.8829 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_PCIe_Rx3-"
+		(shape input)
+		(at 120.65 288.29 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8640c178-3c3c-434d-8da1-024ace189204")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.5457 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_CLKREQ#"
+		(shape input)
+		(at 363.22 295.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "86cebadd-3273-4d26-baaf-b917df023eb2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 345.4181 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_PCIe_Tx3+"
+		(shape input)
+		(at 120.65 290.83 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8c1f96dc-a7e2-44d5-8ee7-1588e7334ec3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.8481 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_PCIe_Rx2+"
+		(shape input)
+		(at 120.65 297.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "95012858-7436-4753-ba68-c3aa96bdbf18")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.5457 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_PCIe/SATA_Rx0+"
+		(shape input)
+		(at 120.65 320.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9ae42c62-bf82-476f-91aa-2527609eb8d7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.5457 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98411,7 +99423,7 @@
 	)
 	(global_label "DMI_CRx_PTx_3+"
 		(shape input)
-		(at 54.61 34.29 180)
+		(at 127 41.91 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98421,7 +99433,7 @@
 		)
 		(uuid "a37c6fb1-1277-445e-8b9d-8f692afa5566")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 35.7801 34.29 0)
+			(at 108.1701 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98433,7 +99445,7 @@
 	)
 	(global_label "DMI_CRx_PTx_0+"
 		(shape input)
-		(at 54.61 64.77 180)
+		(at 127 72.39 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98443,7 +99455,73 @@
 		)
 		(uuid "a6bf9216-9b16-4d20-89e9-04fbaf03f06c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 35.7801 64.77 0)
+			(at 108.1701 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_PCIe/SATA_Tx0+"
+		(shape input)
+		(at 120.65 325.12 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a7c7080c-83f1-4abc-8e54-227d01463772")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.8481 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_PCIe_Tx1-"
+		(shape input)
+		(at 120.65 316.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "adb95611-2a1a-4687-bd59-6409ce458537")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.8481 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_PCIe_Rx1-"
+		(shape input)
+		(at 120.65 311.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b596d415-11d0-446b-ac04-b46a28e9a31c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.5457 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98455,7 +99533,7 @@
 	)
 	(global_label "DMI_CRx_PTx_1+"
 		(shape input)
-		(at 54.61 54.61 180)
+		(at 127 62.23 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98465,7 +99543,7 @@
 		)
 		(uuid "b79652e3-2166-4bad-913e-7fcb741143ee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 35.7801 54.61 0)
+			(at 108.1701 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98477,7 +99555,7 @@
 	)
 	(global_label "DMI_CTx_PRx_1+"
 		(shape input)
-		(at 58.42 49.53 180)
+		(at 130.81 57.15 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98487,7 +99565,29 @@
 		)
 		(uuid "bab7f770-445b-482d-b0d6-2311c7b8fcb8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.5901 49.53 0)
+			(at 111.9801 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SSD0_PCIe_Tx2-"
+		(shape input)
+		(at 120.65 304.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c2ef6b41-7383-4312-9e23-5549c7c8eeed")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.8481 304.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98499,7 +99599,7 @@
 	)
 	(global_label "PLTRST_CPU#"
 		(shape input)
-		(at 266.7 64.77 0)
+		(at 213.36 285.75 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98509,7 +99609,7 @@
 		)
 		(uuid "d4e223e7-9368-4369-93df-21a1f598e91c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 282.5061 64.77 0)
+			(at 229.1661 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98521,7 +99621,7 @@
 	)
 	(global_label "PECI_PCH"
 		(shape input)
-		(at 288.29 59.69 0)
+		(at 234.95 280.67 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98531,7 +99631,7 @@
 		)
 		(uuid "d6a1f3af-6061-4358-a651-9422ca4ff29e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 300.4071 59.69 0)
+			(at 247.0671 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98543,7 +99643,7 @@
 	)
 	(global_label "CPU_BCLK-"
 		(shape input)
-		(at 184.15 184.15 180)
+		(at 363.22 267.97 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98553,7 +99653,7 @@
 		)
 		(uuid "d87ed232-ee29-43ec-9291-95910e0a525d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.6871 184.15 0)
+			(at 342.7571 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98565,7 +99665,7 @@
 	)
 	(global_label "eDP_BLEN"
 		(shape input)
-		(at 173.99 54.61 180)
+		(at 120.65 275.59 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98575,7 +99675,7 @@
 		)
 		(uuid "dce6c37a-7b62-4423-be16-450ce715a0ff")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 153.5271 54.61 0)
+			(at 100.1871 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98587,7 +99687,7 @@
 	)
 	(global_label "DMI_CRx_PTx_0-"
 		(shape input)
-		(at 54.61 67.31 180)
+		(at 127 74.93 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98597,7 +99697,7 @@
 		)
 		(uuid "e5aff994-c1c0-470b-b4ee-e86791d3c4fc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 35.7801 67.31 0)
+			(at 108.1701 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98609,7 +99709,7 @@
 	)
 	(global_label "CPU_BCLK+"
 		(shape input)
-		(at 184.15 181.61 180)
+		(at 363.22 265.43 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98619,7 +99719,7 @@
 		)
 		(uuid "f114c957-814d-453b-a0b7-a253d0519c9f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.6871 181.61 0)
+			(at 342.7571 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98631,7 +99731,7 @@
 	)
 	(global_label "DMI_CRx_PTx_3-"
 		(shape input)
-		(at 54.61 36.83 180)
+		(at 127 44.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98641,7 +99741,7 @@
 		)
 		(uuid "f64f3585-d97d-4404-9022-a5d081a56e13")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 35.7801 36.83 0)
+			(at 108.1701 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98653,7 +99753,7 @@
 	)
 	(global_label "DMI_CTx_PRx_0-"
 		(shape input)
-		(at 58.42 62.23 180)
+		(at 130.81 69.85 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98663,7 +99763,7 @@
 		)
 		(uuid "f8e2546c-e7ac-4859-9395-08cd00e9b927")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.5901 62.23 0)
+			(at 111.9801 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98675,7 +99775,7 @@
 	)
 	(global_label "CPU_24MCLK+"
 		(shape input)
-		(at 184.15 173.99 180)
+		(at 363.22 257.81 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -98685,7 +99785,7 @@
 		)
 		(uuid "fbddb14c-79a3-40a2-9c38-84d4d12f83d7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.6871 173.99 0)
+			(at 342.7571 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98698,7 +99798,7 @@
 	(symbol
 		(lib_name "Intel_CFL_PCH_FCBGA874_but_better_3")
 		(lib_id "A-my-stuff:Intel_CFL_PCH_FCBGA874_but_better")
-		(at 222.25 190.5 0)
+		(at 401.32 274.32 0)
 		(unit 7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -98707,7 +99807,7 @@
 		(fields_autoplaced yes)
 		(uuid "18b87bce-886c-45a8-9f76-975911250be1")
 		(property "Reference" "UPCH1"
-			(at 222.25 160.02 0)
+			(at 401.32 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98715,7 +99815,7 @@
 			)
 		)
 		(property "Value" "Intel Cannon Point 300-Series Platform Controller Hub"
-			(at 222.25 162.56 0)
+			(at 401.32 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98723,7 +99823,7 @@
 			)
 		)
 		(property "Footprint" "A-my-stuff:CNP-H_BGA_874P-T"
-			(at 222.25 158.75 0)
+			(at 401.32 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98732,7 +99832,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.25 190.5 0)
+			(at 401.32 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -98741,7 +99841,7 @@
 			)
 		)
 		(property "Description" "Intel Cannon Point 300-Series Platform Controller Hub"
-			(at 222.25 156.21 0)
+			(at 401.32 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -101382,7 +102482,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 285.75 73.66 180)
+		(at 232.41 294.64 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -101390,7 +102490,7 @@
 		(dnp yes)
 		(uuid "1aa6970d-94f8-4d8e-b4e9-5e28bd94effb")
 		(property "Reference" "R41"
-			(at 287.02 72.39 0)
+			(at 233.68 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -101399,7 +102499,7 @@
 			)
 		)
 		(property "Value" "1kΩ"
-			(at 287.02 74.93 0)
+			(at 233.68 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -101408,7 +102508,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 285.75 73.66 0)
+			(at 232.41 294.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -101417,7 +102517,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 285.75 73.66 0)
+			(at 232.41 294.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -101426,7 +102526,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 285.75 73.66 0)
+			(at 232.41 294.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104137,7 +105237,7 @@
 	(symbol
 		(lib_name "Intel_CFL_PCH_FCBGA874_but_better_2")
 		(lib_id "A-my-stuff:Intel_CFL_PCH_FCBGA874_but_better")
-		(at 222.25 50.8 0)
+		(at 168.91 271.78 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -104146,7 +105246,7 @@
 		(fields_autoplaced yes)
 		(uuid "4bb0a616-4597-4b06-aa05-4617267b8644")
 		(property "Reference" "UPCH1"
-			(at 222.25 20.32 0)
+			(at 168.91 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104154,7 +105254,7 @@
 			)
 		)
 		(property "Value" "Intel Cannon Point 300-Series Platform Controller Hub"
-			(at 222.25 22.86 0)
+			(at 168.91 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104162,7 +105262,7 @@
 			)
 		)
 		(property "Footprint" "A-my-stuff:CNP-H_BGA_874P-T"
-			(at 222.25 19.05 0)
+			(at 168.91 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104171,7 +105271,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.25 50.8 0)
+			(at 168.91 271.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104180,7 +105280,7 @@
 			)
 		)
 		(property "Description" "Intel Cannon Point 300-Series Platform Controller Hub"
-			(at 222.25 16.51 0)
+			(at 168.91 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109505,7 +110605,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 271.78 57.15 90)
+		(at 218.44 278.13 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -109513,7 +110613,7 @@
 		(dnp no)
 		(uuid "da5cc31c-5dad-41d5-b13f-4ad228608ffc")
 		(property "Reference" "R38"
-			(at 267.97 55.88 90)
+			(at 214.63 276.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109521,7 +110621,7 @@
 			)
 		)
 		(property "Value" "619Ω"
-			(at 276.86 55.88 90)
+			(at 223.52 276.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109529,7 +110629,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 271.78 57.15 0)
+			(at 218.44 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109538,7 +110638,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 271.78 57.15 0)
+			(at 218.44 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109547,7 +110647,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 271.78 57.15 0)
+			(at 218.44 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109572,7 +110672,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 285.75 78.74 0)
+		(at 232.41 299.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -109580,7 +110680,7 @@
 		(dnp no)
 		(uuid "ed63cbc8-2685-45df-af5c-7235c46737d7")
 		(property "Reference" "#PWR045"
-			(at 285.75 85.09 0)
+			(at 232.41 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109589,7 +110689,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 285.75 82.55 0)
+			(at 232.41 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109597,7 +110697,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 285.75 78.74 0)
+			(at 232.41 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109606,7 +110706,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 285.75 78.74 0)
+			(at 232.41 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109615,7 +110715,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 285.75 78.74 0)
+			(at 232.41 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109638,7 +110738,7 @@
 	(symbol
 		(lib_name "Intel_CFL_PCH_FCBGA874_but_better_1")
 		(lib_id "A-my-stuff:Intel_CFL_PCH_FCBGA874_but_better")
-		(at 95.25 50.8 0)
+		(at 167.64 58.42 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -109647,7 +110747,7 @@
 		(fields_autoplaced yes)
 		(uuid "f625e091-44a1-4130-baec-ccc3d4d9b4a5")
 		(property "Reference" "UPCH1"
-			(at 95.25 20.32 0)
+			(at 167.64 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109655,7 +110755,7 @@
 			)
 		)
 		(property "Value" "Intel Cannon Point 300-Series Platform Controller Hub"
-			(at 95.25 22.86 0)
+			(at 167.64 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109663,7 +110763,7 @@
 			)
 		)
 		(property "Footprint" "A-my-stuff:CNP-H_BGA_874P-T"
-			(at 95.25 19.05 0)
+			(at 167.64 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109672,7 +110772,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 50.8 0)
+			(at 167.64 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109681,7 +110781,7 @@
 			)
 		)
 		(property "Description" "Intel Cannon Point 300-Series Platform Controller Hub"
-			(at 95.25 16.51 0)
+			(at 167.64 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)

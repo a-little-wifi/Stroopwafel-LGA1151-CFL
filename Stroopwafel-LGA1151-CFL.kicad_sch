@@ -9,6 +9,10 @@
 		(company "WifiCable")
 		(comment 1 "WCFC WC-B551")
 		(comment 3 "stroopwafel for your coffee (lake)")
+		(comment 6 "WCFC? WifiCable Future Center?")
+		(comment 7 "LWFC? Little Wifi Future Center lol")
+		(comment 8 "idk if LCFC would like that.....")
+		(comment 9 "but it would be funny")
 	)
 	(lib_symbols)
 	(rectangle
@@ -67,7 +71,7 @@
 	)
 	(rectangle
 		(start 26.035 57.785)
-		(end 117.475 153.67)
+		(end 117.475 154.94)
 		(stroke
 			(width 0.635)
 			(type default)
@@ -147,7 +151,7 @@
 	)
 	(rectangle
 		(start 25.4 50.8)
-		(end 118.11 154.305)
+		(end 118.11 155.575)
 		(stroke
 			(width 0.635)
 			(type default)
@@ -774,6 +778,17 @@
 	)
 	(polyline
 		(pts
+			(xy 26.67 149.86) (xy 116.84 149.86)
+		)
+		(stroke
+			(width 0.635)
+			(type default)
+			(color 116 116 116 1)
+		)
+		(uuid "479880a8-cc72-4a94-8a79-8ad11069b918")
+	)
+	(polyline
+		(pts
 			(xy 26.67 73.66) (xy 116.84 73.66)
 		)
 		(stroke
@@ -983,6 +998,17 @@
 	)
 	(polyline
 		(pts
+			(xy 26.67 139.7) (xy 116.84 139.7)
+		)
+		(stroke
+			(width 0.635)
+			(type default)
+			(color 116 116 116 1)
+		)
+		(uuid "9a31b237-bae9-437b-86f0-e226dabfc64c")
+	)
+	(polyline
+		(pts
 			(xy 26.67 124.46) (xy 116.84 124.46)
 		)
 		(stroke
@@ -1024,6 +1050,17 @@
 			(color 116 116 116 1)
 		)
 		(uuid "a017fe39-183d-45fb-b2cc-4c26093a5728")
+	)
+	(polyline
+		(pts
+			(xy 26.67 144.78) (xy 116.84 144.78)
+		)
+		(stroke
+			(width 0.635)
+			(type default)
+			(color 116 116 116 1)
+		)
+		(uuid "a03ef319-1799-4ef3-b58e-ea9775de078a")
 	)
 	(polyline
 		(pts
@@ -1181,7 +1218,7 @@
 	)
 	(polyline
 		(pts
-			(xy 70.485 58.42) (xy 70.485 153.035)
+			(xy 70.485 58.42) (xy 70.485 154.305)
 		)
 		(stroke
 			(width 0.635)
@@ -1192,7 +1229,7 @@
 	)
 	(polyline
 		(pts
-			(xy 31.115 58.42) (xy 31.115 153.035)
+			(xy 31.115 58.42) (xy 31.115 154.305)
 		)
 		(stroke
 			(width 0.635)
@@ -13783,6 +13820,47 @@
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
 					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 150.495)
+		(size 38.1 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "53fbc0e6-f9f1-45a8-b6b8-b5cb47ed2858")
+		(property "Sheetname" "TODO-signals"
+			(at 31.75 153.035 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TODO-signals.kicad_sch"
+			(at 71.12 151.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
+					(page "20")
 				)
 			)
 		)

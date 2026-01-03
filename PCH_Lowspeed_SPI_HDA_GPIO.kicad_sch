@@ -791,6 +791,28 @@
 						(type background)
 					)
 				)
+				(rectangle
+					(start -31.75 -114.3)
+					(end -31.115 -124.46)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -15.875 -120.015)
+					(end -15.24 -130.175)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(polyline
 					(pts
 						(xy -4.826 -114.3) (xy -4.826 -158.75)
@@ -1341,6 +1363,14 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+				(text "= GbE"
+					(at -11.43 -125.095 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
 				(text "PCIe Controller #2"
@@ -4207,6 +4237,39 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+				(rectangle
+					(start -38.1 -12.7)
+					(end -37.465 -22.86)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -46.99)
+					(end -37.465 -57.15)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -59.69)
+					(end -37.465 -69.85)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
 					)
 				)
 				(polyline
@@ -19328,6 +19391,28 @@
 						(type background)
 					)
 				)
+				(rectangle
+					(start -31.75 -114.3)
+					(end -31.115 -124.46)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -15.875 -120.015)
+					(end -15.24 -130.175)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(polyline
 					(pts
 						(xy -4.826 -114.3) (xy -4.826 -158.75)
@@ -19878,6 +19963,14 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+				(text "= GbE"
+					(at -11.43 -125.095 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
 				(text "PCIe Controller #2"
@@ -22744,6 +22837,39 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+				(rectangle
+					(start -38.1 -12.7)
+					(end -37.465 -22.86)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -46.99)
+					(end -37.465 -57.15)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -59.69)
+					(end -37.465 -69.85)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
 					)
 				)
 				(polyline
@@ -37740,6 +37866,28 @@
 						(type background)
 					)
 				)
+				(rectangle
+					(start -31.75 -114.3)
+					(end -31.115 -124.46)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -15.875 -120.015)
+					(end -15.24 -130.175)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(polyline
 					(pts
 						(xy -4.826 -114.3) (xy -4.826 -158.75)
@@ -38290,6 +38438,14 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+				(text "= GbE"
+					(at -11.43 -125.095 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
 				(text "PCIe Controller #2"
@@ -41156,6 +41312,39 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+				(rectangle
+					(start -38.1 -12.7)
+					(end -37.465 -22.86)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -46.99)
+					(end -37.465 -57.15)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -59.69)
+					(end -37.465 -69.85)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
 					)
 				)
 				(polyline
@@ -56152,6 +56341,28 @@
 						(type background)
 					)
 				)
+				(rectangle
+					(start -31.75 -114.3)
+					(end -31.115 -124.46)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -15.875 -120.015)
+					(end -15.24 -130.175)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(polyline
 					(pts
 						(xy -4.826 -114.3) (xy -4.826 -158.75)
@@ -56702,6 +56913,14 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+				(text "= GbE"
+					(at -11.43 -125.095 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
 				(text "PCIe Controller #2"
@@ -59568,6 +59787,39 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+				(rectangle
+					(start -38.1 -12.7)
+					(end -37.465 -22.86)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -46.99)
+					(end -37.465 -57.15)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -59.69)
+					(end -37.465 -69.85)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
 					)
 				)
 				(polyline
@@ -74564,6 +74816,28 @@
 						(type background)
 					)
 				)
+				(rectangle
+					(start -31.75 -114.3)
+					(end -31.115 -124.46)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -15.875 -120.015)
+					(end -15.24 -130.175)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(polyline
 					(pts
 						(xy -4.826 -114.3) (xy -4.826 -158.75)
@@ -75114,6 +75388,14 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+				(text "= GbE"
+					(at -11.43 -125.095 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
 				(text "PCIe Controller #2"
@@ -77980,6 +78262,39 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+				(rectangle
+					(start -38.1 -12.7)
+					(end -37.465 -22.86)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -46.99)
+					(end -37.465 -57.15)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -38.1 -59.69)
+					(end -37.465 -69.85)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
 					)
 				)
 				(polyline
@@ -92380,6 +92695,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 115.57) (xy 256.54 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcb5db98-f3dc-4a5d-a368-ac83abc33ce8")
+	)
+	(wire
+		(pts
 			(xy 167.64 62.23) (xy 172.72 62.23)
 		)
 		(stroke
@@ -92423,6 +92748,28 @@
 		(uuid "45cf9da8-f4cb-4583-bfd1-0e56648b2c3e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 144.9831 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CPU_PWRGD"
+		(shape output)
+		(at 261.62 115.57 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "659ec4f5-8b3c-4f31-beb2-8ad774992303")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 275.9747 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -95306,7 +95653,11 @@
 			(uuid "ebde5b28-676a-4b69-b93a-988d93fbc6bd")
 		)
 		(instances
-			(project "Stroopwafel-LGA1151-CFL"
+			(project ""
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
+					(reference "UPCH1")
+					(unit 10)
+				)
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/cd978078-9495-426d-921d-88f146c11707"
 					(reference "UPCH1")
 					(unit 10)
@@ -97991,7 +98342,11 @@
 			(uuid "37ad3777-c907-4d2d-880a-b84e1083976e")
 		)
 		(instances
-			(project "Stroopwafel-LGA1151-CFL"
+			(project ""
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
+					(reference "UPCH1")
+					(unit 5)
+				)
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/cd978078-9495-426d-921d-88f146c11707"
 					(reference "UPCH1")
 					(unit 5)
@@ -100676,7 +101031,11 @@
 			(uuid "3bcf8867-1b3a-4568-ac63-9df05b49d981")
 		)
 		(instances
-			(project "Stroopwafel-LGA1151-CFL"
+			(project ""
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
+					(reference "UPCH1")
+					(unit 1)
+				)
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/cd978078-9495-426d-921d-88f146c11707"
 					(reference "UPCH1")
 					(unit 1)
@@ -103495,7 +103854,11 @@
 			(uuid "1ca4c4a9-d4bc-4eea-a8c0-035640377d57")
 		)
 		(instances
-			(project "Stroopwafel-LGA1151-CFL"
+			(project ""
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
+					(reference "UPCH1")
+					(unit 11)
+				)
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/cd978078-9495-426d-921d-88f146c11707"
 					(reference "UPCH1")
 					(unit 11)
@@ -106314,7 +106677,11 @@
 			(uuid "a0b2784e-bee3-4597-8eec-3a2e406bef15")
 		)
 		(instances
-			(project "Stroopwafel-LGA1151-CFL"
+			(project ""
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/55a4f655-ea62-4675-bc34-60bbcfd07a2f"
+					(reference "UPCH1")
+					(unit 4)
+				)
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/cd978078-9495-426d-921d-88f146c11707"
 					(reference "UPCH1")
 					(unit 4)
