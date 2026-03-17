@@ -480,6 +480,19 @@
 		)
 		(uuid "c15e42ea-6126-4d3c-9e09-65e808404a51")
 	)
+	(text "16."
+		(exclude_from_sim no)
+		(at 28.702 137.922 0)
+		(effects
+			(font
+				(size 1.651 1.651)
+				(thickness 0.381)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "cac37695-2c13-4a84-9788-315d57233ae6")
+	)
 	(text "4."
 		(exclude_from_sim no)
 		(at 28.702 76.835 0)
@@ -13620,7 +13633,7 @@
 		)
 	)
 	(sheet
-		(at 31.75 125.095)
+		(at 31.75 109.855)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13635,7 +13648,7 @@
 		)
 		(uuid "01fb967e-a450-4398-b24a-185552be6693")
 		(property "Sheetname" "Display_ports"
-			(at 31.75 127.635 0)
+			(at 31.75 112.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13644,7 +13657,7 @@
 			)
 		)
 		(property "Sheetfile" "Display_ports.kicad_sch"
-			(at 71.12 126.365 0)
+			(at 71.12 111.125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13655,13 +13668,13 @@
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
-					(page "14")
+					(page "11")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 31.75 69.215)
+		(at 31.75 74.295)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13676,7 +13689,7 @@
 		)
 		(uuid "061fe2d6-87c2-48c2-90bb-0928700512fc")
 		(property "Sheetname" "CPU_PEG_DMI"
-			(at 31.75 71.755 0)
+			(at 31.75 76.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13685,7 +13698,7 @@
 			)
 		)
 		(property "Sheetfile" "CPU_PEG_DMI.kicad_sch"
-			(at 71.12 70.485 0)
+			(at 71.12 75.565 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13696,13 +13709,13 @@
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
-					(page "3")
+					(page "4")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 31.75 79.375)
+		(at 31.75 84.455)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13717,7 +13730,7 @@
 		)
 		(uuid "1c68e8a0-095a-4b5e-9e5b-76592d9951b4")
 		(property "Sheetname" "CPU_CLK_CFG_VID_JTAG"
-			(at 31.75 81.915 0)
+			(at 31.75 86.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13726,7 +13739,7 @@
 			)
 		)
 		(property "Sheetfile" "CPU_CLK_CFG_VID_JTAG.kicad_sch"
-			(at 71.12 80.645 0)
+			(at 71.12 85.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13737,13 +13750,54 @@
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
-					(page "5")
+					(page "6")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 31.75 109.855)
+		(at 31.75 104.775)
+		(size 38.1 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1cc29589-f48f-4970-93e1-a350fd5c05e9")
+		(property "Sheetname" "PCIe_CPU"
+			(at 31.75 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PCIe_CPU.kicad_sch"
+			(at 71.12 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 130.175)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13758,7 +13812,7 @@
 		)
 		(uuid "2db60b63-e8b1-46b6-baaa-324b159aae35")
 		(property "Sheetname" "PCH_VCC_GND"
-			(at 31.75 112.395 0)
+			(at 31.75 132.715 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13767,7 +13821,7 @@
 			)
 		)
 		(property "Sheetfile" "PCH_VCC_GND.kicad_sch"
-			(at 71.12 111.125 0)
+			(at 71.12 131.445 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13778,7 +13832,7 @@
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
-					(page "11")
+					(page "15")
 				)
 			)
 		)
@@ -13797,8 +13851,8 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "5036d382-d60b-4069-a42a-4bbea2c68172")
-		(property "Sheetname" "CPU_VCC"
+		(uuid "34eea574-83b7-43c5-9310-b6ae770b8feb")
+		(property "Sheetname" "CPU_Power"
 			(at 31.75 92.075 0)
 			(effects
 				(font
@@ -13807,7 +13861,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "CPU_VCC.kicad_sch"
+		(property "Sheetfile" "CPU_Power.kicad_sch"
 			(at 71.12 90.805 0)
 			(effects
 				(font
@@ -13820,6 +13874,47 @@
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
 					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 114.935)
+		(size 38.1 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3d23049b-145b-483e-9fd8-d3acf0eefa61")
+		(property "Sheetname" "Interconnect"
+			(at 31.75 117.475 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Interconnect.kicad_sch"
+			(at 71.12 116.205 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
+					(page "12")
 				)
 			)
 		)
@@ -13866,7 +13961,7 @@
 		)
 	)
 	(sheet
-		(at 31.75 99.695)
+		(at 31.75 120.015)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13881,129 +13976,6 @@
 		)
 		(uuid "55a4f655-ea62-4675-bc34-60bbcfd07a2f")
 		(property "Sheetname" "PCH_Highspeed_Clock_LPC_eSPI"
-			(at 31.75 102.235 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "PCH_Highspeed_Clock_LPC_eSPI.kicad_sch"
-			(at 71.12 100.965 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Stroopwafel-LGA1151-CFL"
-				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
-					(page "9")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 31.75 114.935)
-		(size 38.1 3.81)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "57f1b619-5b75-4a52-9868-2ca62c3e3ae1")
-		(property "Sheetname" "DDR4_slots"
-			(at 31.75 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "DDR4_slots.kicad_sch"
-			(at 71.12 116.205 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Stroopwafel-LGA1151-CFL"
-				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
-					(page "12")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 31.75 84.455)
-		(size 38.1 3.81)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "61df14ea-2065-4751-84ed-7e7cf71220e9")
-		(property "Sheetname" "CPU_GND"
-			(at 31.75 86.995 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "CPU_GND.kicad_sch"
-			(at 71.12 85.725 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Stroopwafel-LGA1151-CFL"
-				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
-					(page "6")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 31.75 120.015)
-		(size 38.1 3.81)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "7ff27d26-2496-4a9b-9ad6-7ba6a44f9b97")
-		(property "Sheetname" "PCIe_slots"
 			(at 31.75 122.555 0)
 			(effects
 				(font
@@ -14012,7 +13984,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "PCIe_slots.kicad_sch"
+		(property "Sheetfile" "PCH_Highspeed_Clock_LPC_eSPI.kicad_sch"
 			(at 71.12 121.285 0)
 			(effects
 				(font
@@ -14030,7 +14002,89 @@
 		)
 	)
 	(sheet
-		(at 31.75 104.775)
+		(at 31.75 99.695)
+		(size 38.1 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "57f1b619-5b75-4a52-9868-2ca62c3e3ae1")
+		(property "Sheetname" "DDR4_slots"
+			(at 31.75 102.235 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DDR4_slots.kicad_sch"
+			(at 71.12 100.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 135.255)
+		(size 38.1 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "87ba242e-db57-42ad-823a-15d1e1133911")
+		(property "Sheetname" "PCIe_PCH"
+			(at 31.75 137.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PCIe_PCH.kicad_sch"
+			(at 71.12 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 125.095)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14045,7 +14099,7 @@
 		)
 		(uuid "cd978078-9495-426d-921d-88f146c11707")
 		(property "Sheetname" "PCH_Lowspeed_SPI_HDA_GPIO"
-			(at 31.75 107.315 0)
+			(at 31.75 127.635 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14054,7 +14108,7 @@
 			)
 		)
 		(property "Sheetfile" "PCH_Lowspeed_SPI_HDA_GPIO.kicad_sch"
-			(at 71.12 106.045 0)
+			(at 71.12 126.365 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14065,13 +14119,13 @@
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
-					(page "10")
+					(page "14")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 31.75 64.135)
+		(at 31.75 69.215)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14086,7 +14140,7 @@
 		)
 		(uuid "deeadc73-acb4-40d7-9415-61f11f304ecd")
 		(property "Sheetname" "CPU_Memory"
-			(at 31.75 66.675 0)
+			(at 31.75 71.755 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14095,7 +14149,7 @@
 			)
 		)
 		(property "Sheetfile" "CPU_Memory.kicad_sch"
-			(at 71.12 65.405 0)
+			(at 71.12 70.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14106,13 +14160,13 @@
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
-					(page "2")
+					(page "3")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 31.75 130.175)
+		(at 31.75 145.415)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14127,7 +14181,7 @@
 		)
 		(uuid "e0b20d4f-7794-41ca-a81f-d58e60c6781b")
 		(property "Sheetname" "EC"
-			(at 31.75 132.715 0)
+			(at 31.75 147.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14136,7 +14190,7 @@
 			)
 		)
 		(property "Sheetfile" "EC.kicad_sch"
-			(at 71.12 131.445 0)
+			(at 71.12 146.685 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14147,7 +14201,7 @@
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
-					(page "15")
+					(page "19")
 				)
 			)
 		)
@@ -14194,7 +14248,7 @@
 		)
 	)
 	(sheet
-		(at 31.75 74.295)
+		(at 31.75 79.375)
 		(size 38.1 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14209,7 +14263,7 @@
 		)
 		(uuid "f32a0628-54c2-4f5a-8fa3-eb09958bebe4")
 		(property "Sheetname" "CPU_Display"
-			(at 31.75 76.835 0)
+			(at 31.75 81.915 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14218,7 +14272,7 @@
 			)
 		)
 		(property "Sheetfile" "CPU_Display.kicad_sch"
-			(at 71.12 75.565 0)
+			(at 71.12 80.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14229,7 +14283,48 @@
 		(instances
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
-					(page "4")
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 64.135)
+		(size 38.1 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f888a0e6-6373-42f6-bbee-59616c3d0232")
+		(property "Sheetname" "Block diagram"
+			(at 31.75 66.675 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Blockdiagram.kicad_sch"
+			(at 71.12 65.405 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83"
+					(page "2")
 				)
 			)
 		)

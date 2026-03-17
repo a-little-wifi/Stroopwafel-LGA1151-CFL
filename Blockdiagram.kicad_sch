@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "f58d7cd9-c7a1-4bd5-a3a3-610108f7f579")
+	(paper "A4")
+	(title_block
+		(title "Block diagram")
+		(company "WifiCable")
+	)
+	(lib_symbols)
+)

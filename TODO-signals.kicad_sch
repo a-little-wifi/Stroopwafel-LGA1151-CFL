@@ -10,6 +10,18 @@
 	)
 	(lib_symbols)
 	(rectangle
+		(start 20.32 39.37)
+		(end 114.3 49.53)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 27e2ccba-ca63-4971-93f1-2ad9fc171426)
+	)
+	(rectangle
 		(start 20.32 22.86)
 		(end 114.3 36.83)
 		(stroke
@@ -20,6 +32,17 @@
 			(type none)
 		)
 		(uuid 8f32d312-96c4-416b-816d-dcd097cfd077)
+	)
+	(text "connect from CPU vrom VR READY signal to CPU? with some control based on sleep state?\nlook into more when building vrm"
+		(exclude_from_sim no)
+		(at 21.59 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "047f2ac1-a2d1-4ee9-aa07-a5099663cbae")
 	)
 	(text "This page contains notes about signals I've researched the purpose and functionality of but not yet implemented"
 		(exclude_from_sim no)
