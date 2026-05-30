@@ -22033,50 +22033,6 @@
 		)
 		(uuid "fca2212b-9161-465a-8590-63362226730c")
 	)
-	(global_label "DMI_CTx_PRx_2+"
-		(shape input)
-		(at 149.86 171.45 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "086a63ee-f4c5-4775-b1cb-3c3838b1248e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.6899 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DMI_CRx_PTx_3-"
-		(shape input)
-		(at 83.82 181.61 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "087ec2ee-ccfa-4b55-be40-94a431af5852")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.9901 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "PCIe_CPU_Tx10+"
 		(shape input)
 		(at 152.4 100.33 0)
@@ -22165,6 +22121,28 @@
 			)
 		)
 	)
+	(global_label "N_DMI_CTx_PRx_0+"
+		(shape input)
+		(at 149.86 156.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0ea47be1-48ab-4263-98d4-8f9a2ff7425d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.6899 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PCIe_CPU_Rx1-"
 		(shape input)
 		(at 81.28 34.29 180)
@@ -22187,7 +22165,29 @@
 			)
 		)
 	)
-	(global_label "DMI_CRx_PTx_0-"
+	(global_label "N_DMI_CRx_PTx_2-"
+		(shape input)
+		(at 83.82 173.99 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "126f0c32-2af8-4431-a0f4-64705634eaae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.9901 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "N_DMI_CRx_PTx_0-"
 		(shape input)
 		(at 83.82 158.75 180)
 		(fields_autoplaced yes)
@@ -22197,7 +22197,7 @@
 			)
 			(justify right)
 		)
-		(uuid "106d07b7-79cb-42f8-8610-4a6bcb08485a")
+		(uuid "12b106d0-fb84-4340-a282-6e56a256ec7e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 64.9901 158.75 0)
 			(effects
@@ -22275,28 +22275,6 @@
 			)
 		)
 	)
-	(global_label "DMI_CTx_PRx_3-"
-		(shape input)
-		(at 149.86 181.61 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1a1f34a2-36d5-4a4b-b0e9-28faf41cc0c1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.6899 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "PCIe_CPU_Rx2+"
 		(shape input)
 		(at 81.28 39.37 180)
@@ -22341,28 +22319,6 @@
 			)
 		)
 	)
-	(global_label "DMI_CTx_PRx_1-"
-		(shape input)
-		(at 149.86 166.37 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1fbb70c8-7dc1-4405-a5c1-2195996891e1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.6899 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "PCIe_CPU_Tx1+"
 		(shape input)
 		(at 152.4 31.75 0)
@@ -22376,50 +22332,6 @@
 		(uuid "1ffbbf8c-2682-4b23-8f46-afefd6c15fd0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 170.2019 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DMI_CRx_PTx_1+"
-		(shape input)
-		(at 83.82 163.83 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "27271e85-eed7-4009-be24-0655e68a5d52")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.9901 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DMI_CTx_PRx_0-"
-		(shape input)
-		(at 149.86 158.75 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "29921dd3-6b43-4caf-b7a7-fef1f542ed2b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.6899 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22473,6 +22385,28 @@
 			)
 		)
 	)
+	(global_label "N_DMI_CTx_PRx_2+"
+		(shape input)
+		(at 149.86 171.45 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "348f64f0-952d-4985-afa2-3e87960a06fe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.6899 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PCIe_CPU_Rx9+"
 		(shape input)
 		(at 81.28 92.71 180)
@@ -22491,6 +22425,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "N_DMI_CTx_PRx_1+"
+		(shape input)
+		(at 149.86 163.83 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "38ba9614-9da3-4936-b3b8-05ec133b64c1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.6899 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -22517,9 +22473,9 @@
 			)
 		)
 	)
-	(global_label "DMI_CTx_PRx_1+"
+	(global_label "N_DMI_CTx_PRx_3+"
 		(shape input)
-		(at 149.86 163.83 0)
+		(at 149.86 179.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -22527,9 +22483,9 @@
 			)
 			(justify left)
 		)
-		(uuid "3ebea031-fed0-4be2-810b-5205f0d8fba1")
+		(uuid "3b0aef78-d634-43eb-b4f5-897df8f633b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.6899 163.83 0)
+			(at 168.6899 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22605,6 +22561,28 @@
 			)
 		)
 	)
+	(global_label "N_DMI_CTx_PRx_1-"
+		(shape input)
+		(at 149.86 166.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "55c93a8d-d632-43d3-bdee-37248fac4ea9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.6899 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PCIe_CPU_Tx2+"
 		(shape input)
 		(at 152.4 39.37 0)
@@ -22671,50 +22649,6 @@
 			)
 		)
 	)
-	(global_label "DMI_CRx_PTx_3+"
-		(shape input)
-		(at 83.82 179.07 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "66fe5e8d-f28c-45b5-9c54-fe5c384cbadd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.9901 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DMI_CTx_PRx_0+"
-		(shape input)
-		(at 149.86 156.21 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6b155c93-8298-4198-bdb5-b9b75929337e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.6899 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "PCIe_CPU_Rx14-"
 		(shape input)
 		(at 81.28 133.35 180)
@@ -22728,6 +22662,28 @@
 		(uuid "6cae666f-7f25-45a4-a7dd-ed3e79031247")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 63.4781 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "N_DMI_CRx_PTx_1-"
+		(shape input)
+		(at 83.82 166.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6ce75f2f-56f6-4c60-a047-dd958d02804a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.9901 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22847,28 +22803,6 @@
 			)
 		)
 	)
-	(global_label "DMI_CRx_PTx_1-"
-		(shape input)
-		(at 83.82 166.37 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "734687e5-5723-4ba0-9eaf-9d67add0c225")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.9901 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "PCIe_CPU_Rx1+"
 		(shape input)
 		(at 81.28 31.75 180)
@@ -22904,6 +22838,28 @@
 		(uuid "74622750-d640-419e-b2fc-78eea05893d6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 170.2019 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "N_DMI_CTx_PRx_2-"
+		(shape input)
+		(at 149.86 173.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "757ba99e-b60a-4e9a-b6c5-c1343cbbc02c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.6899 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22970,6 +22926,28 @@
 		(uuid "79a9ab42-682d-4db9-b5d8-9a26f6a61762")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 63.4781 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "N_DMI_CRx_PTx_3+"
+		(shape input)
+		(at 83.82 179.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7da03fbd-7c74-42c0-982c-0f740fe43c4a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.692 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23089,6 +23067,28 @@
 			)
 		)
 	)
+	(global_label "N_DMI_CRx_PTx_1+"
+		(shape input)
+		(at 83.82 163.83 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "88e41a95-cf25-476f-9f84-cc7dfc51d37e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.9901 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PCIe_CPU_Tx1-"
 		(shape input)
 		(at 152.4 34.29 0)
@@ -23111,6 +23111,50 @@
 			)
 		)
 	)
+	(global_label "N_DMI_CRx_PTx_0+"
+		(shape input)
+		(at 83.82 156.21 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9057ccdd-9006-408f-b378-498ef8d1d3f4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.9901 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "N_DMI_CRx_PTx_2+"
+		(shape input)
+		(at 83.82 171.45 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "931a2c7e-d856-4010-9253-091053561243")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.9901 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PCIe_CPU_Rx11-"
 		(shape input)
 		(at 81.28 110.49 180)
@@ -23124,28 +23168,6 @@
 		(uuid "961f4766-8276-4161-a04b-e666367c57f1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 63.4781 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DMI_CRx_PTx_2+"
-		(shape input)
-		(at 83.82 171.45 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "98519a77-fd49-4421-9a0b-7707f664013d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.9901 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23173,6 +23195,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "N_DMI_CRx_PTx_3-"
+		(shape input)
+		(at 83.82 181.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a9bf190d-447a-4d77-84b0-4a42aa85afca")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.9901 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -23278,6 +23322,28 @@
 		(uuid "b465796a-e73e-4b72-979f-4619323b9a7e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 170.2019 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "N_DMI_CTx_PRx_3-"
+		(shape input)
+		(at 149.86 181.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b5ca1c50-750a-4959-95b1-58242c0e9e57")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.6899 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23463,50 +23529,6 @@
 			)
 		)
 	)
-	(global_label "DMI_CTx_PRx_2-"
-		(shape input)
-		(at 149.86 173.99 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c3adfbbc-d74b-4ce1-87ad-67d139ce3e6c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.6899 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DMI_CRx_PTx_2-"
-		(shape input)
-		(at 83.82 173.99 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c5917399-9fc0-414f-9a20-8f29336a49ac")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.9901 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "PCIe_CPU_Rx15+"
 		(shape input)
 		(at 81.28 138.43 180)
@@ -23569,28 +23591,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DMI_CTx_PRx_3+"
-		(shape input)
-		(at 149.86 179.07 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "caf9a8d3-7200-4e62-8b7e-bcc498f18e38")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.6899 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -23661,6 +23661,28 @@
 			)
 		)
 	)
+	(global_label "N_DMI_CTx_PRx_0-"
+		(shape input)
+		(at 149.86 158.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "da19874f-2aff-4195-a6f7-241f60d99b7c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.6899 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PCIe_CPU_Tx13+"
 		(shape input)
 		(at 152.4 123.19 0)
@@ -23679,28 +23701,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DMI_CRx_PTx_0+"
-		(shape input)
-		(at 83.82 156.21 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e61d3f64-7a24-48c3-b135-bf5a8a1a3a73")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.9901 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)

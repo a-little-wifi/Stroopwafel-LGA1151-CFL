@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "b2230685-8484-46f8-9031-9b62ee51c0c9")
 	(paper "A4")
+	(title_block
+		(title "Embedded Controller")
+		(company "WifiCable")
+	)
 	(lib_symbols)
 	(global_label "PECI_EC"
 		(shape input)

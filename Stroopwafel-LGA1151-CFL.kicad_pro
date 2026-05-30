@@ -640,7 +640,7 @@
       },
       {
         "netclass": "DMI",
-        "pattern": "DMI*"
+        "pattern": "N_DMI*"
       },
       {
         "netclass": "GND",
@@ -697,6 +697,10 @@
       {
         "netclass": "PCIe-PCH",
         "pattern": "*PCIe{slash}SATA_Tx*"
+      },
+      {
+        "netclass": "DMI",
+        "pattern": "S_DMI*"
       }
     ]
   },
