@@ -237,22 +237,28 @@
 		(uuid "0a0e6977-b11e-4e27-9bb6-e90f25c00f00")
 	)
 	(junction
-		(at 49.53 49.53)
+		(at 62.23 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "18ee09be-b5b7-452e-b83e-63eee4b2e00c")
-	)
-	(junction
-		(at 49.53 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1f90e62b-507f-4f14-a637-39e1ac2daf8b")
+		(uuid "0f9047be-bcb5-4661-aa4e-e735082e6eed")
 	)
 	(junction
 		(at 34.29 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2e86a672-e410-4e68-8d84-27107f767762")
+	)
+	(junction
+		(at 74.93 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "550e63a9-1cbc-4dc6-a9db-50dc44fd2eee")
+	)
+	(junction
+		(at 62.23 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "614eabd2-8d6a-42a7-8fa9-55f0a84e8e06")
 	)
 	(junction
 		(at 36.83 58.42)
@@ -273,20 +279,42 @@
 		(uuid "a5fe995a-e6d9-48ec-be4a-6e6f5c89cde5")
 	)
 	(junction
-		(at 49.53 58.42)
+		(at 49.53 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f577ae39-d464-4ff2-bd14-00833f7bac7a")
+		(uuid "e23458ce-3eb8-493a-903a-83a84fcfd5cd")
+	)
+	(junction
+		(at 74.93 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fdf911a6-cbc2-456d-9606-da8caa0dee2d")
+	)
+	(junction
+		(at 74.93 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fea3c007-a360-4a87-872a-685d22d01a51")
 	)
 	(wire
 		(pts
-			(xy 49.53 57.15) (xy 49.53 58.42)
+			(xy 74.93 57.15) (xy 74.93 58.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "21788f19-9b44-47e1-b7fb-a92e5ca50a6f")
+		(uuid "14382cc1-08e5-4949-88c7-49665becc81d")
+	)
+	(wire
+		(pts
+			(xy 74.93 48.26) (xy 74.93 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a981b8c-1071-47ae-b107-c9bb2c2d4f96")
 	)
 	(wire
 		(pts
@@ -310,13 +338,23 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 39.37) (xy 60.96 40.64)
+			(xy 86.36 39.37) (xy 86.36 40.64)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "352ef19b-c8f4-434d-b454-4d92e455c147")
+	)
+	(wire
+		(pts
+			(xy 62.23 48.26) (xy 62.23 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39a7964a-ef19-43b3-a936-bd0f48799237")
 	)
 	(wire
 		(pts
@@ -330,6 +368,16 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 49.53) (xy 62.23 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "572fc994-eab0-4cf1-bf84-6299815382f6")
+	)
+	(wire
+		(pts
 			(xy 34.29 58.42) (xy 34.29 60.96)
 		)
 		(stroke
@@ -340,7 +388,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 48.26) (xy 60.96 49.53)
+			(xy 86.36 48.26) (xy 86.36 49.53)
 		)
 		(stroke
 			(width 0)
@@ -357,6 +405,16 @@
 			(type default)
 		)
 		(uuid "682de5b4-bdb0-42cd-8ac4-5b5772a13237")
+	)
+	(wire
+		(pts
+			(xy 62.23 40.64) (xy 74.93 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f36176b-dbd5-45bf-940b-76d2440e282f")
 	)
 	(wire
 		(pts
@@ -380,7 +438,17 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 58.42) (xy 49.53 58.42)
+			(xy 74.93 39.37) (xy 74.93 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7806fef4-70a4-4e04-8e5d-fbef087665ef")
+	)
+	(wire
+		(pts
+			(xy 36.83 58.42) (xy 74.93 58.42)
 		)
 		(stroke
 			(width 0)
@@ -390,7 +458,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 49.53) (xy 60.96 49.53)
+			(xy 74.93 49.53) (xy 86.36 49.53)
 		)
 		(stroke
 			(width 0)
@@ -400,7 +468,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 40.64) (xy 49.53 40.64)
+			(xy 36.83 40.64) (xy 62.23 40.64)
 		)
 		(stroke
 			(width 0)
@@ -410,7 +478,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 58.42) (xy 60.96 58.42)
+			(xy 74.93 58.42) (xy 86.36 58.42)
 		)
 		(stroke
 			(width 0)
@@ -420,7 +488,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 57.15) (xy 60.96 58.42)
+			(xy 86.36 57.15) (xy 86.36 58.42)
 		)
 		(stroke
 			(width 0)
@@ -470,7 +538,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 39.37) (xy 49.53 40.64)
+			(xy 62.23 39.37) (xy 62.23 40.64)
 		)
 		(stroke
 			(width 0)
@@ -480,13 +548,23 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 40.64) (xy 60.96 40.64)
+			(xy 74.93 40.64) (xy 86.36 40.64)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f74cb89e-04ca-425f-8c43-72e6b3741799")
+	)
+	(wire
+		(pts
+			(xy 62.23 49.53) (xy 74.93 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9b4149f-5878-4872-80ea-31e036ef4a96")
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
@@ -557,7 +635,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 60.96 45.72 0)
+		(at 86.36 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -566,7 +644,7 @@
 		(fields_autoplaced yes)
 		(uuid "508ce299-6f23-4557-a756-03263fb362c3")
 		(property "Reference" "H6"
-			(at 63.5 43.1799 0)
+			(at 88.9 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -575,7 +653,7 @@
 			)
 		)
 		(property "Value" "ATX_J"
-			(at 63.5 45.7199 0)
+			(at 88.9 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -584,7 +662,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 60.96 45.72 0)
+			(at 86.36 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -593,7 +671,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 45.72 0)
+			(at 86.36 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -602,7 +680,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 60.96 45.72 0)
+			(at 86.36 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -624,7 +702,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 60.96 36.83 0)
+		(at 86.36 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -633,7 +711,7 @@
 		(fields_autoplaced yes)
 		(uuid "66f43219-1217-4ad1-88f1-6ffd3e9aeab6")
 		(property "Reference" "H3"
-			(at 63.5 34.2899 0)
+			(at 88.9 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -642,7 +720,7 @@
 			)
 		)
 		(property "Value" "ATX_F"
-			(at 63.5 36.8299 0)
+			(at 88.9 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -651,7 +729,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 60.96 36.83 0)
+			(at 86.36 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -660,7 +738,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 36.83 0)
+			(at 86.36 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -669,7 +747,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 60.96 36.83 0)
+			(at 86.36 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -698,8 +776,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "9260c7d1-ccfd-4c93-9be3-d8e00cde146a")
-		(property "Reference" "H5"
+		(uuid "692fbccd-c931-4a09-a9ca-29162fa6f844")
+		(property "Reference" "H11"
 			(at 52.07 43.1799 0)
 			(effects
 				(font
@@ -708,7 +786,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATX_H"
+		(property "Value" "mATX_R"
 			(at 52.07 45.7199 0)
 			(effects
 				(font
@@ -745,6 +823,73 @@
 			)
 		)
 		(pin "1"
+			(uuid "4869017b-b1b5-4aa3-bedb-02c9bc582e7e")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/f888a0e6-6373-42f6-bbee-59616c3d0232"
+					(reference "H11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 74.93 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9260c7d1-ccfd-4c93-9be3-d8e00cde146a")
+		(property "Reference" "H5"
+			(at 77.47 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ATX_H"
+			(at 77.47 45.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
+			(at 74.93 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 74.93 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 74.93 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
 			(uuid "150230f5-0de5-4759-b270-44aa91c47fe3")
 		)
 		(instances
@@ -758,7 +903,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 49.53 36.83 0)
+		(at 74.93 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -767,7 +912,7 @@
 		(fields_autoplaced yes)
 		(uuid "960a99f1-a75b-40df-bfc8-ca923fadeb76")
 		(property "Reference" "H2"
-			(at 52.07 34.2899 0)
+			(at 77.47 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -776,7 +921,7 @@
 			)
 		)
 		(property "Value" "ATX_C"
-			(at 52.07 36.8299 0)
+			(at 77.47 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -785,7 +930,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 49.53 36.83 0)
+			(at 74.93 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -794,7 +939,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 36.83 0)
+			(at 74.93 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -803,7 +948,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 49.53 36.83 0)
+			(at 74.93 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -825,16 +970,16 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 49.53 54.61 0)
+		(at 62.23 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "bb6db20f-aee8-4b13-90cb-727bccc3ba74")
-		(property "Reference" "H8"
-			(at 52.07 52.0699 0)
+		(uuid "b4b83257-b2d5-4cee-b5a3-4d5402bd401d")
+		(property "Reference" "H10"
+			(at 64.77 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -842,8 +987,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATX_L"
-			(at 52.07 54.6099 0)
+		(property "Value" "mATX_B"
+			(at 64.77 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -852,7 +997,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 49.53 54.61 0)
+			(at 62.23 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -861,7 +1006,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 54.61 0)
+			(at 62.23 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -870,7 +1015,74 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 49.53 54.61 0)
+			(at 62.23 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "44172afa-e73f-42f0-bde7-779d33ef521d")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/f888a0e6-6373-42f6-bbee-59616c3d0232"
+					(reference "H10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 74.93 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "bb6db20f-aee8-4b13-90cb-727bccc3ba74")
+		(property "Reference" "H8"
+			(at 77.47 52.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ATX_L"
+			(at 77.47 54.6099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
+			(at 74.93 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 74.93 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 74.93 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -892,7 +1104,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 60.96 54.61 0)
+		(at 86.36 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -901,7 +1113,7 @@
 		(fields_autoplaced yes)
 		(uuid "d90a0e9d-8d89-40ca-a6f3-046c1bf319ea")
 		(property "Reference" "H9"
-			(at 63.5 52.0699 0)
+			(at 88.9 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -910,7 +1122,7 @@
 			)
 		)
 		(property "Value" "ATX_M"
-			(at 63.5 54.6099 0)
+			(at 88.9 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -919,7 +1131,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 60.96 54.61 0)
+			(at 86.36 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -928,7 +1140,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 54.61 0)
+			(at 86.36 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -937,7 +1149,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 60.96 54.61 0)
+			(at 86.36 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1084,6 +1296,73 @@
 			(project "Stroopwafel-LGA1151-CFL"
 				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/f888a0e6-6373-42f6-bbee-59616c3d0232"
 					(reference "#PWR054")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 62.23 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f9350d35-4d03-42b5-a731-44f1a29d1b80")
+		(property "Reference" "H12"
+			(at 64.77 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "mATX_S"
+			(at 64.77 45.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
+			(at 62.23 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 62.23 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "706e3dd5-913b-440c-b17c-03c56c972eec")
+		)
+		(instances
+			(project "Stroopwafel-LGA1151-CFL"
+				(path "/4bc771b8-eb19-46d0-8798-27231a7c6e83/f888a0e6-6373-42f6-bbee-59616c3d0232"
+					(reference "H12")
 					(unit 1)
 				)
 			)
